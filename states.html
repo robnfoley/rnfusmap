@@ -1,0 +1,43 @@
+<head>
+<!-- Plotly.js -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+<!-- Plotly chart will be drawn inside this DIV -->
+<div id="myDiv"></div>
+<script>
+ 
+Plotly.d3.csv('https://raw.githubusercontent.com/robnfoley/rnfusmap/master/states.csv', function(err, rows){
+      function unpack(rows, key) {
+          return rows.map(function(row) { return row[key]; });
+      }
+  console.log(unpack(rows, 'postal'));
+ var data = [{
+              type: 'choropleth',
+              locationmode: 'USA-states',
+              locations: unpack(rows, 'postal'),
+              z: unpack(rows, 'x'),
+              text: unpack(rows, 'state'),
+              colorscale: 'Greens',
+              reversescale: true
+          }];
+
+console.log(data.locations);
+  var layout = {
+          title: '2014 US Population by State',
+          geo:{
+            scope: 'usa',
+            countrycolor: 'rgb(255, 255, 255)',
+            showland: true,
+            landcolor: 'rgb(255, 255, 255)',
+            showlakes: true,
+            lakecolor: 'rgb(255, 255, 255)',
+            subunitcolor: 'rgb(255, 255, 255)',
+            lonaxis: {},
+            lataxis: {}
+          }
+      };
+      Plotly.plot(myDiv, data, layout, {showLink: false});
+  });
+</script>
+</body>
