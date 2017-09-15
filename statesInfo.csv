@@ -1,0 +1,51 @@
+st,capitol,lat,lon,state,stateCode
+Alabama,Montgomery,32.3617,-86.2792,AL,1
+Alaska,Juneau,58.3014,-134.422,AK,2
+Arizona,Phoenix,33.45,-112.067,AZ,4
+Arkansas,Little Rock,34.7361,-92.3311,AR,5
+California,Sacramento,38.5556,-121.469,CA,6
+Colorado,Denver,39.7618,-104.881,CO,8
+Connecticut,Hartford,41.7627,-72.6743,CT,9
+Delaware,Dover,39.1619,-75.5267,DE,10
+Florida,Tallahassee,30.455,-84.2533,FL,12
+Georgia,Atlanta,33.755,-84.39,GA,13
+Hawaii,Honolulu,21.3,-157.817,HI,15
+Idaho,Boise,43.6167,-116.2,ID,16
+Illinois,Springfield,39.6983,-89.6197,IL,17
+Indiana,Indianapolis,39.791,-86.148,IN,18
+Iowa,Des Moines,41.5908,-93.6208,IA,19
+Kansas,Topeka,39.0558,-95.6894,KS,20
+Kentucky,Frankfort,38.197,-84.863,KY,21
+Louisiana,Baton Rouge,30.45,-91.14,LA,22
+Maine,Augusta,44.307,-69.782,ME,23
+Maryland,Annapolis,38.9729,-76.5012,MD,24
+Massachusetts,Boston,42.3581,-71.0636,MA,25
+Michigan,Lansing,42.7336,-84.5467,MI,26
+Minnesota,Saint Paul,44.9442,-93.0936,MN,27
+Mississippi,Jackson,32.2989,-90.1847,MS,28
+Missouri,Jefferson City,38.5767,-92.1736,MO,29
+Montana,Helena,46.5958,-112.027,MT,30
+Nebraska,Lincoln,40.8106,-96.6803,NE,31
+Nevada,Carson City,39.1608,-119.754,NV,32
+New Hampshire,Concord,43.2067,-71.5381,NH,33
+New Jersey,Trenton,40.2237,-74.764,NJ,34
+New Mexico,Santa Fe,35.6672,-105.964,NM,35
+New York,Albany,42.6525,-73.7572,NY,36
+North Carolina,Raleigh,35.7667,-78.6333,NC,37
+North Dakota,Bismarck,46.8133,-100.779,ND,38
+Ohio,Columbus,39.9833,-82.9833,OH,39
+Oklahoma,Oklahoma City,35.4822,-97.535,OK,40
+Oregon,Salem,44.9308,-123.029,OR,41
+Pennsylvania,Harrisburg,40.2697,-76.8756,PA,42
+Rhode Island,Providence,41.8236,-71.4222,RI,44
+South Carolina,Columbia,34.0006,-81.0347,SC,45
+South Dakota,Pierre,44.368,-100.336,SD,46
+Tennessee,Nashville,36.1667,-86.7833,TN,47
+Texas,Austin,30.25,-97.75,TX,48
+Utah,Salt Lake City,40.75,-111.883,UT,49
+Vermont,Montpelier,44.2597,-72.575,VT,50
+Virginia,Richmond,37.5333,-77.4667,VA,51
+Washington,Olympia,47.0425,-122.893,WA,53
+West Virginia,Charleston,38.3472,-81.6333,WV,54
+Wisconsin,Madison,43.0667,-89.4,WI,55
+Wyoming,Cheyenne,41.1456,-104.802,WY,56
