@@ -1,0 +1,3236 @@
+Num	id	name	rate
+1	1001	Autauga County, Alabama	13.3
+2	1003	Baldwin County, Alabama	16.4
+3	1005	Barbour County, Alabama	17.6
+4	1007	Bibb County, Alabama	18
+5	1009	Blount County, Alabama	19.4
+6	1011	Bullock County, Alabama	19.1
+7	1013	Butler County, Alabama	17.1
+8	1015	Calhoun County, Alabama	15.4
+9	1017	Chambers County, Alabama	17
+10	1019	Cherokee County, Alabama	17.1
+11	1021	Chilton County, Alabama	19
+12	1023	Choctaw County, Alabama	15.9
+13	1025	Clarke County, Alabama	16.8
+14	1027	Clay County, Alabama	16.5
+15	1029	Cleburne County, Alabama	17.6
+16	1031	Coffee County, Alabama	15.7
+17	1033	Colbert County, Alabama	15.7
+18	1035	Conecuh County, Alabama	15
+19	1037	Coosa County, Alabama	15.4
+20	1039	Covington County, Alabama	16.2
+21	1041	Crenshaw County, Alabama	18.3
+22	1043	Cullman County, Alabama	17.7
+23	1045	Dale County, Alabama	13.7
+24	1047	Dallas County, Alabama	15.2
+25	1049	DeKalb County, Alabama	20.1
+26	1051	Elmore County, Alabama	15.1
+27	1053	Escambia County, Alabama	20.3
+28	1055	Etowah County, Alabama	16.9
+29	1057	Fayette County, Alabama	16.3
+30	1059	Franklin County, Alabama	19.3
+31	1061	Geneva County, Alabama	17.6
+32	1063	Greene County, Alabama	15.4
+33	1065	Hale County, Alabama	16.8
+34	1067	Henry County, Alabama	16.4
+35	1069	Houston County, Alabama	15.1
+36	1071	Jackson County, Alabama	16.2
+37	1073	Jefferson County, Alabama	14.1
+38	1075	Lamar County, Alabama	16.7
+39	1077	Lauderdale County, Alabama	15.7
+40	1079	Lawrence County, Alabama	16.9
+41	1081	Lee County, Alabama	12.8
+42	1083	Limestone County, Alabama	15.4
+43	1085	Lowndes County, Alabama	16
+44	1087	Macon County, Alabama	14.4
+45	1089	Madison County, Alabama	13.2
+46	1091	Marengo County, Alabama	14.9
+47	1093	Marion County, Alabama	16.3
+48	1095	Marshall County, Alabama	19.1
+49	1097	Mobile County, Alabama	16.9
+50	1099	Monroe County, Alabama	16.3
+51	1101	Montgomery County, Alabama	13.2
+52	1103	Morgan County, Alabama	16.1
+53	1105	Perry County, Alabama	16.5
+54	1107	Pickens County, Alabama	16.4
+55	1109	Pike County, Alabama	16.3
+56	1111	Randolph County, Alabama	18
+57	1113	Russell County, Alabama	17.4
+58	1115	St. Clair County, Alabama	16.1
+59	1117	Shelby County, Alabama	10.3
+60	1119	Sumter County, Alabama	15.8
+61	1121	Talladega County, Alabama	14.6
+62	1123	Tallapoosa County, Alabama	14.9
+63	1125	Tuscaloosa County, Alabama	13.7
+64	1127	Walker County, Alabama	16.9
+65	1129	Washington County, Alabama	15.9
+66	1131	Wilcox County, Alabama	18
+67	1133	Winston County, Alabama	17.2
+68	2013	Aleutians East Borough, Alaska	31.7
+69	2016	Aleutians West Census Area, Alaska	28.2
+70	2020	Anchorage Municipality, Alaska	17.2
+71	2050	Bethel Census Area, Alaska	26
+72	2060	Bristol Bay Borough, Alaska	27.6
+73	2068	Denali Borough, Alaska	22.5
+74	2070	Dillingham Census Area, Alaska	31
+75	2090	Fairbanks North Star Borough, Alaska	17.7
+76	2100	Haines Borough, Alaska	25.4
+77	2105	Hoonah-Angoon Census Area, Alaska	30.3
+78	2110	Juneau City and Borough, Alaska	18.2
+79	2122	Kenai Peninsula Borough, Alaska	23.4
+80	2130	Ketchikan Gateway Borough, Alaska	22
+81	2150	Kodiak Island Borough, Alaska	24.9
+82	2164	Lake and Peninsula Borough, Alaska	40.3
+83	2170	Matanuska-Susitna Borough, Alaska	23.1
+84	2180	Nome Census Area, Alaska	30.4
+85	2185	North Slope Borough, Alaska	25
+86	2188	Northwest Arctic Borough, Alaska	28.9
+87	2195	Petersburg Census Area, Alaska	NA
+88	2198	Prince of Wales-Hyder Census Area, Alaska	NA
+89	2220	Sitka City and Borough, Alaska	23.3
+90	2230	Skagway Municipality, Alaska	19.3
+91	2240	Southeast Fairbanks Census Area, Alaska	29.5
+92	2261	Valdez-Cordova Census Area, Alaska	23.5
+93	2270	Wade Hampton Census Area, Alaska	28.7
+94	2275	Wrangell City and Borough, Alaska	NA
+95	2282	Yakutat City and Borough, Alaska	32.9
+96	2290	Yukon-Koyukuk Census Area, Alaska	30.7
+97	4001	Apache County, Arizona	25.8
+98	4003	Cochise County, Arizona	17.9
+99	4005	Coconino County, Arizona	24.2
+100	4007	Gila County, Arizona	20.3
+101	4009	Graham County, Arizona	20.6
+102	4011	Greenlee County, Arizona	18.2
+103	4012	La Paz County, Arizona	25.2
+104	4013	Maricopa County, Arizona	20.3
+105	4015	Mohave County, Arizona	21.8
+106	4017	Navajo County, Arizona	24.1
+107	4019	Pima County, Arizona	18.6
+108	4021	Pinal County, Arizona	21.5
+109	4023	Santa Cruz County, Arizona	28.4
+110	4025	Yavapai County, Arizona	22.7
+111	4027	Yuma County, Arizona	24.8
+112	5001	Arkansas County, Arkansas	19.2
+113	5003	Ashley County, Arkansas	18.9
+114	5005	Baxter County, Arkansas	21.3
+115	5007	Benton County, Arkansas	19.2
+116	5009	Boone County, Arkansas	19.8
+117	5011	Bradley County, Arkansas	24.8
+118	5013	Calhoun County, Arkansas	26.2
+119	5015	Carroll County, Arkansas	26.9
+120	5017	Chicot County, Arkansas	19.4
+121	5019	Clark County, Arkansas	19.9
+122	5021	Clay County, Arkansas	21.7
+123	5023	Cleburne County, Arkansas	22.4
+124	5025	Cleveland County, Arkansas	21.8
+125	5027	Columbia County, Arkansas	19.3
+126	5029	Conway County, Arkansas	19.9
+127	5031	Craighead County, Arkansas	19.3
+128	5033	Crawford County, Arkansas	20.1
+129	5035	Crittenden County, Arkansas	18.9
+130	5037	Cross County, Arkansas	22.2
+131	5039	Dallas County, Arkansas	22.5
+132	5041	Desha County, Arkansas	22.1
+133	5043	Drew County, Arkansas	21
+134	5045	Faulkner County, Arkansas	16.7
+135	5047	Franklin County, Arkansas	20.7
+136	5049	Fulton County, Arkansas	21.6
+137	5051	Garland County, Arkansas	22.7
+138	5053	Grant County, Arkansas	19.1
+139	5055	Greene County, Arkansas	18.7
+140	5057	Hempstead County, Arkansas	23.3
+141	5059	Hot Spring County, Arkansas	20.1
+142	5061	Howard County, Arkansas	20.9
+143	5063	Independence County, Arkansas	18.2
+144	5065	Izard County, Arkansas	22
+145	5067	Jackson County, Arkansas	20.5
+146	5069	Jefferson County, Arkansas	19.5
+147	5071	Johnson County, Arkansas	21.5
+148	5073	Lafayette County, Arkansas	22.8
+149	5075	Lawrence County, Arkansas	21.5
+150	5077	Lee County, Arkansas	22.7
+151	5079	Lincoln County, Arkansas	23.1
+152	5081	Little River County, Arkansas	19.4
+153	5083	Logan County, Arkansas	20.2
+154	5085	Lonoke County, Arkansas	19.5
+155	5087	Madison County, Arkansas	23.7
+156	5089	Marion County, Arkansas	20
+157	5091	Miller County, Arkansas	20.5
+158	5093	Mississippi County, Arkansas	20
+159	5095	Monroe County, Arkansas	23
+160	5097	Montgomery County, Arkansas	26.7
+161	5099	Nevada County, Arkansas	21.3
+162	5101	Newton County, Arkansas	26.2
+163	5103	Ouachita County, Arkansas	19.3
+164	5105	Perry County, Arkansas	22.9
+165	5107	Phillips County, Arkansas	19.5
+166	5109	Pike County, Arkansas	25.4
+167	5111	Poinsett County, Arkansas	21.6
+168	5113	Polk County, Arkansas	23.7
+169	5115	Pope County, Arkansas	19.8
+170	5117	Prairie County, Arkansas	22.8
+171	5119	Pulaski County, Arkansas	15.7
+172	5121	Randolph County, Arkansas	20.6
+173	5123	St. Francis County, Arkansas	20.6
+174	5125	Saline County, Arkansas	18
+175	5127	Scott County, Arkansas	22.7
+176	5129	Searcy County, Arkansas	21.1
+177	5131	Sebastian County, Arkansas	20.9
+178	5133	Sevier County, Arkansas	24.9
+179	5135	Sharp County, Arkansas	21.3
+180	5137	Stone County, Arkansas	23
+181	5139	Union County, Arkansas	18
+182	5141	Van Buren County, Arkansas	23.3
+183	5143	Washington County, Arkansas	21.5
+184	5145	White County, Arkansas	21
+185	5147	Woodruff County, Arkansas	24.2
+186	5149	Yell County, Arkansas	25.5
+187	6001	Alameda County, California	13.2
+188	6003	Alpine County, California	20
+189	6005	Amador County, California	16.3
+190	6007	Butte County, California	18.3
+191	6009	Calaveras County, California	16.5
+192	6011	Colusa County, California	26.1
+193	6013	Contra Costa County, California	12.2
+194	6015	Del Norte County, California	19.8
+195	6017	El Dorado County, California	14.3
+196	6019	Fresno County, California	20.7
+197	6021	Glenn County, California	24.2
+198	6023	Humboldt County, California	20.9
+199	6025	Imperial County, California	23.7
+200	6027	Inyo County, California	21.2
+201	6029	Kern County, California	20.1
+202	6031	Kings County, California	21.8
+203	6033	Lake County, California	19.7
+204	6035	Lassen County, California	17
+205	6037	Los Angeles County, California	23.8
+206	6039	Madera County, California	24.6
+207	6041	Marin County, California	11.3
+208	6043	Mariposa County, California	16.8
+209	6045	Mendocino County, California	22.4
+210	6047	Merced County, California	21.8
+211	6049	Modoc County, California	21.3
+212	6051	Mono County, California	20.9
+213	6053	Monterey County, California	23.3
+214	6055	Napa County, California	16.3
+215	6057	Nevada County, California	16.1
+216	6059	Orange County, California	18.5
+217	6061	Placer County, California	11.4
+218	6063	Plumas County, California	16.7
+219	6065	Riverside County, California	22.1
+220	6067	Sacramento County, California	14.2
+221	6069	San Benito County, California	19.6
+222	6071	San Bernardino County, California	20.9
+223	6073	San Diego County, California	18.4
+224	6075	San Francisco County, California	12.7
+225	6077	San Joaquin County, California	17.9
+226	6079	San Luis Obispo County, California	17.1
+227	6081	San Mateo County, California	12.7
+228	6083	Santa Barbara County, California	18.9
+229	6085	Santa Clara County, California	12.1
+230	6087	Santa Cruz County, California	16.9
+231	6089	Shasta County, California	18.1
+232	6091	Sierra County, California	20.2
+233	6093	Siskiyou County, California	19.3
+234	6095	Solano County, California	13.5
+235	6097	Sonoma County, California	16
+236	6099	Stanislaus County, California	19.4
+237	6101	Sutter County, California	21.7
+238	6103	Tehama County, California	20
+239	6105	Trinity County, California	19.9
+240	6107	Tulare County, California	24.1
+241	6109	Tuolumne County, California	16.9
+242	6111	Ventura County, California	17.6
+243	6113	Yolo County, California	14.6
+244	6115	Yuba County, California	17.8
+245	8001	Adams County, Colorado	22.4
+246	8003	Alamosa County, Colorado	21.5
+247	8005	Arapahoe County, Colorado	17.1
+248	8007	Archuleta County, Colorado	24.1
+249	8009	Baca County, Colorado	22.7
+250	8011	Bent County, Colorado	25.2
+251	8013	Boulder County, Colorado	14.9
+252	8014	Broomfield County, Colorado	11.9
+253	8015	Chaffee County, Colorado	22.1
+254	8017	Cheyenne County, Colorado	22.8
+255	8019	Clear Creek County, Colorado	14
+256	8021	Conejos County, Colorado	22.6
+257	8023	Costilla County, Colorado	24
+258	8025	Crowley County, Colorado	21.3
+259	8027	Custer County, Colorado	26.5
+260	8029	Delta County, Colorado	24.1
+261	8031	Denver County, Colorado	22.2
+262	8033	Dolores County, Colorado	29
+263	8035	Douglas County, Colorado	8.2
+264	8037	Eagle County, Colorado	22.4
+265	8039	Elbert County, Colorado	15.1
+266	8041	El Paso County, Colorado	16.5
+267	8043	Fremont County, Colorado	21.6
+268	8045	Garfield County, Colorado	26.9
+269	8047	Gilpin County, Colorado	8.1
+270	8049	Grand County, Colorado	20
+271	8051	Gunnison County, Colorado	19.9
+272	8053	Hinsdale County, Colorado	24.9
+273	8055	Huerfano County, Colorado	21.9
+274	8057	Jackson County, Colorado	27.1
+275	8059	Jefferson County, Colorado	14.5
+276	8061	Kiowa County, Colorado	23.1
+277	8063	Kit Carson County, Colorado	27.9
+278	8065	Lake County, Colorado	32.3
+279	8067	La Plata County, Colorado	22.5
+280	8069	Larimer County, Colorado	14.6
+281	8071	Las Animas County, Colorado	21.9
+282	8073	Lincoln County, Colorado	24.3
+283	8075	Logan County, Colorado	21.6
+284	8077	Mesa County, Colorado	20.1
+285	8079	Mineral County, Colorado	28.5
+286	8081	Moffat County, Colorado	22.4
+287	8083	Montezuma County, Colorado	25.5
+288	8085	Montrose County, Colorado	27
+289	8087	Morgan County, Colorado	26.4
+290	8089	Otero County, Colorado	20.8
+291	8091	Ouray County, Colorado	24.6
+292	8093	Park County, Colorado	17.9
+293	8095	Phillips County, Colorado	25.8
+294	8097	Pitkin County, Colorado	13.3
+295	8099	Prowers County, Colorado	25.7
+296	8101	Pueblo County, Colorado	18.8
+297	8103	Rio Blanco County, Colorado	19.6
+298	8105	Rio Grande County, Colorado	22.9
+299	8107	Routt County, Colorado	14.3
+300	8109	Saguache County, Colorado	30.3
+301	8111	San Juan County, Colorado	27.7
+302	8113	San Miguel County, Colorado	23.4
+303	8115	Sedgwick County, Colorado	27.1
+304	8117	Summit County, Colorado	20.9
+305	8119	Teller County, Colorado	14.6
+306	8121	Washington County, Colorado	25.5
+307	8123	Weld County, Colorado	21.3
+308	8125	Yuma County, Colorado	25.5
+309	9001	Fairfield County, Connecticut	11.3
+310	9003	Hartford County, Connecticut	9.6
+311	9005	Litchfield County, Connecticut	9.3
+312	9007	Middlesex County, Connecticut	8.2
+313	9009	New Haven County, Connecticut	10.3
+314	9011	New London County, Connecticut	9.5
+315	9013	Tolland County, Connecticut	7.9
+316	9015	Windham County, Connecticut	12.3
+317	10001	Kent County, Delaware	12
+318	10003	New Castle County, Delaware	10.2
+319	10005	Sussex County, Delaware	15.8
+320	11001	District of Columbia, NA	8.6
+321	12001	Alachua County, Florida	20.6
+322	12003	Baker County, Florida	21.3
+323	12005	Bay County, Florida	20.8
+324	12007	Bradford County, Florida	24.6
+325	12009	Brevard County, Florida	21
+326	12011	Broward County, Florida	24.5
+327	12013	Calhoun County, Florida	26
+328	12015	Charlotte County, Florida	24.4
+329	12017	Citrus County, Florida	24.1
+330	12019	Clay County, Florida	19.1
+331	12021	Collier County, Florida	28.5
+332	12023	Columbia County, Florida	22.2
+333	12027	DeSoto County, Florida	36.9
+334	12029	Dixie County, Florida	23.8
+335	12031	Duval County, Florida	19.2
+336	12033	Escambia County, Florida	20.8
+337	12035	Flagler County, Florida	23
+338	12037	Franklin County, Florida	31.1
+339	12039	Gadsden County, Florida	22.5
+340	12041	Gilchrist County, Florida	25.9
+341	12043	Glades County, Florida	32.3
+342	12045	Gulf County, Florida	26.5
+343	12047	Hamilton County, Florida	24.7
+344	12049	Hardee County, Florida	34.8
+345	12051	Hendry County, Florida	36.5
+346	12053	Hernando County, Florida	24.5
+347	12055	Highlands County, Florida	29.6
+348	12057	Hillsborough County, Florida	21
+349	12059	Holmes County, Florida	24.4
+350	12061	Indian River County, Florida	26.5
+351	12063	Jackson County, Florida	20.7
+352	12065	Jefferson County, Florida	22.6
+353	12067	Lafayette County, Florida	34.4
+354	12069	Lake County, Florida	24.1
+355	12071	Lee County, Florida	25.3
+356	12073	Leon County, Florida	16.6
+357	12075	Levy County, Florida	25.8
+358	12077	Liberty County, Florida	27.2
+359	12079	Madison County, Florida	24.7
+360	12081	Manatee County, Florida	24.7
+361	12083	Marion County, Florida	26.1
+362	12085	Martin County, Florida	22
+363	12086	Miami-Dade County, Florida	32.1
+364	12087	Monroe County, Florida	24.6
+365	12089	Nassau County, Florida	21.6
+366	12091	Okaloosa County, Florida	20.1
+367	12093	Okeechobee County, Florida	33.2
+368	12095	Orange County, Florida	23.6
+369	12097	Osceola County, Florida	27.7
+370	12099	Palm Beach County, Florida	23.3
+371	12101	Pasco County, Florida	25
+372	12103	Pinellas County, Florida	21.5
+373	12105	Polk County, Florida	22.4
+374	12107	Putnam County, Florida	25.4
+375	12109	St. Johns County, Florida	16.9
+376	12111	St. Lucie County, Florida	29.1
+377	12113	Santa Rosa County, Florida	19.5
+378	12115	Sarasota County, Florida	23.3
+379	12117	Seminole County, Florida	19.7
+380	12119	Sumter County, Florida	23.6
+381	12121	Suwannee County, Florida	26
+382	12123	Taylor County, Florida	23.1
+383	12125	Union County, Florida	24.6
+384	12127	Volusia County, Florida	23.5
+385	12129	Wakulla County, Florida	22.1
+386	12131	Walton County, Florida	25.7
+387	12133	Washington County, Florida	22.8
+388	13001	Appling County, Georgia	23.5
+389	13003	Atkinson County, Georgia	28.2
+390	13005	Bacon County, Georgia	23.1
+391	13007	Baker County, Georgia	23.4
+392	13009	Baldwin County, Georgia	19.9
+393	13011	Banks County, Georgia	22.8
+394	13013	Barrow County, Georgia	22.5
+395	13015	Bartow County, Georgia	19.4
+396	13017	Ben Hill County, Georgia	21.5
+397	13019	Berrien County, Georgia	21.4
+398	13021	Bibb County, Georgia	17.9
+399	13023	Bleckley County, Georgia	18.9
+400	13025	Brantley County, Georgia	25.7
+401	13027	Brooks County, Georgia	23.7
+402	13029	Bryan County, Georgia	18
+403	13031	Bulloch County, Georgia	21.9
+404	13033	Burke County, Georgia	19.8
+405	13035	Butts County, Georgia	20.9
+406	13037	Calhoun County, Georgia	21.4
+407	13039	Camden County, Georgia	19.1
+408	13043	Candler County, Georgia	28.3
+409	13045	Carroll County, Georgia	20.2
+410	13047	Catoosa County, Georgia	18.7
+411	13049	Charlton County, Georgia	23
+412	13051	Chatham County, Georgia	19.1
+413	13053	Chattahoochee County, Georgia	18
+414	13055	Chattooga County, Georgia	22
+415	13057	Cherokee County, Georgia	17.4
+416	13059	Clarke County, Georgia	21.7
+417	13061	Clay County, Georgia	21.9
+418	13063	Clayton County, Georgia	23.1
+419	13065	Clinch County, Georgia	22.5
+420	13067	Cobb County, Georgia	16.4
+421	13069	Coffee County, Georgia	24.2
+422	13071	Colquitt County, Georgia	27.9
+423	13073	Columbia County, Georgia	14.6
+424	13075	Cook County, Georgia	24.6
+425	13077	Coweta County, Georgia	17.1
+426	13079	Crawford County, Georgia	23.6
+427	13081	Crisp County, Georgia	21.9
+428	13083	Dade County, Georgia	20.5
+429	13085	Dawson County, Georgia	20.8
+430	13087	Decatur County, Georgia	22.6
+431	13089	DeKalb County, Georgia	22.5
+432	13091	Dodge County, Georgia	22.7
+433	13093	Dooly County, Georgia	21.6
+434	13095	Dougherty County, Georgia	19.7
+435	13097	Douglas County, Georgia	19.5
+436	13099	Early County, Georgia	18.6
+437	13101	Echols County, Georgia	37.3
+438	13103	Effingham County, Georgia	18
+439	13105	Elbert County, Georgia	23.7
+440	13107	Emanuel County, Georgia	25.6
+441	13109	Evans County, Georgia	25.8
+442	13111	Fannin County, Georgia	25.1
+443	13113	Fayette County, Georgia	12.1
+444	13115	Floyd County, Georgia	21.4
+445	13117	Forsyth County, Georgia	13.9
+446	13119	Franklin County, Georgia	20.6
+447	13121	Fulton County, Georgia	17.9
+448	13123	Gilmer County, Georgia	27.5
+449	13125	Glascock County, Georgia	20.6
+450	13127	Glynn County, Georgia	20.8
+451	13129	Gordon County, Georgia	23.5
+452	13131	Grady County, Georgia	26.3
+453	13133	Greene County, Georgia	22.2
+454	13135	Gwinnett County, Georgia	22.1
+455	13137	Habersham County, Georgia	23.9
+456	13139	Hall County, Georgia	25.4
+457	13141	Hancock County, Georgia	22.5
+458	13143	Haralson County, Georgia	22.2
+459	13145	Harris County, Georgia	17
+460	13147	Hart County, Georgia	20.1
+461	13149	Heard County, Georgia	21.5
+462	13151	Henry County, Georgia	15.9
+463	13153	Houston County, Georgia	17.5
+464	13155	Irwin County, Georgia	23.9
+465	13157	Jackson County, Georgia	23.3
+466	13159	Jasper County, Georgia	21.3
+467	13161	Jeff Davis County, Georgia	24.2
+468	13163	Jefferson County, Georgia	21.8
+469	13165	Jenkins County, Georgia	22.2
+470	13167	Johnson County, Georgia	24.4
+471	13169	Jones County, Georgia	19
+472	13171	Lamar County, Georgia	21
+473	13173	Lanier County, Georgia	24.3
+474	13175	Laurens County, Georgia	20.5
+475	13177	Lee County, Georgia	16.9
+476	13179	Liberty County, Georgia	17.3
+477	13181	Lincoln County, Georgia	28.3
+478	13183	Long County, Georgia	26.6
+479	13185	Lowndes County, Georgia	18.4
+480	13187	Lumpkin County, Georgia	24.2
+481	13189	McDuffie County, Georgia	20.8
+482	13191	McIntosh County, Georgia	23.3
+483	13193	Macon County, Georgia	23.6
+484	13195	Madison County, Georgia	24.4
+485	13197	Marion County, Georgia	23.8
+486	13199	Meriwether County, Georgia	21.8
+487	13201	Miller County, Georgia	22.8
+488	13205	Mitchell County, Georgia	22.6
+489	13207	Monroe County, Georgia	19.2
+490	13209	Montgomery County, Georgia	24.4
+491	13211	Morgan County, Georgia	20.1
+492	13213	Murray County, Georgia	22.7
+493	13215	Muscogee County, Georgia	17.4
+494	13217	Newton County, Georgia	19.9
+495	13219	Oconee County, Georgia	15.5
+496	13221	Oglethorpe County, Georgia	24.9
+497	13223	Paulding County, Georgia	18.9
+498	13225	Peach County, Georgia	21.3
+499	13227	Pickens County, Georgia	22.9
+500	13229	Pierce County, Georgia	23.3
+501	13231	Pike County, Georgia	20.6
+502	13233	Polk County, Georgia	23.1
+503	13235	Pulaski County, Georgia	22.8
+504	13237	Putnam County, Georgia	21.5
+505	13239	Quitman County, Georgia	29.6
+506	13241	Rabun County, Georgia	24.9
+507	13243	Randolph County, Georgia	23.1
+508	13245	Richmond County, Georgia	19.3
+509	13247	Rockdale County, Georgia	21
+510	13249	Schley County, Georgia	22.8
+511	13251	Screven County, Georgia	20.5
+512	13253	Seminole County, Georgia	23
+513	13255	Spalding County, Georgia	21.3
+514	13257	Stephens County, Georgia	20.8
+515	13259	Stewart County, Georgia	23
+516	13261	Sumter County, Georgia	21
+517	13263	Talbot County, Georgia	23.3
+518	13265	Taliaferro County, Georgia	30.3
+519	13267	Tattnall County, Georgia	27.4
+520	13269	Taylor County, Georgia	23.2
+521	13271	Telfair County, Georgia	20.1
+522	13273	Terrell County, Georgia	22.6
+523	13275	Thomas County, Georgia	19.7
+524	13277	Tift County, Georgia	24.3
+525	13279	Toombs County, Georgia	24
+526	13281	Towns County, Georgia	24.3
+527	13283	Treutlen County, Georgia	26.4
+528	13285	Troup County, Georgia	18.8
+529	13287	Turner County, Georgia	26
+530	13289	Twiggs County, Georgia	21.6
+531	13291	Union County, Georgia	24.2
+532	13293	Upson County, Georgia	22.3
+533	13295	Walker County, Georgia	20
+534	13297	Walton County, Georgia	20.5
+535	13299	Ware County, Georgia	22.1
+536	13301	Warren County, Georgia	23.4
+537	13303	Washington County, Georgia	20.9
+538	13305	Wayne County, Georgia	21.7
+539	13307	Webster County, Georgia	27.7
+540	13309	Wheeler County, Georgia	26.3
+541	13311	White County, Georgia	22.9
+542	13313	Whitfield County, Georgia	26.9
+543	13315	Wilcox County, Georgia	23.6
+544	13317	Wilkes County, Georgia	22.1
+545	13319	Wilkinson County, Georgia	21.2
+546	13321	Worth County, Georgia	21.8
+547	15001	Hawaii County, Hawaii	10.3
+548	15003	Honolulu County, Hawaii	6.8
+549	15005	Kalawao County, Hawaii	NA
+550	15007	Kauai County, Hawaii	9.7
+551	15009	Maui County, Hawaii	9.5
+552	16001	Ada County, Idaho	14.9
+553	16003	Adams County, Idaho	28.6
+554	16005	Bannock County, Idaho	16.1
+555	16007	Bear Lake County, Idaho	19.8
+556	16009	Benewah County, Idaho	20.8
+557	16011	Bingham County, Idaho	21.8
+558	16013	Blaine County, Idaho	20.1
+559	16015	Boise County, Idaho	23.4
+560	16017	Bonner County, Idaho	20.4
+561	16019	Bonneville County, Idaho	17.5
+562	16021	Boundary County, Idaho	23.2
+563	16023	Butte County, Idaho	22.5
+564	16025	Camas County, Idaho	26.6
+565	16027	Canyon County, Idaho	23.1
+566	16029	Caribou County, Idaho	18.6
+567	16031	Cassia County, Idaho	23.8
+568	16033	Clark County, Idaho	28.9
+569	16035	Clearwater County, Idaho	21.2
+570	16037	Custer County, Idaho	20.8
+571	16039	Elmore County, Idaho	20
+572	16041	Franklin County, Idaho	19.4
+573	16043	Fremont County, Idaho	26.4
+574	16045	Gem County, Idaho	23.9
+575	16047	Gooding County, Idaho	26.6
+576	16049	Idaho County, Idaho	21.3
+577	16051	Jefferson County, Idaho	21.2
+578	16053	Jerome County, Idaho	25.8
+579	16055	Kootenai County, Idaho	18.4
+580	16057	Latah County, Idaho	16.5
+581	16059	Lemhi County, Idaho	22.6
+582	16061	Lewis County, Idaho	19.1
+583	16063	Lincoln County, Idaho	30.3
+584	16065	Madison County, Idaho	14.7
+585	16067	Minidoka County, Idaho	23.7
+586	16069	Nez Perce County, Idaho	16.1
+587	16071	Oneida County, Idaho	18.8
+588	16073	Owyhee County, Idaho	29.4
+589	16075	Payette County, Idaho	23.3
+590	16077	Power County, Idaho	24.1
+591	16079	Shoshone County, Idaho	18.6
+592	16081	Teton County, Idaho	27.4
+593	16083	Twin Falls County, Idaho	21.9
+594	16085	Valley County, Idaho	21.2
+595	16087	Washington County, Idaho	22.8
+596	17001	Adams County, Illinois	10.8
+597	17003	Alexander County, Illinois	14
+598	17005	Bond County, Illinois	13.7
+599	17007	Boone County, Illinois	13.3
+600	17009	Brown County, Illinois	16.2
+601	17011	Bureau County, Illinois	12.9
+602	17013	Calhoun County, Illinois	14.6
+603	17015	Carroll County, Illinois	13.5
+604	17017	Cass County, Illinois	14.3
+605	17019	Champaign County, Illinois	11.2
+606	17021	Christian County, Illinois	11.2
+607	17023	Clark County, Illinois	11.7
+608	17025	Clay County, Illinois	12.7
+609	17027	Clinton County, Illinois	11.8
+610	17029	Coles County, Illinois	11.8
+611	17031	Cook County, Illinois	17.3
+612	17033	Crawford County, Illinois	12.8
+613	17035	Cumberland County, Illinois	12.8
+614	17037	DeKalb County, Illinois	12.1
+615	17039	De Witt County, Illinois	11.3
+616	17041	Douglas County, Illinois	15.7
+617	17043	DuPage County, Illinois	9.5
+618	17045	Edgar County, Illinois	12.6
+619	17047	Edwards County, Illinois	12.3
+620	17049	Effingham County, Illinois	11.5
+621	17051	Fayette County, Illinois	14.1
+622	17053	Ford County, Illinois	11.4
+623	17055	Franklin County, Illinois	15.2
+624	17057	Fulton County, Illinois	13.7
+625	17059	Gallatin County, Illinois	15.8
+626	17061	Greene County, Illinois	14.5
+627	17063	Grundy County, Illinois	10.8
+628	17065	Hamilton County, Illinois	15.5
+629	17067	Hancock County, Illinois	11.8
+630	17069	Hardin County, Illinois	15
+631	17071	Henderson County, Illinois	16.2
+632	17073	Henry County, Illinois	11.5
+633	17075	Iroquois County, Illinois	13.4
+634	17077	Jackson County, Illinois	13.6
+635	17079	Jasper County, Illinois	12.7
+636	17081	Jefferson County, Illinois	12.9
+637	17083	Jersey County, Illinois	12.5
+638	17085	Jo Daviess County, Illinois	12.3
+639	17087	Johnson County, Illinois	15.5
+640	17089	Kane County, Illinois	14.4
+641	17091	Kankakee County, Illinois	12.8
+642	17093	Kendall County, Illinois	10.8
+643	17095	Knox County, Illinois	12.4
+644	17097	Lake County, Illinois	11.7
+645	17099	LaSalle County, Illinois	13
+646	17101	Lawrence County, Illinois	13.6
+647	17103	Lee County, Illinois	12
+648	17105	Livingston County, Illinois	12
+649	17107	Logan County, Illinois	11.6
+650	17109	McDonough County, Illinois	12.2
+651	17111	McHenry County, Illinois	9.7
+652	17113	McLean County, Illinois	8.8
+653	17115	Macon County, Illinois	11.4
+654	17117	Macoupin County, Illinois	12.7
+655	17119	Madison County, Illinois	10.4
+656	17121	Marion County, Illinois	12.9
+657	17123	Marshall County, Illinois	11
+658	17125	Mason County, Illinois	13.6
+659	17127	Massac County, Illinois	12.3
+660	17129	Menard County, Illinois	11
+661	17131	Mercer County, Illinois	12.1
+662	17133	Monroe County, Illinois	8.4
+663	17135	Montgomery County, Illinois	13
+664	17137	Morgan County, Illinois	11.5
+665	17139	Moultrie County, Illinois	12.3
+666	17141	Ogle County, Illinois	12
+667	17143	Peoria County, Illinois	10.4
+668	17145	Perry County, Illinois	13.8
+669	17147	Piatt County, Illinois	11.5
+670	17149	Pike County, Illinois	13.8
+671	17151	Pope County, Illinois	15.7
+672	17153	Pulaski County, Illinois	15.1
+673	17155	Putnam County, Illinois	12.1
+674	17157	Randolph County, Illinois	12.8
+675	17159	Richland County, Illinois	12.8
+676	17161	Rock Island County, Illinois	12.5
+677	17163	St. Clair County, Illinois	12.1
+678	17165	Saline County, Illinois	12
+679	17167	Sangamon County, Illinois	10.5
+680	17169	Schuyler County, Illinois	13.7
+681	17171	Scott County, Illinois	14.1
+682	17173	Shelby County, Illinois	11.9
+683	17175	Stark County, Illinois	14.4
+684	17177	Stephenson County, Illinois	10.8
+685	17179	Tazewell County, Illinois	10.3
+686	17181	Union County, Illinois	13.8
+687	17183	Vermilion County, Illinois	13
+688	17185	Wabash County, Illinois	13.2
+689	17187	Warren County, Illinois	11.7
+690	17189	Washington County, Illinois	11.5
+691	17191	Wayne County, Illinois	14.4
+692	17193	White County, Illinois	14
+693	17195	Whiteside County, Illinois	12.4
+694	17197	Will County, Illinois	10.9
+695	17199	Williamson County, Illinois	12.8
+696	17201	Winnebago County, Illinois	12.9
+697	17203	Woodford County, Illinois	9.3
+698	18001	Adams County, Indiana	17.1
+699	18003	Allen County, Indiana	14.5
+700	18005	Bartholomew County, Indiana	14.6
+701	18007	Benton County, Indiana	17.5
+702	18009	Blackford County, Indiana	14.8
+703	18011	Boone County, Indiana	11.3
+704	18013	Brown County, Indiana	17.4
+705	18015	Carroll County, Indiana	15.9
+706	18017	Cass County, Indiana	17
+707	18019	Clark County, Indiana	15.7
+708	18021	Clay County, Indiana	15.2
+709	18023	Clinton County, Indiana	18.4
+710	18025	Crawford County, Indiana	17
+711	18027	Daviess County, Indiana	21.5
+712	18029	Dearborn County, Indiana	13
+713	18031	Decatur County, Indiana	14.7
+714	18033	DeKalb County, Indiana	13.7
+715	18035	Delaware County, Indiana	14.7
+716	18037	Dubois County, Indiana	12
+717	18039	Elkhart County, Indiana	20.5
+718	18041	Fayette County, Indiana	16.1
+719	18043	Floyd County, Indiana	13.9
+720	18045	Fountain County, Indiana	15.1
+721	18047	Franklin County, Indiana	15.3
+722	18049	Fulton County, Indiana	16.8
+723	18051	Gibson County, Indiana	12.7
+724	18053	Grant County, Indiana	15
+725	18055	Greene County, Indiana	17.4
+726	18057	Hamilton County, Indiana	8.2
+727	18059	Hancock County, Indiana	11.1
+728	18061	Harrison County, Indiana	14.3
+729	18063	Hendricks County, Indiana	11.2
+730	18065	Henry County, Indiana	14.7
+731	18067	Howard County, Indiana	13.3
+732	18069	Huntington County, Indiana	14.1
+733	18071	Jackson County, Indiana	16.6
+734	18073	Jasper County, Indiana	14.9
+735	18075	Jay County, Indiana	16.7
+736	18077	Jefferson County, Indiana	13.7
+737	18079	Jennings County, Indiana	16.5
+738	18081	Johnson County, Indiana	13.7
+739	18083	Knox County, Indiana	15.7
+740	18085	Kosciusko County, Indiana	16.5
+741	18087	LaGrange County, Indiana	25.4
+742	18089	Lake County, Indiana	16
+743	18091	LaPorte County, Indiana	15.5
+744	18093	Lawrence County, Indiana	15.9
+745	18095	Madison County, Indiana	17
+746	18097	Marion County, Indiana	16.3
+747	18099	Marshall County, Indiana	18.3
+748	18101	Martin County, Indiana	16.3
+749	18103	Miami County, Indiana	14.5
+750	18105	Monroe County, Indiana	14.9
+751	18107	Montgomery County, Indiana	14.7
+752	18109	Morgan County, Indiana	14.8
+753	18111	Newton County, Indiana	17.6
+754	18113	Noble County, Indiana	17.1
+755	18115	Ohio County, Indiana	15.1
+756	18117	Orange County, Indiana	16.1
+757	18119	Owen County, Indiana	16.7
+758	18121	Parke County, Indiana	17.5
+759	18123	Perry County, Indiana	15.2
+760	18125	Pike County, Indiana	13.9
+761	18127	Porter County, Indiana	13.3
+762	18129	Posey County, Indiana	11.8
+763	18131	Pulaski County, Indiana	17.1
+764	18133	Putnam County, Indiana	14.4
+765	18135	Randolph County, Indiana	16.8
+766	18137	Ripley County, Indiana	14.1
+767	18139	Rush County, Indiana	16.2
+768	18141	St. Joseph County, Indiana	15.4
+769	18143	Scott County, Indiana	16.4
+770	18145	Shelby County, Indiana	15
+771	18147	Spencer County, Indiana	14
+772	18149	Starke County, Indiana	17.8
+773	18151	Steuben County, Indiana	15.4
+774	18153	Sullivan County, Indiana	17.5
+775	18155	Switzerland County, Indiana	17.6
+776	18157	Tippecanoe County, Indiana	14.6
+777	18159	Tipton County, Indiana	13.9
+778	18161	Union County, Indiana	17.5
+779	18163	Vanderburgh County, Indiana	13.7
+780	18165	Vermillion County, Indiana	14.6
+781	18167	Vigo County, Indiana	15.7
+782	18169	Wabash County, Indiana	14.6
+783	18171	Warren County, Indiana	15.5
+784	18173	Warrick County, Indiana	12.9
+785	18175	Washington County, Indiana	17.7
+786	18177	Wayne County, Indiana	17
+787	18179	Wells County, Indiana	13.4
+788	18181	White County, Indiana	18.1
+789	18183	Whitley County, Indiana	12.5
+790	19001	Adair County, Iowa	10.5
+791	19003	Adams County, Iowa	11.7
+792	19005	Allamakee County, Iowa	13.5
+793	19007	Appanoose County, Iowa	11.1
+794	19009	Audubon County, Iowa	13.8
+795	19011	Benton County, Iowa	9.2
+796	19013	Black Hawk County, Iowa	10.2
+797	19015	Boone County, Iowa	9.6
+798	19017	Bremer County, Iowa	8.3
+799	19019	Buchanan County, Iowa	11.6
+800	19021	Buena Vista County, Iowa	14.4
+801	19023	Butler County, Iowa	9.7
+802	19025	Calhoun County, Iowa	10.8
+803	19027	Carroll County, Iowa	9
+804	19029	Cass County, Iowa	11.8
+805	19031	Cedar County, Iowa	10
+806	19033	Cerro Gordo County, Iowa	9.5
+807	19035	Cherokee County, Iowa	10.7
+808	19037	Chickasaw County, Iowa	11.2
+809	19039	Clarke County, Iowa	11.5
+810	19041	Clay County, Iowa	11.2
+811	19043	Clayton County, Iowa	11.2
+812	19045	Clinton County, Iowa	9.3
+813	19047	Crawford County, Iowa	13.7
+814	19049	Dallas County, Iowa	8.1
+815	19051	Davis County, Iowa	14.8
+816	19053	Decatur County, Iowa	12
+817	19055	Delaware County, Iowa	10.2
+818	19057	Des Moines County, Iowa	9.9
+819	19059	Dickinson County, Iowa	9.9
+820	19061	Dubuque County, Iowa	8.7
+821	19063	Emmet County, Iowa	13.1
+822	19065	Fayette County, Iowa	10.6
+823	19067	Floyd County, Iowa	11
+824	19069	Franklin County, Iowa	14
+825	19071	Fremont County, Iowa	10.7
+826	19073	Greene County, Iowa	12.6
+827	19075	Grundy County, Iowa	9.5
+828	19077	Guthrie County, Iowa	10.9
+829	19079	Hamilton County, Iowa	9.8
+830	19081	Hancock County, Iowa	10.5
+831	19083	Hardin County, Iowa	11.3
+832	19085	Harrison County, Iowa	10.5
+833	19087	Henry County, Iowa	6.7
+834	19089	Howard County, Iowa	12.6
+835	19091	Humboldt County, Iowa	10.9
+836	19093	Ida County, Iowa	11.5
+837	19095	Iowa County, Iowa	8.3
+838	19097	Jackson County, Iowa	11.8
+839	19099	Jasper County, Iowa	9.7
+840	19101	Jefferson County, Iowa	11.1
+841	19103	Johnson County, Iowa	8.6
+842	19105	Jones County, Iowa	10.6
+843	19107	Keokuk County, Iowa	11.7
+844	19109	Kossuth County, Iowa	10.1
+845	19111	Lee County, Iowa	10.3
+846	19113	Linn County, Iowa	8.3
+847	19115	Louisa County, Iowa	13.4
+848	19117	Lucas County, Iowa	12.9
+849	19119	Lyon County, Iowa	11.4
+850	19121	Madison County, Iowa	10.2
+851	19123	Mahaska County, Iowa	10.5
+852	19125	Marion County, Iowa	8.2
+853	19127	Marshall County, Iowa	11.9
+854	19129	Mills County, Iowa	9.9
+855	19131	Mitchell County, Iowa	11.3
+856	19133	Monona County, Iowa	12.2
+857	19135	Monroe County, Iowa	11.8
+858	19137	Montgomery County, Iowa	10.7
+859	19139	Muscatine County, Iowa	10.3
+860	19141	O'Brien County, Iowa	12.2
+861	19143	Osceola County, Iowa	14.2
+862	19145	Page County, Iowa	10.1
+863	19147	Palo Alto County, Iowa	12
+864	19149	Plymouth County, Iowa	8.9
+865	19151	Pocahontas County, Iowa	12.2
+866	19153	Polk County, Iowa	9.1
+867	19155	Pottawattamie County, Iowa	10.7
+868	19157	Poweshiek County, Iowa	9.2
+869	19159	Ringgold County, Iowa	13.4
+870	19161	Sac County, Iowa	12.3
+871	19163	Scott County, Iowa	10.3
+872	19165	Shelby County, Iowa	9.2
+873	19167	Sioux County, Iowa	10.6
+874	19169	Story County, Iowa	9.3
+875	19171	Tama County, Iowa	11.4
+876	19173	Taylor County, Iowa	13.5
+877	19175	Union County, Iowa	10
+878	19177	Van Buren County, Iowa	12.4
+879	19179	Wapello County, Iowa	10.3
+880	19181	Warren County, Iowa	8.2
+881	19183	Washington County, Iowa	11.9
+882	19185	Wayne County, Iowa	11.8
+883	19187	Webster County, Iowa	9.9
+884	19189	Winnebago County, Iowa	8.6
+885	19191	Winneshiek County, Iowa	9.4
+886	19193	Woodbury County, Iowa	12.7
+887	19195	Worth County, Iowa	11
+888	19197	Wright County, Iowa	11.8
+889	20001	Allen County, Kansas	12.9
+890	20003	Anderson County, Kansas	16.2
+891	20005	Atchison County, Kansas	12.7
+892	20007	Barber County, Kansas	15.3
+893	20009	Barton County, Kansas	17
+894	20011	Bourbon County, Kansas	12.8
+895	20013	Brown County, Kansas	15.4
+896	20015	Butler County, Kansas	12
+897	20017	Chase County, Kansas	16.4
+898	20019	Chautauqua County, Kansas	19.1
+899	20021	Cherokee County, Kansas	13.9
+900	20023	Cheyenne County, Kansas	16.2
+901	20025	Clark County, Kansas	16.5
+902	20027	Clay County, Kansas	14.9
+903	20029	Cloud County, Kansas	13.7
+904	20031	Coffey County, Kansas	12.6
+905	20033	Comanche County, Kansas	18.1
+906	20035	Cowley County, Kansas	12.6
+907	20037	Crawford County, Kansas	13.5
+908	20039	Decatur County, Kansas	17.6
+909	20041	Dickinson County, Kansas	13.1
+910	20043	Doniphan County, Kansas	15.1
+911	20045	Douglas County, Kansas	13.3
+912	20047	Edwards County, Kansas	17.5
+913	20049	Elk County, Kansas	19.6
+914	20051	Ellis County, Kansas	13
+915	20053	Ellsworth County, Kansas	14.9
+916	20055	Finney County, Kansas	19.8
+917	20057	Ford County, Kansas	20.5
+918	20059	Franklin County, Kansas	11.9
+919	20061	Geary County, Kansas	14.7
+920	20063	Gove County, Kansas	16.1
+921	20065	Graham County, Kansas	16.9
+922	20067	Grant County, Kansas	21.1
+923	20069	Gray County, Kansas	23.4
+924	20071	Greeley County, Kansas	19.6
+925	20073	Greenwood County, Kansas	16.2
+926	20075	Hamilton County, Kansas	24.4
+927	20077	Harper County, Kansas	16.1
+928	20079	Harvey County, Kansas	12.5
+929	20081	Haskell County, Kansas	22.3
+930	20083	Hodgeman County, Kansas	16
+931	20085	Jackson County, Kansas	12.5
+932	20087	Jefferson County, Kansas	12.2
+933	20089	Jewell County, Kansas	18.2
+934	20091	Johnson County, Kansas	8.2
+935	20093	Kearny County, Kansas	22
+936	20095	Kingman County, Kansas	13.8
+937	20097	Kiowa County, Kansas	17.2
+938	20099	Labette County, Kansas	13
+939	20101	Lane County, Kansas	18.5
+940	20103	Leavenworth County, Kansas	11.5
+941	20105	Lincoln County, Kansas	19.1
+942	20107	Linn County, Kansas	15.1
+943	20109	Logan County, Kansas	15.3
+944	20111	Lyon County, Kansas	16.4
+945	20113	McPherson County, Kansas	11.8
+946	20115	Marion County, Kansas	13.3
+947	20117	Marshall County, Kansas	14.9
+948	20119	Meade County, Kansas	20.8
+949	20121	Miami County, Kansas	10.9
+950	20123	Mitchell County, Kansas	14.8
+951	20125	Montgomery County, Kansas	13
+952	20127	Morris County, Kansas	17.1
+953	20129	Morton County, Kansas	17.8
+954	20131	Nemaha County, Kansas	13.1
+955	20133	Neosho County, Kansas	13.4
+956	20135	Ness County, Kansas	16.8
+957	20137	Norton County, Kansas	15.7
+958	20139	Osage County, Kansas	11.8
+959	20141	Osborne County, Kansas	16.8
+960	20143	Ottawa County, Kansas	14.2
+961	20145	Pawnee County, Kansas	15.9
+962	20147	Phillips County, Kansas	14.4
+963	20149	Pottawatomie County, Kansas	11
+964	20151	Pratt County, Kansas	15.5
+965	20153	Rawlins County, Kansas	16.7
+966	20155	Reno County, Kansas	13.4
+967	20157	Republic County, Kansas	15.2
+968	20159	Rice County, Kansas	16.2
+969	20161	Riley County, Kansas	11.8
+970	20163	Rooks County, Kansas	16.1
+971	20165	Rush County, Kansas	15.5
+972	20167	Russell County, Kansas	16.3
+973	20169	Saline County, Kansas	13.1
+974	20171	Scott County, Kansas	17.6
+975	20173	Sedgwick County, Kansas	12.7
+976	20175	Seward County, Kansas	22.6
+977	20177	Shawnee County, Kansas	11.7
+978	20179	Sheridan County, Kansas	14.3
+979	20181	Sherman County, Kansas	16.4
+980	20183	Smith County, Kansas	15.6
+981	20185	Stafford County, Kansas	20.6
+982	20187	Stanton County, Kansas	26.5
+983	20189	Stevens County, Kansas	21.2
+984	20191	Sumner County, Kansas	12.6
+985	20193	Thomas County, Kansas	13
+986	20195	Trego County, Kansas	13.8
+987	20197	Wabaunsee County, Kansas	13.4
+988	20199	Wallace County, Kansas	19.5
+989	20201	Washington County, Kansas	17.1
+990	20203	Wichita County, Kansas	23.5
+991	20205	Wilson County, Kansas	14.2
+992	20207	Woodson County, Kansas	17.7
+993	20209	Wyandotte County, Kansas	18.6
+994	21001	Adair County, Kentucky	20.8
+995	21003	Allen County, Kentucky	16.9
+996	21005	Anderson County, Kentucky	14.9
+997	21007	Ballard County, Kentucky	15.8
+998	21009	Barren County, Kentucky	16.4
+999	21011	Bath County, Kentucky	16.8
+1000	21013	Bell County, Kentucky	17.1
+1001	21015	Boone County, Kentucky	10.4
+1002	21017	Bourbon County, Kentucky	16.4
+1003	21019	Boyd County, Kentucky	15.2
+1004	21021	Boyle County, Kentucky	15.7
+1005	21023	Bracken County, Kentucky	18.1
+1006	21025	Breathitt County, Kentucky	16.2
+1007	21027	Breckinridge County, Kentucky	18.2
+1008	21029	Bullitt County, Kentucky	13.7
+1009	21031	Butler County, Kentucky	18.6
+1010	21033	Caldwell County, Kentucky	16.1
+1011	21035	Calloway County, Kentucky	16.8
+1012	21037	Campbell County, Kentucky	12.6
+1013	21039	Carlisle County, Kentucky	20.5
+1014	21041	Carroll County, Kentucky	15.9
+1015	21043	Carter County, Kentucky	18.2
+1016	21045	Casey County, Kentucky	20.6
+1017	21047	Christian County, Kentucky	15
+1018	21049	Clark County, Kentucky	15.3
+1019	21051	Clay County, Kentucky	18
+1020	21053	Clinton County, Kentucky	18.4
+1021	21055	Crittenden County, Kentucky	20.2
+1022	21057	Cumberland County, Kentucky	21.4
+1023	21059	Daviess County, Kentucky	14.1
+1024	21061	Edmonson County, Kentucky	19.3
+1025	21063	Elliott County, Kentucky	20.1
+1026	21065	Estill County, Kentucky	18.6
+1027	21067	Fayette County, Kentucky	13.7
+1028	21069	Fleming County, Kentucky	18.6
+1029	21071	Floyd County, Kentucky	16.5
+1030	21073	Franklin County, Kentucky	14.3
+1031	21075	Fulton County, Kentucky	18
+1032	21077	Gallatin County, Kentucky	17.7
+1033	21079	Garrard County, Kentucky	20
+1034	21081	Grant County, Kentucky	16.9
+1035	21083	Graves County, Kentucky	18.6
+1036	21085	Grayson County, Kentucky	17.7
+1037	21087	Green County, Kentucky	19.1
+1038	21089	Greenup County, Kentucky	15.5
+1039	21091	Hancock County, Kentucky	13.8
+1040	21093	Hardin County, Kentucky	13.5
+1041	21095	Harlan County, Kentucky	17.4
+1042	21097	Harrison County, Kentucky	16
+1043	21099	Hart County, Kentucky	17.9
+1044	21101	Henderson County, Kentucky	13.7
+1045	21103	Henry County, Kentucky	16.6
+1046	21105	Hickman County, Kentucky	20.6
+1047	21107	Hopkins County, Kentucky	17.1
+1048	21109	Jackson County, Kentucky	18.6
+1049	21111	Jefferson County, Kentucky	12.4
+1050	21113	Jessamine County, Kentucky	15.8
+1051	21115	Johnson County, Kentucky	18.1
+1052	21117	Kenton County, Kentucky	11.5
+1053	21119	Knott County, Kentucky	16.5
+1054	21121	Knox County, Kentucky	17.7
+1055	21123	Larue County, Kentucky	18
+1056	21125	Laurel County, Kentucky	17.9
+1057	21127	Lawrence County, Kentucky	18.7
+1058	21129	Lee County, Kentucky	17.7
+1059	21131	Leslie County, Kentucky	17
+1060	21133	Letcher County, Kentucky	16.9
+1061	21135	Lewis County, Kentucky	18.1
+1062	21137	Lincoln County, Kentucky	18.4
+1063	21139	Livingston County, Kentucky	16.2
+1064	21141	Logan County, Kentucky	17
+1065	21143	Lyon County, Kentucky	19.4
+1066	21145	McCracken County, Kentucky	14.3
+1067	21147	McCreary County, Kentucky	19.5
+1068	21149	McLean County, Kentucky	18.6
+1069	21151	Madison County, Kentucky	15.2
+1070	21153	Magoffin County, Kentucky	17.3
+1071	21155	Marion County, Kentucky	16.1
+1072	21157	Marshall County, Kentucky	14.9
+1073	21159	Martin County, Kentucky	16.3
+1074	21161	Mason County, Kentucky	16.3
+1075	21163	Meade County, Kentucky	16.9
+1076	21165	Menifee County, Kentucky	21.6
+1077	21167	Mercer County, Kentucky	16
+1078	21169	Metcalfe County, Kentucky	18.4
+1079	21171	Monroe County, Kentucky	19.3
+1080	21173	Montgomery County, Kentucky	16.9
+1081	21175	Morgan County, Kentucky	18.5
+1082	21177	Muhlenberg County, Kentucky	17.7
+1083	21179	Nelson County, Kentucky	14.6
+1084	21181	Nicholas County, Kentucky	19.3
+1085	21183	Ohio County, Kentucky	17.1
+1086	21185	Oldham County, Kentucky	10
+1087	21187	Owen County, Kentucky	17
+1088	21189	Owsley County, Kentucky	17.5
+1089	21191	Pendleton County, Kentucky	16.7
+1090	21193	Perry County, Kentucky	17.3
+1091	21195	Pike County, Kentucky	15.9
+1092	21197	Powell County, Kentucky	18.8
+1093	21199	Pulaski County, Kentucky	18.3
+1094	21201	Robertson County, Kentucky	20.9
+1095	21203	Rockcastle County, Kentucky	19.2
+1096	21205	Rowan County, Kentucky	16.4
+1097	21207	Russell County, Kentucky	18
+1098	21209	Scott County, Kentucky	11.7
+1099	21211	Shelby County, Kentucky	16.1
+1100	21213	Simpson County, Kentucky	15
+1101	21215	Spencer County, Kentucky	15.5
+1102	21217	Taylor County, Kentucky	16.6
+1103	21219	Todd County, Kentucky	20
+1104	21221	Trigg County, Kentucky	15.9
+1105	21223	Trimble County, Kentucky	17.7
+1106	21225	Union County, Kentucky	16.8
+1107	21227	Warren County, Kentucky	16.2
+1108	21229	Washington County, Kentucky	17.3
+1109	21231	Wayne County, Kentucky	19.4
+1110	21233	Webster County, Kentucky	18.5
+1111	21235	Whitley County, Kentucky	16.7
+1112	21237	Wolfe County, Kentucky	16.9
+1113	21239	Woodford County, Kentucky	13.1
+1114	22001	Acadia Parish, Louisiana	20.4
+1115	22003	Allen Parish, Louisiana	20.6
+1116	22005	Ascension Parish, Louisiana	15.5
+1117	22007	Assumption Parish, Louisiana	20.6
+1118	22009	Avoyelles Parish, Louisiana	21.7
+1119	22011	Beauregard Parish, Louisiana	20.4
+1120	22013	Bienville Parish, Louisiana	18.8
+1121	22015	Bossier Parish, Louisiana	17.7
+1122	22017	Caddo Parish, Louisiana	18.8
+1123	22019	Calcasieu Parish, Louisiana	19.1
+1124	22021	Caldwell Parish, Louisiana	24.8
+1125	22023	Cameron Parish, Louisiana	23.7
+1126	22025	Catahoula Parish, Louisiana	24.1
+1127	22027	Claiborne Parish, Louisiana	21.8
+1128	22029	Concordia Parish, Louisiana	21.3
+1129	22031	De Soto Parish, Louisiana	20.5
+1130	22033	East Baton Rouge Parish, Louisiana	16.2
+1131	22035	East Carroll Parish, Louisiana	22.7
+1132	22037	East Feliciana Parish, Louisiana	19.6
+1133	22039	Evangeline Parish, Louisiana	19.8
+1134	22041	Franklin Parish, Louisiana	23.7
+1135	22043	Grant Parish, Louisiana	20.7
+1136	22045	Iberia Parish, Louisiana	20.4
+1137	22047	Iberville Parish, Louisiana	17.9
+1138	22049	Jackson Parish, Louisiana	20.7
+1139	22051	Jefferson Parish, Louisiana	19.2
+1140	22053	Jefferson Davis Parish, Louisiana	19
+1141	22055	Lafayette Parish, Louisiana	17.8
+1142	22057	Lafourche Parish, Louisiana	19
+1143	22059	La Salle Parish, Louisiana	21.6
+1144	22061	Lincoln Parish, Louisiana	20
+1145	22063	Livingston Parish, Louisiana	19.3
+1146	22065	Madison Parish, Louisiana	23.7
+1147	22067	Morehouse Parish, Louisiana	21.1
+1148	22069	Natchitoches Parish, Louisiana	20.7
+1149	22071	Orleans Parish, Louisiana	26.4
+1150	22073	Ouachita Parish, Louisiana	18.8
+1151	22075	Plaquemines Parish, Louisiana	20
+1152	22077	Pointe Coupee Parish, Louisiana	20.3
+1153	22079	Rapides Parish, Louisiana	18.6
+1154	22081	Red River Parish, Louisiana	22.3
+1155	22083	Richland Parish, Louisiana	22.5
+1156	22085	Sabine Parish, Louisiana	24.3
+1157	22087	St. Bernard Parish, Louisiana	30.4
+1158	22089	St. Charles Parish, Louisiana	14.5
+1159	22091	St. Helena Parish, Louisiana	22.6
+1160	22093	St. James Parish, Louisiana	17
+1161	22095	St. John the Baptist Parish, Louisiana	17.4
+1162	22097	St. Landry Parish, Louisiana	20.4
+1163	22099	St. Martin Parish, Louisiana	21.4
+1164	22101	St. Mary Parish, Louisiana	20.8
+1165	22103	St. Tammany Parish, Louisiana	16.3
+1166	22105	Tangipahoa Parish, Louisiana	20.3
+1167	22107	Tensas Parish, Louisiana	24.8
+1168	22109	Terrebonne Parish, Louisiana	19.7
+1169	22111	Union Parish, Louisiana	20.1
+1170	22113	Vermilion Parish, Louisiana	21.7
+1171	22115	Vernon Parish, Louisiana	17.7
+1172	22117	Washington Parish, Louisiana	21.7
+1173	22119	Webster Parish, Louisiana	19.8
+1174	22121	West Baton Rouge Parish, Louisiana	18.4
+1175	22123	West Carroll Parish, Louisiana	23.2
+1176	22125	West Feliciana Parish, Louisiana	21.5
+1177	22127	Winn Parish, Louisiana	21.6
+1178	23001	Androscoggin County, Maine	12.2
+1179	23003	Aroostook County, Maine	14.1
+1180	23005	Cumberland County, Maine	10.1
+1181	23007	Franklin County, Maine	11.9
+1182	23009	Hancock County, Maine	15.4
+1183	23011	Kennebec County, Maine	11.1
+1184	23013	Knox County, Maine	14.8
+1185	23015	Lincoln County, Maine	14.5
+1186	23017	Oxford County, Maine	12.9
+1187	23019	Penobscot County, Maine	12
+1188	23021	Piscataquis County, Maine	14.3
+1189	23023	Sagadahoc County, Maine	11.1
+1190	23025	Somerset County, Maine	12.8
+1191	23027	Waldo County, Maine	13.6
+1192	23029	Washington County, Maine	16.5
+1193	23031	York County, Maine	11.8
+1194	24001	Allegany County, Maryland	13.7
+1195	24003	Anne Arundel County, Maryland	9.3
+1196	24005	Baltimore County, Maryland	11
+1197	24009	Calvert County, Maryland	10.1
+1198	24011	Caroline County, Maryland	16.1
+1199	24013	Carroll County, Maryland	9.3
+1200	24015	Cecil County, Maryland	12.3
+1201	24017	Charles County, Maryland	10.1
+1202	24019	Dorchester County, Maryland	14.5
+1203	24021	Frederick County, Maryland	10.2
+1204	24023	Garrett County, Maryland	16.7
+1205	24025	Harford County, Maryland	10
+1206	24027	Howard County, Maryland	7.3
+1207	24029	Kent County, Maryland	15.2
+1208	24031	Montgomery County, Maryland	12.3
+1209	24033	Prince George's County, Maryland	16.4
+1210	24035	Queen Anne's County, Maryland	12.6
+1211	24037	St. Mary's County, Maryland	9.9
+1212	24039	Somerset County, Maryland	16.7
+1213	24041	Talbot County, Maryland	13.2
+1214	24043	Washington County, Maryland	14
+1215	24045	Wicomico County, Maryland	15.1
+1216	24047	Worcester County, Maryland	16.4
+1217	24510	Baltimore city, Maryland	15.2
+1218	25001	Barnstable County, Massachusetts	5
+1219	25003	Berkshire County, Massachusetts	4.8
+1220	25005	Bristol County, Massachusetts	5.4
+1221	25007	Dukes County, Massachusetts	7
+1222	25009	Essex County, Massachusetts	4.5
+1223	25011	Franklin County, Massachusetts	4.9
+1224	25013	Hampden County, Massachusetts	4.9
+1225	25015	Hampshire County, Massachusetts	4.2
+1226	25017	Middlesex County, Massachusetts	3.7
+1227	25019	Nantucket County, Massachusetts	7.5
+1228	25021	Norfolk County, Massachusetts	3.4
+1229	25023	Plymouth County, Massachusetts	4.4
+1230	25025	Suffolk County, Massachusetts	5.8
+1231	25027	Worcester County, Massachusetts	4
+1232	26001	Alcona County, Michigan	16
+1233	26003	Alger County, Michigan	16.3
+1234	26005	Allegan County, Michigan	13.1
+1235	26007	Alpena County, Michigan	11.9
+1236	26009	Antrim County, Michigan	15
+1237	26011	Arenac County, Michigan	13.8
+1238	26013	Baraga County, Michigan	17.3
+1239	26015	Barry County, Michigan	11.5
+1240	26017	Bay County, Michigan	11.9
+1241	26019	Benzie County, Michigan	15.5
+1242	26021	Berrien County, Michigan	14.1
+1243	26023	Branch County, Michigan	14.4
+1244	26025	Calhoun County, Michigan	12.6
+1245	26027	Cass County, Michigan	13.3
+1246	26029	Charlevoix County, Michigan	13.1
+1247	26031	Cheboygan County, Michigan	15.9
+1248	26033	Chippewa County, Michigan	15.6
+1249	26035	Clare County, Michigan	14.9
+1250	26037	Clinton County, Michigan	9.9
+1251	26039	Crawford County, Michigan	14.1
+1252	26041	Delta County, Michigan	12
+1253	26043	Dickinson County, Michigan	10.8
+1254	26045	Eaton County, Michigan	9.4
+1255	26047	Emmet County, Michigan	13.7
+1256	26049	Genesee County, Michigan	10.7
+1257	26051	Gladwin County, Michigan	15.3
+1258	26053	Gogebic County, Michigan	13.7
+1259	26055	Grand Traverse County, Michigan	11.8
+1260	26057	Gratiot County, Michigan	11.8
+1261	26059	Hillsdale County, Michigan	14.4
+1262	26061	Houghton County, Michigan	13.8
+1263	26063	Huron County, Michigan	14.1
+1264	26065	Ingham County, Michigan	11.8
+1265	26067	Ionia County, Michigan	12.5
+1266	26069	Iosco County, Michigan	14.4
+1267	26071	Iron County, Michigan	13.2
+1268	26073	Isabella County, Michigan	14.3
+1269	26075	Jackson County, Michigan	11.5
+1270	26077	Kalamazoo County, Michigan	11
+1271	26079	Kalkaska County, Michigan	14.5
+1272	26081	Kent County, Michigan	12.1
+1273	26083	Keweenaw County, Michigan	19.2
+1274	26085	Lake County, Michigan	15.2
+1275	26087	Lapeer County, Michigan	12.2
+1276	26089	Leelanau County, Michigan	13.8
+1277	26091	Lenawee County, Michigan	12.6
+1278	26093	Livingston County, Michigan	9.7
+1279	26095	Luce County, Michigan	18.7
+1280	26097	Mackinac County, Michigan	16.9
+1281	26099	Macomb County, Michigan	12.2
+1282	26101	Manistee County, Michigan	13.9
+1283	26103	Marquette County, Michigan	11.6
+1284	26105	Mason County, Michigan	13.6
+1285	26107	Mecosta County, Michigan	14
+1286	26109	Menominee County, Michigan	12.7
+1287	26111	Midland County, Michigan	10
+1288	26113	Missaukee County, Michigan	17
+1289	26115	Monroe County, Michigan	10.2
+1290	26117	Montcalm County, Michigan	14.4
+1291	26119	Montmorency County, Michigan	15.7
+1292	26121	Muskegon County, Michigan	12.2
+1293	26123	Newaygo County, Michigan	14.5
+1294	26125	Oakland County, Michigan	10.1
+1295	26127	Oceana County, Michigan	16.2
+1296	26129	Ogemaw County, Michigan	14.4
+1297	26131	Ontonagon County, Michigan	15.8
+1298	26133	Osceola County, Michigan	13.1
+1299	26135	Oscoda County, Michigan	16.6
+1300	26137	Otsego County, Michigan	12.7
+1301	26139	Ottawa County, Michigan	10
+1302	26141	Presque Isle County, Michigan	16.1
+1303	26143	Roscommon County, Michigan	14.2
+1304	26145	Saginaw County, Michigan	11.6
+1305	26147	St. Clair County, Michigan	11.4
+1306	26149	St. Joseph County, Michigan	15
+1307	26151	Sanilac County, Michigan	13.9
+1308	26153	Schoolcraft County, Michigan	16.9
+1309	26155	Shiawassee County, Michigan	12.5
+1310	26157	Tuscola County, Michigan	13.1
+1311	26159	Van Buren County, Michigan	14.5
+1312	26161	Washtenaw County, Michigan	9.3
+1313	26163	Wayne County, Michigan	15.2
+1314	26165	Wexford County, Michigan	12.5
+1315	27001	Aitkin County, Minnesota	13.4
+1316	27003	Anoka County, Minnesota	9.1
+1317	27005	Becker County, Minnesota	12
+1318	27007	Beltrami County, Minnesota	15
+1319	27009	Benton County, Minnesota	10.2
+1320	27011	Big Stone County, Minnesota	12.5
+1321	27013	Blue Earth County, Minnesota	9.2
+1322	27015	Brown County, Minnesota	8.9
+1323	27017	Carlton County, Minnesota	10
+1324	27019	Carver County, Minnesota	6.4
+1325	27021	Cass County, Minnesota	13.6
+1326	27023	Chippewa County, Minnesota	11.1
+1327	27025	Chisago County, Minnesota	9.2
+1328	27027	Clay County, Minnesota	9.8
+1329	27029	Clearwater County, Minnesota	14.4
+1330	27031	Cook County, Minnesota	15.2
+1331	27033	Cottonwood County, Minnesota	11
+1332	27035	Crow Wing County, Minnesota	11.3
+1333	27037	Dakota County, Minnesota	7
+1334	27039	Dodge County, Minnesota	9.9
+1335	27041	Douglas County, Minnesota	10.2
+1336	27043	Faribault County, Minnesota	11.3
+1337	27045	Fillmore County, Minnesota	12.3
+1338	27047	Freeborn County, Minnesota	11
+1339	27049	Goodhue County, Minnesota	9.2
+1340	27051	Grant County, Minnesota	13
+1341	27053	Hennepin County, Minnesota	9.8
+1342	27055	Houston County, Minnesota	9.9
+1343	27057	Hubbard County, Minnesota	12.1
+1344	27059	Isanti County, Minnesota	10.4
+1345	27061	Itasca County, Minnesota	11
+1346	27063	Jackson County, Minnesota	9.1
+1347	27065	Kanabec County, Minnesota	11.5
+1348	27067	Kandiyohi County, Minnesota	9.8
+1349	27069	Kittson County, Minnesota	12.3
+1350	27071	Koochiching County, Minnesota	11.4
+1351	27073	Lac qui Parle County, Minnesota	11.7
+1352	27075	Lake County, Minnesota	10.1
+1353	27077	Lake of the Woods County, Minnesota	14.5
+1354	27079	Le Sueur County, Minnesota	10.8
+1355	27081	Lincoln County, Minnesota	12.4
+1356	27083	Lyon County, Minnesota	9.8
+1357	27085	McLeod County, Minnesota	9.2
+1358	27087	Mahnomen County, Minnesota	14.2
+1359	27089	Marshall County, Minnesota	13.5
+1360	27091	Martin County, Minnesota	9.3
+1361	27093	Meeker County, Minnesota	9.9
+1362	27095	Mille Lacs County, Minnesota	12.5
+1363	27097	Morrison County, Minnesota	11.2
+1364	27099	Mower County, Minnesota	10.9
+1365	27101	Murray County, Minnesota	12.3
+1366	27103	Nicollet County, Minnesota	7.6
+1367	27105	Nobles County, Minnesota	13
+1368	27107	Norman County, Minnesota	13.4
+1369	27109	Olmsted County, Minnesota	7.1
+1370	27111	Otter Tail County, Minnesota	11.2
+1371	27113	Pennington County, Minnesota	10.5
+1372	27115	Pine County, Minnesota	12.5
+1373	27117	Pipestone County, Minnesota	11.9
+1374	27119	Polk County, Minnesota	10.8
+1375	27121	Pope County, Minnesota	10.4
+1376	27123	Ramsey County, Minnesota	10
+1377	27125	Red Lake County, Minnesota	14.4
+1378	27127	Redwood County, Minnesota	11.6
+1379	27129	Renville County, Minnesota	11.7
+1380	27131	Rice County, Minnesota	10.9
+1381	27133	Rock County, Minnesota	11.3
+1382	27135	Roseau County, Minnesota	9.2
+1383	27137	St. Louis County, Minnesota	9.8
+1384	27139	Scott County, Minnesota	7.4
+1385	27141	Sherburne County, Minnesota	9.4
+1386	27143	Sibley County, Minnesota	12
+1387	27145	Stearns County, Minnesota	9.2
+1388	27147	Steele County, Minnesota	9.1
+1389	27149	Stevens County, Minnesota	9.7
+1390	27151	Swift County, Minnesota	12.2
+1391	27153	Todd County, Minnesota	12.1
+1392	27155	Traverse County, Minnesota	13.9
+1393	27157	Wabasha County, Minnesota	10.1
+1394	27159	Wadena County, Minnesota	10.9
+1395	27161	Waseca County, Minnesota	9.1
+1396	27163	Washington County, Minnesota	6.2
+1397	27165	Watonwan County, Minnesota	15.3
+1398	27167	Wilkin County, Minnesota	10.7
+1399	27169	Winona County, Minnesota	10.5
+1400	27171	Wright County, Minnesota	9.1
+1401	27173	Yellow Medicine County, Minnesota	10
+1402	28001	Adams County, Mississippi	20.3
+1403	28003	Alcorn County, Mississippi	19.2
+1404	28005	Amite County, Mississippi	20.5
+1405	28007	Attala County, Mississippi	20.3
+1406	28009	Benton County, Mississippi	21.6
+1407	28011	Bolivar County, Mississippi	19.9
+1408	28013	Calhoun County, Mississippi	21.5
+1409	28015	Carroll County, Mississippi	23.4
+1410	28017	Chickasaw County, Mississippi	21.7
+1411	28019	Choctaw County, Mississippi	22.3
+1412	28021	Claiborne County, Mississippi	20
+1413	28023	Clarke County, Mississippi	20.3
+1414	28025	Clay County, Mississippi	19.5
+1415	28027	Coahoma County, Mississippi	20.5
+1416	28029	Copiah County, Mississippi	19.1
+1417	28031	Covington County, Mississippi	21.1
+1418	28033	DeSoto County, Mississippi	17
+1419	28035	Forrest County, Mississippi	20
+1420	28037	Franklin County, Mississippi	23.6
+1421	28039	George County, Mississippi	21.1
+1422	28041	Greene County, Mississippi	24.3
+1423	28043	Grenada County, Mississippi	20.3
+1424	28045	Hancock County, Mississippi	18.3
+1425	28047	Harrison County, Mississippi	20
+1426	28049	Hinds County, Mississippi	17.4
+1427	28051	Holmes County, Mississippi	20.4
+1428	28053	Humphreys County, Mississippi	21.9
+1429	28055	Issaquena County, Mississippi	28.8
+1430	28057	Itawamba County, Mississippi	20.9
+1431	28059	Jackson County, Mississippi	18.8
+1432	28061	Jasper County, Mississippi	19
+1433	28063	Jefferson County, Mississippi	25.2
+1434	28065	Jefferson Davis County, Mississippi	21.6
+1435	28067	Jones County, Mississippi	21.2
+1436	28069	Kemper County, Mississippi	23.8
+1437	28071	Lafayette County, Mississippi	18.5
+1438	28073	Lamar County, Mississippi	18.5
+1439	28075	Lauderdale County, Mississippi	18
+1440	28077	Lawrence County, Mississippi	20.4
+1441	28079	Leake County, Mississippi	20.9
+1442	28081	Lee County, Mississippi	18.6
+1443	28083	Leflore County, Mississippi	20.1
+1444	28085	Lincoln County, Mississippi	20.5
+1445	28087	Lowndes County, Mississippi	19
+1446	28089	Madison County, Mississippi	13.6
+1447	28091	Marion County, Mississippi	21.6
+1448	28093	Marshall County, Mississippi	21.5
+1449	28095	Monroe County, Mississippi	20
+1450	28097	Montgomery County, Mississippi	21.5
+1451	28099	Neshoba County, Mississippi	20.8
+1452	28101	Newton County, Mississippi	20.4
+1453	28103	Noxubee County, Mississippi	20.8
+1454	28105	Oktibbeha County, Mississippi	19.9
+1455	28107	Panola County, Mississippi	21.5
+1456	28109	Pearl River County, Mississippi	21.6
+1457	28111	Perry County, Mississippi	19
+1458	28113	Pike County, Mississippi	20.1
+1459	28115	Pontotoc County, Mississippi	19.1
+1460	28117	Prentiss County, Mississippi	19
+1461	28119	Quitman County, Mississippi	23.1
+1462	28121	Rankin County, Mississippi	15.8
+1463	28123	Scott County, Mississippi	23.4
+1464	28125	Sharkey County, Mississippi	25.5
+1465	28127	Simpson County, Mississippi	21.4
+1466	28129	Smith County, Mississippi	19.9
+1467	28131	Stone County, Mississippi	20.7
+1468	28133	Sunflower County, Mississippi	22.3
+1469	28135	Tallahatchie County, Mississippi	22
+1470	28137	Tate County, Mississippi	20.6
+1471	28139	Tippah County, Mississippi	21.2
+1472	28141	Tishomingo County, Mississippi	20.3
+1473	28143	Tunica County, Mississippi	15.1
+1474	28145	Union County, Mississippi	20.2
+1475	28147	Walthall County, Mississippi	22.5
+1476	28149	Warren County, Mississippi	17.1
+1477	28151	Washington County, Mississippi	20.7
+1478	28153	Wayne County, Mississippi	21.6
+1479	28155	Webster County, Mississippi	20.5
+1480	28157	Wilkinson County, Mississippi	24.8
+1481	28159	Winston County, Mississippi	19.9
+1482	28161	Yalobusha County, Mississippi	20.1
+1483	28163	Yazoo County, Mississippi	22.9
+1484	29001	Adair County, Missouri	15.7
+1485	29003	Andrew County, Missouri	15.3
+1486	29005	Atchison County, Missouri	18.6
+1487	29007	Audrain County, Missouri	15.7
+1488	29009	Barry County, Missouri	16.5
+1489	29011	Barton County, Missouri	16.4
+1490	29013	Bates County, Missouri	18.1
+1491	29015	Benton County, Missouri	18.8
+1492	29017	Bollinger County, Missouri	20.5
+1493	29019	Boone County, Missouri	12.8
+1494	29021	Buchanan County, Missouri	14
+1495	29023	Butler County, Missouri	16.4
+1496	29025	Caldwell County, Missouri	17.6
+1497	29027	Callaway County, Missouri	14.5
+1498	29029	Camden County, Missouri	17.1
+1499	29031	Cape Girardeau County, Missouri	14.6
+1500	29033	Carroll County, Missouri	17.3
+1501	29035	Carter County, Missouri	23.1
+1502	29037	Cass County, Missouri	12.9
+1503	29039	Cedar County, Missouri	18.1
+1504	29041	Chariton County, Missouri	17.2
+1505	29043	Christian County, Missouri	15.8
+1506	29045	Clark County, Missouri	20.3
+1507	29047	Clay County, Missouri	12
+1508	29049	Clinton County, Missouri	15.3
+1509	29051	Cole County, Missouri	12.6
+1510	29053	Cooper County, Missouri	16.3
+1511	29055	Crawford County, Missouri	19.2
+1512	29057	Dade County, Missouri	18.6
+1513	29059	Dallas County, Missouri	17.7
+1514	29061	Daviess County, Missouri	20.3
+1515	29063	DeKalb County, Missouri	19.3
+1516	29065	Dent County, Missouri	17.9
+1517	29067	Douglas County, Missouri	17.7
+1518	29069	Dunklin County, Missouri	17.6
+1519	29071	Franklin County, Missouri	13.8
+1520	29073	Gasconade County, Missouri	16.5
+1521	29075	Gentry County, Missouri	19.1
+1522	29077	Greene County, Missouri	15.2
+1523	29079	Grundy County, Missouri	17.8
+1524	29081	Harrison County, Missouri	17.9
+1525	29083	Henry County, Missouri	16.6
+1526	29085	Hickory County, Missouri	22.3
+1527	29087	Holt County, Missouri	18.2
+1528	29089	Howard County, Missouri	17.1
+1529	29091	Howell County, Missouri	17.5
+1530	29093	Iron County, Missouri	19.9
+1531	29095	Jackson County, Missouri	15.4
+1532	29097	Jasper County, Missouri	19.2
+1533	29099	Jefferson County, Missouri	12.4
+1534	29101	Johnson County, Missouri	14.8
+1535	29103	Knox County, Missouri	20.5
+1536	29105	Laclede County, Missouri	17.1
+1537	29107	Lafayette County, Missouri	15.1
+1538	29109	Lawrence County, Missouri	18.7
+1539	29111	Lewis County, Missouri	16.7
+1540	29113	Lincoln County, Missouri	15.9
+1541	29115	Linn County, Missouri	14
+1542	29117	Livingston County, Missouri	16.1
+1543	29119	McDonald County, Missouri	20.9
+1544	29121	Macon County, Missouri	16.7
+1545	29123	Madison County, Missouri	19.1
+1546	29125	Maries County, Missouri	18.7
+1547	29127	Marion County, Missouri	14.4
+1548	29129	Mercer County, Missouri	19.3
+1549	29131	Miller County, Missouri	19.4
+1550	29133	Mississippi County, Missouri	18.5
+1551	29135	Moniteau County, Missouri	17.3
+1552	29137	Monroe County, Missouri	16.5
+1553	29139	Montgomery County, Missouri	17.9
+1554	29141	Morgan County, Missouri	21.4
+1555	29143	New Madrid County, Missouri	15.9
+1556	29145	Newton County, Missouri	17.2
+1557	29147	Nodaway County, Missouri	13.9
+1558	29149	Oregon County, Missouri	18.1
+1559	29151	Osage County, Missouri	14.9
+1560	29153	Ozark County, Missouri	20.7
+1561	29155	Pemiscot County, Missouri	14.8
+1562	29157	Perry County, Missouri	15
+1563	29159	Pettis County, Missouri	17
+1564	29161	Phelps County, Missouri	17.7
+1565	29163	Pike County, Missouri	17.8
+1566	29165	Platte County, Missouri	10
+1567	29167	Polk County, Missouri	17.5
+1568	29169	Pulaski County, Missouri	14.9
+1569	29171	Putnam County, Missouri	18.7
+1570	29173	Ralls County, Missouri	14.4
+1571	29175	Randolph County, Missouri	14.2
+1572	29177	Ray County, Missouri	15
+1573	29179	Reynolds County, Missouri	20.7
+1574	29181	Ripley County, Missouri	18.4
+1575	29183	St. Charles County, Missouri	9.8
+1576	29185	St. Clair County, Missouri	19.3
+1577	29186	Ste. Genevieve County, Missouri	15
+1578	29187	St. Francois County, Missouri	15.8
+1579	29189	St. Louis County, Missouri	9.8
+1580	29195	Saline County, Missouri	16.9
+1581	29197	Schuyler County, Missouri	22
+1582	29199	Scotland County, Missouri	21.4
+1583	29201	Scott County, Missouri	16.1
+1584	29203	Shannon County, Missouri	20.6
+1585	29205	Shelby County, Missouri	18.3
+1586	29207	Stoddard County, Missouri	18.6
+1587	29209	Stone County, Missouri	19.4
+1588	29211	Sullivan County, Missouri	19.8
+1589	29213	Taney County, Missouri	18.6
+1590	29215	Texas County, Missouri	18
+1591	29217	Vernon County, Missouri	17.9
+1592	29219	Warren County, Missouri	15.5
+1593	29221	Washington County, Missouri	18.3
+1594	29223	Wayne County, Missouri	17.9
+1595	29225	Webster County, Missouri	18.9
+1596	29227	Worth County, Missouri	23.2
+1597	29229	Wright County, Missouri	18.8
+1598	29510	St. Louis city, Missouri	17
+1599	30001	Beaverhead County, Montana	22.8
+1600	30003	Big Horn County, Montana	27.4
+1601	30005	Blaine County, Montana	28.9
+1602	30007	Broadwater County, Montana	22.4
+1603	30009	Carbon County, Montana	21
+1604	30011	Carter County, Montana	28.9
+1605	30013	Cascade County, Montana	19.6
+1606	30015	Chouteau County, Montana	26
+1607	30017	Custer County, Montana	18.6
+1608	30019	Daniels County, Montana	23.2
+1609	30021	Dawson County, Montana	20.5
+1610	30023	Deer Lodge County, Montana	21
+1611	30025	Fallon County, Montana	23.8
+1612	30027	Fergus County, Montana	21.3
+1613	30029	Flathead County, Montana	21.3
+1614	30031	Gallatin County, Montana	18.4
+1615	30033	Garfield County, Montana	28.1
+1616	30035	Glacier County, Montana	28.4
+1617	30037	Golden Valley County, Montana	30.5
+1618	30039	Granite County, Montana	27.7
+1619	30041	Hill County, Montana	23.2
+1620	30043	Jefferson County, Montana	16.4
+1621	30045	Judith Basin County, Montana	27.4
+1622	30047	Lake County, Montana	25.9
+1623	30049	Lewis and Clark County, Montana	16.7
+1624	30051	Liberty County, Montana	26.4
+1625	30053	Lincoln County, Montana	23.6
+1626	30055	McCone County, Montana	23.2
+1627	30057	Madison County, Montana	24.1
+1628	30059	Meagher County, Montana	31.8
+1629	30061	Mineral County, Montana	24.4
+1630	30063	Missoula County, Montana	18.6
+1631	30065	Musselshell County, Montana	24.4
+1632	30067	Park County, Montana	21.9
+1633	30069	Petroleum County, Montana	32
+1634	30071	Phillips County, Montana	29.6
+1635	30073	Pondera County, Montana	28.3
+1636	30075	Powder River County, Montana	29.5
+1637	30077	Powell County, Montana	24.4
+1638	30079	Prairie County, Montana	25.8
+1639	30081	Ravalli County, Montana	22.4
+1640	30083	Richland County, Montana	20.3
+1641	30085	Roosevelt County, Montana	25.5
+1642	30087	Rosebud County, Montana	21.9
+1643	30089	Sanders County, Montana	27.9
+1644	30091	Sheridan County, Montana	23.9
+1645	30093	Silver Bow County, Montana	18.5
+1646	30095	Stillwater County, Montana	16.1
+1647	30097	Sweet Grass County, Montana	19.9
+1648	30099	Teton County, Montana	25.9
+1649	30101	Toole County, Montana	25.7
+1650	30103	Treasure County, Montana	30.3
+1651	30105	Valley County, Montana	25
+1652	30107	Wheatland County, Montana	34.9
+1653	30109	Wibaux County, Montana	29.9
+1654	30111	Yellowstone County, Montana	16.9
+1655	31001	Adams County, Nebraska	13.7
+1656	31003	Antelope County, Nebraska	14.7
+1657	31005	Arthur County, Nebraska	20
+1658	31007	Banner County, Nebraska	18.5
+1659	31009	Blaine County, Nebraska	12.3
+1660	31011	Boone County, Nebraska	13.4
+1661	31013	Box Butte County, Nebraska	12.8
+1662	31015	Boyd County, Nebraska	18.6
+1663	31017	Brown County, Nebraska	16.3
+1664	31019	Buffalo County, Nebraska	12.4
+1665	31021	Burt County, Nebraska	15.2
+1666	31023	Butler County, Nebraska	13.1
+1667	31025	Cass County, Nebraska	10.2
+1668	31027	Cedar County, Nebraska	15.2
+1669	31029	Chase County, Nebraska	15.3
+1670	31031	Cherry County, Nebraska	15.7
+1671	31033	Cheyenne County, Nebraska	12.4
+1672	31035	Clay County, Nebraska	14.9
+1673	31037	Colfax County, Nebraska	19.8
+1674	31039	Cuming County, Nebraska	17.8
+1675	31041	Custer County, Nebraska	12.3
+1676	31043	Dakota County, Nebraska	16.9
+1677	31045	Dawes County, Nebraska	17
+1678	31047	Dawson County, Nebraska	18.3
+1679	31049	Deuel County, Nebraska	16.7
+1680	31051	Dixon County, Nebraska	14.1
+1681	31053	Dodge County, Nebraska	12.9
+1682	31055	Douglas County, Nebraska	11.3
+1683	31057	Dundy County, Nebraska	19.1
+1684	31059	Fillmore County, Nebraska	13.7
+1685	31061	Franklin County, Nebraska	15
+1686	31063	Frontier County, Nebraska	16.9
+1687	31065	Furnas County, Nebraska	15.9
+1688	31067	Gage County, Nebraska	12.1
+1689	31069	Garden County, Nebraska	9.5
+1690	31071	Garfield County, Nebraska	21.5
+1691	31073	Gosper County, Nebraska	17.5
+1692	31075	Grant County, Nebraska	19.9
+1693	31077	Greeley County, Nebraska	17.1
+1694	31079	Hall County, Nebraska	15.8
+1695	31081	Hamilton County, Nebraska	11.9
+1696	31083	Harlan County, Nebraska	16.9
+1697	31085	Hayes County, Nebraska	17.7
+1698	31087	Hitchcock County, Nebraska	16.4
+1699	31089	Holt County, Nebraska	14.6
+1700	31091	Hooker County, Nebraska	19.3
+1701	31093	Howard County, Nebraska	13.2
+1702	31095	Jefferson County, Nebraska	13.9
+1703	31097	Johnson County, Nebraska	18.2
+1704	31099	Kearney County, Nebraska	13
+1705	31101	Keith County, Nebraska	14.3
+1706	31103	Keya Paha County, Nebraska	17.2
+1707	31105	Kimball County, Nebraska	13.6
+1708	31107	Knox County, Nebraska	16.8
+1709	31109	Lancaster County, Nebraska	10.5
+1710	31111	Lincoln County, Nebraska	11.7
+1711	31113	Logan County, Nebraska	19.6
+1712	31115	Loup County, Nebraska	15.2
+1713	31117	McPherson County, Nebraska	16.5
+1714	31119	Madison County, Nebraska	13.7
+1715	31121	Merrick County, Nebraska	14.4
+1716	31123	Morrill County, Nebraska	16.3
+1717	31125	Nance County, Nebraska	16.4
+1718	31127	Nemaha County, Nebraska	12.8
+1719	31129	Nuckolls County, Nebraska	14
+1720	31131	Otoe County, Nebraska	11.7
+1721	31133	Pawnee County, Nebraska	15.2
+1722	31135	Perkins County, Nebraska	15.7
+1723	31137	Phelps County, Nebraska	12.7
+1724	31139	Pierce County, Nebraska	15.6
+1725	31141	Platte County, Nebraska	12.3
+1726	31143	Polk County, Nebraska	14.3
+1727	31145	Red Willow County, Nebraska	13.1
+1728	31147	Richardson County, Nebraska	15.9
+1729	31149	Rock County, Nebraska	20.9
+1730	31151	Saline County, Nebraska	12.8
+1731	31153	Sarpy County, Nebraska	9.4
+1732	31155	Saunders County, Nebraska	11.8
+1733	31157	Scotts Bluff County, Nebraska	15.4
+1734	31159	Seward County, Nebraska	10.5
+1735	31161	Sheridan County, Nebraska	18.8
+1736	31163	Sherman County, Nebraska	15.6
+1737	31165	Sioux County, Nebraska	18.8
+1738	31167	Stanton County, Nebraska	13.6
+1739	31169	Thayer County, Nebraska	13.5
+1740	31171	Thomas County, Nebraska	16.1
+1741	31173	Thurston County, Nebraska	19.8
+1742	31175	Valley County, Nebraska	14.2
+1743	31177	Washington County, Nebraska	9.3
+1744	31179	Wayne County, Nebraska	13.6
+1745	31181	Webster County, Nebraska	16.4
+1746	31183	Wheeler County, Nebraska	15
+1747	31185	York County, Nebraska	11.8
+1748	32001	Churchill County, Nevada	24.7
+1749	32003	Clark County, Nevada	23.4
+1750	32005	Douglas County, Nevada	18.6
+1751	32007	Elko County, Nevada	22.9
+1752	32009	Esmeralda County, Nevada	33.5
+1753	32011	Eureka County, Nevada	24.3
+1754	32013	Humboldt County, Nevada	24.4
+1755	32015	Lander County, Nevada	22.2
+1756	32017	Lincoln County, Nevada	31.1
+1757	32019	Lyon County, Nevada	24
+1758	32021	Mineral County, Nevada	24.8
+1759	32023	Nye County, Nevada	25
+1760	32027	Pershing County, Nevada	28
+1761	32029	Storey County, Nevada	22
+1762	32031	Washoe County, Nevada	22.5
+1763	32033	White Pine County, Nevada	24.2
+1764	32510	Carson City, Nevada	25.1
+1765	33001	Belknap County, New Hampshire	13.8
+1766	33003	Carroll County, New Hampshire	15.9
+1767	33005	Cheshire County, New Hampshire	13.5
+1768	33007	Coos County, New Hampshire	15.6
+1769	33009	Grafton County, New Hampshire	13.1
+1770	33011	Hillsborough County, New Hampshire	11.7
+1771	33013	Merrimack County, New Hampshire	11.7
+1772	33015	Rockingham County, New Hampshire	10.5
+1773	33017	Strafford County, New Hampshire	12.4
+1774	33019	Sullivan County, New Hampshire	14.7
+1775	34001	Atlantic County, New Jersey	15
+1776	34003	Bergen County, New Jersey	12.7
+1777	34005	Burlington County, New Jersey	10.3
+1778	34007	Camden County, New Jersey	13.5
+1779	34009	Cape May County, New Jersey	14.1
+1780	34011	Cumberland County, New Jersey	16.8
+1781	34013	Essex County, New Jersey	17.1
+1782	34015	Gloucester County, New Jersey	10.5
+1783	34017	Hudson County, New Jersey	20.4
+1784	34019	Hunterdon County, New Jersey	7.5
+1785	34021	Mercer County, New Jersey	12.4
+1786	34023	Middlesex County, New Jersey	12.9
+1787	34025	Monmouth County, New Jersey	11.1
+1788	34027	Morris County, New Jersey	8.2
+1789	34029	Ocean County, New Jersey	13
+1790	34031	Passaic County, New Jersey	19.7
+1791	34033	Salem County, New Jersey	12.9
+1792	34035	Somerset County, New Jersey	8.3
+1793	34037	Sussex County, New Jersey	10.7
+1794	34039	Union County, New Jersey	17.9
+1795	34041	Warren County, New Jersey	11.6
+1796	35001	Bernalillo County, New Mexico	20.2
+1797	35003	Catron County, New Mexico	29.8
+1798	35005	Chaves County, New Mexico	26.3
+1799	35006	Cibola County, New Mexico	24.6
+1800	35007	Colfax County, New Mexico	22.3
+1801	35009	Curry County, New Mexico	23.8
+1802	35011	De Baca County, New Mexico	32.6
+1803	35013	Dona Ana County, New Mexico	28.1
+1804	35015	Eddy County, New Mexico	22.4
+1805	35017	Grant County, New Mexico	21.3
+1806	35019	Guadalupe County, New Mexico	29.4
+1807	35021	Harding County, New Mexico	30.8
+1808	35023	Hidalgo County, New Mexico	29.8
+1809	35025	Lea County, New Mexico	25.5
+1810	35027	Lincoln County, New Mexico	26.5
+1811	35028	Los Alamos County, New Mexico	5.3
+1812	35029	Luna County, New Mexico	31
+1813	35031	McKinley County, New Mexico	33
+1814	35033	Mora County, New Mexico	27.1
+1815	35035	Otero County, New Mexico	27.2
+1816	35037	Quay County, New Mexico	25.3
+1817	35039	Rio Arriba County, New Mexico	26
+1818	35041	Roosevelt County, New Mexico	25.1
+1819	35043	Sandoval County, New Mexico	18.4
+1820	35045	San Juan County, New Mexico	29.8
+1821	35047	San Miguel County, New Mexico	21.9
+1822	35049	Santa Fe County, New Mexico	25.1
+1823	35051	Sierra County, New Mexico	24.5
+1824	35053	Socorro County, New Mexico	27.1
+1825	35055	Taos County, New Mexico	27.8
+1826	35057	Torrance County, New Mexico	24.3
+1827	35059	Union County, New Mexico	26.7
+1828	35061	Valencia County, New Mexico	23.4
+1829	36001	Albany County, New York	9.5
+1830	36003	Allegany County, New York	11.7
+1831	36005	Bronx County, New York	17.6
+1832	36007	Broome County, New York	11.9
+1833	36009	Cattaraugus County, New York	12.1
+1834	36011	Cayuga County, New York	14
+1835	36013	Chautauqua County, New York	12
+1836	36015	Chemung County, New York	11.1
+1837	36017	Chenango County, New York	12.8
+1838	36019	Clinton County, New York	12.8
+1839	36021	Columbia County, New York	13.2
+1840	36023	Cortland County, New York	11.9
+1841	36025	Delaware County, New York	12.6
+1842	36027	Dutchess County, New York	11.5
+1843	36029	Erie County, New York	9.1
+1844	36031	Essex County, New York	14.4
+1845	36033	Franklin County, New York	15.8
+1846	36035	Fulton County, New York	11.9
+1847	36037	Genesee County, New York	11.1
+1848	36039	Greene County, New York	15.3
+1849	36041	Hamilton County, New York	18.6
+1850	36043	Herkimer County, New York	12.5
+1851	36045	Jefferson County, New York	12.9
+1852	36047	Kings County, New York	14.9
+1853	36049	Lewis County, New York	12.7
+1854	36051	Livingston County, New York	11.5
+1855	36053	Madison County, New York	12.4
+1856	36055	Monroe County, New York	8.5
+1857	36057	Montgomery County, New York	12.3
+1858	36059	Nassau County, New York	10.1
+1859	36061	New York County, New York	11.5
+1860	36063	Niagara County, New York	11.5
+1861	36065	Oneida County, New York	12
+1862	36067	Onondaga County, New York	10.9
+1863	36069	Ontario County, New York	9.4
+1864	36071	Orange County, New York	13
+1865	36073	Orleans County, New York	13.7
+1866	36075	Oswego County, New York	10.9
+1867	36077	Otsego County, New York	11.1
+1868	36079	Putnam County, New York	9.9
+1869	36081	Queens County, New York	19.4
+1870	36083	Rensselaer County, New York	10.7
+1871	36085	Richmond County, New York	10.7
+1872	36087	Rockland County, New York	11.4
+1873	36089	St. Lawrence County, New York	12.7
+1874	36091	Saratoga County, New York	9.6
+1875	36093	Schenectady County, New York	11.3
+1876	36095	Schoharie County, New York	11.9
+1877	36097	Schuyler County, New York	13.7
+1878	36099	Seneca County, New York	13.5
+1879	36101	Steuben County, New York	11.7
+1880	36103	Suffolk County, New York	11.4
+1881	36105	Sullivan County, New York	16.1
+1882	36107	Tioga County, New York	10.1
+1883	36109	Tompkins County, New York	10.6
+1884	36111	Ulster County, New York	13.6
+1885	36113	Warren County, New York	12.4
+1886	36115	Washington County, New York	14.2
+1887	36117	Wayne County, New York	10.9
+1888	36119	Westchester County, New York	11.8
+1889	36121	Wyoming County, New York	12.8
+1890	36123	Yates County, New York	14.6
+1891	37001	Alamance County, North Carolina	18.8
+1892	37003	Alexander County, North Carolina	18.4
+1893	37005	Alleghany County, North Carolina	23
+1894	37007	Anson County, North Carolina	18.1
+1895	37009	Ashe County, North Carolina	21.2
+1896	37011	Avery County, North Carolina	23.5
+1897	37013	Beaufort County, North Carolina	18.2
+1898	37015	Bertie County, North Carolina	18.1
+1899	37017	Bladen County, North Carolina	18.1
+1900	37019	Brunswick County, North Carolina	23
+1901	37021	Buncombe County, North Carolina	17.6
+1902	37023	Burke County, North Carolina	19.2
+1903	37025	Cabarrus County, North Carolina	16.7
+1904	37027	Caldwell County, North Carolina	19.3
+1905	37029	Camden County, North Carolina	18.6
+1906	37031	Carteret County, North Carolina	19.3
+1907	37033	Caswell County, North Carolina	18.1
+1908	37035	Catawba County, North Carolina	18.4
+1909	37037	Chatham County, North Carolina	19.3
+1910	37039	Cherokee County, North Carolina	20.6
+1911	37041	Chowan County, North Carolina	17.6
+1912	37043	Clay County, North Carolina	21.5
+1913	37045	Cleveland County, North Carolina	17.6
+1914	37047	Columbus County, North Carolina	19
+1915	37049	Craven County, North Carolina	15.2
+1916	37051	Cumberland County, North Carolina	14.3
+1917	37053	Currituck County, North Carolina	17.8
+1918	37055	Dare County, North Carolina	18.1
+1919	37057	Davidson County, North Carolina	18.4
+1920	37059	Davie County, North Carolina	16.8
+1921	37061	Duplin County, North Carolina	23.9
+1922	37063	Durham County, North Carolina	15.6
+1923	37065	Edgecombe County, North Carolina	16.8
+1924	37067	Forsyth County, North Carolina	16.1
+1925	37069	Franklin County, North Carolina	19.6
+1926	37071	Gaston County, North Carolina	17.7
+1927	37073	Gates County, North Carolina	19.9
+1928	37075	Graham County, North Carolina	22.8
+1929	37077	Granville County, North Carolina	17.6
+1930	37079	Greene County, North Carolina	23.8
+1931	37081	Guilford County, North Carolina	15.9
+1932	37083	Halifax County, North Carolina	17.6
+1933	37085	Harnett County, North Carolina	20.7
+1934	37087	Haywood County, North Carolina	19.3
+1935	37089	Henderson County, North Carolina	19.8
+1936	37091	Hertford County, North Carolina	16.5
+1937	37093	Hoke County, North Carolina	21.9
+1938	37095	Hyde County, North Carolina	22.1
+1939	37097	Iredell County, North Carolina	17.1
+1940	37099	Jackson County, North Carolina	20
+1941	37101	Johnston County, North Carolina	19.8
+1942	37103	Jones County, North Carolina	21.8
+1943	37105	Lee County, North Carolina	20.5
+1944	37107	Lenoir County, North Carolina	18.7
+1945	37109	Lincoln County, North Carolina	20.5
+1946	37111	McDowell County, North Carolina	18.2
+1947	37113	Macon County, North Carolina	22.2
+1948	37115	Madison County, North Carolina	19.1
+1949	37117	Martin County, North Carolina	17.9
+1950	37119	Mecklenburg County, North Carolina	16.1
+1951	37121	Mitchell County, North Carolina	20.1
+1952	37123	Montgomery County, North Carolina	22.8
+1953	37125	Moore County, North Carolina	17.9
+1954	37127	Nash County, North Carolina	16.7
+1955	37129	New Hanover County, North Carolina	16
+1956	37131	Northampton County, North Carolina	16.3
+1957	37133	Onslow County, North Carolina	14.8
+1958	37135	Orange County, North Carolina	14
+1959	37137	Pamlico County, North Carolina	20
+1960	37139	Pasquotank County, North Carolina	17.7
+1961	37141	Pender County, North Carolina	21.6
+1962	37143	Perquimans County, North Carolina	19.6
+1963	37145	Person County, North Carolina	16.6
+1964	37147	Pitt County, North Carolina	17.4
+1965	37149	Polk County, North Carolina	19.8
+1966	37151	Randolph County, North Carolina	20.4
+1967	37153	Richmond County, North Carolina	18.8
+1968	37155	Robeson County, North Carolina	23.8
+1969	37157	Rockingham County, North Carolina	18.1
+1970	37159	Rowan County, North Carolina	18.4
+1971	37161	Rutherford County, North Carolina	17.7
+1972	37163	Sampson County, North Carolina	23.2
+1973	37165	Scotland County, North Carolina	17.1
+1974	37167	Stanly County, North Carolina	18.3
+1975	37169	Stokes County, North Carolina	17.1
+1976	37171	Surry County, North Carolina	19.9
+1977	37173	Swain County, North Carolina	22.1
+1978	37175	Transylvania County, North Carolina	18.3
+1979	37177	Tyrrell County, North Carolina	29.5
+1980	37179	Union County, North Carolina	16.5
+1981	37181	Vance County, North Carolina	18.2
+1982	37183	Wake County, North Carolina	13.6
+1983	37185	Warren County, North Carolina	20.9
+1984	37187	Washington County, North Carolina	16.6
+1985	37189	Watauga County, North Carolina	19.6
+1986	37191	Wayne County, North Carolina	17.5
+1987	37193	Wilkes County, North Carolina	19.1
+1988	37195	Wilson County, North Carolina	18.8
+1989	37197	Yadkin County, North Carolina	19.1
+1990	37199	Yancey County, North Carolina	22.4
+1991	38001	Adams County, North Dakota	13.7
+1992	38003	Barnes County, North Dakota	11.1
+1993	38005	Benson County, North Dakota	17.1
+1994	38007	Billings County, North Dakota	19.3
+1995	38009	Bottineau County, North Dakota	15.5
+1996	38011	Bowman County, North Dakota	14
+1997	38013	Burke County, North Dakota	14.7
+1998	38015	Burleigh County, North Dakota	9.4
+1999	38017	Cass County, North Dakota	9.5
+2000	38019	Cavalier County, North Dakota	14.1
+2001	38021	Dickey County, North Dakota	12.7
+2002	38023	Divide County, North Dakota	16.1
+2003	38025	Dunn County, North Dakota	16.5
+2004	38027	Eddy County, North Dakota	16.4
+2005	38029	Emmons County, North Dakota	14.6
+2006	38031	Foster County, North Dakota	13.3
+2007	38033	Golden Valley County, North Dakota	17.9
+2008	38035	Grand Forks County, North Dakota	11.4
+2009	38037	Grant County, North Dakota	17.8
+2010	38039	Griggs County, North Dakota	15.6
+2011	38041	Hettinger County, North Dakota	16.1
+2012	38043	Kidder County, North Dakota	15.9
+2013	38045	LaMoure County, North Dakota	16.5
+2014	38047	Logan County, North Dakota	21.6
+2015	38049	McHenry County, North Dakota	14
+2016	38051	McIntosh County, North Dakota	15.1
+2017	38053	McKenzie County, North Dakota	16.5
+2018	38055	McLean County, North Dakota	12.8
+2019	38057	Mercer County, North Dakota	10.3
+2020	38059	Morton County, North Dakota	12.6
+2021	38061	Mountrail County, North Dakota	19.8
+2022	38063	Nelson County, North Dakota	15.3
+2023	38065	Oliver County, North Dakota	11.5
+2024	38067	Pembina County, North Dakota	14.4
+2025	38069	Pierce County, North Dakota	14.6
+2026	38071	Ramsey County, North Dakota	12.9
+2027	38073	Ransom County, North Dakota	13.8
+2028	38075	Renville County, North Dakota	13.8
+2029	38077	Richland County, North Dakota	11.1
+2030	38079	Rolette County, North Dakota	16.9
+2031	38081	Sargent County, North Dakota	10.5
+2032	38083	Sheridan County, North Dakota	17.6
+2033	38085	Sioux County, North Dakota	15.6
+2034	38087	Slope County, North Dakota	13.9
+2035	38089	Stark County, North Dakota	11.5
+2036	38091	Steele County, North Dakota	15.3
+2037	38093	Stutsman County, North Dakota	10.8
+2038	38095	Towner County, North Dakota	16
+2039	38097	Traill County, North Dakota	12.2
+2040	38099	Walsh County, North Dakota	12.7
+2041	38101	Ward County, North Dakota	10.5
+2042	38103	Wells County, North Dakota	14.8
+2043	38105	Williams County, North Dakota	13.7
+2044	39001	Adams County, Ohio	16.3
+2045	39003	Allen County, Ohio	13.9
+2046	39005	Ashland County, Ohio	14.6
+2047	39007	Ashtabula County, Ohio	14.4
+2048	39009	Athens County, Ohio	15.3
+2049	39011	Auglaize County, Ohio	11.3
+2050	39013	Belmont County, Ohio	14.9
+2051	39015	Brown County, Ohio	15.4
+2052	39017	Butler County, Ohio	11.8
+2053	39019	Carroll County, Ohio	14.8
+2054	39021	Champaign County, Ohio	12.3
+2055	39023	Clark County, Ohio	13.3
+2056	39025	Clermont County, Ohio	13.3
+2057	39027	Clinton County, Ohio	11.5
+2058	39029	Columbiana County, Ohio	14.9
+2059	39031	Coshocton County, Ohio	14.5
+2060	39033	Crawford County, Ohio	15.2
+2061	39035	Cuyahoga County, Ohio	13.3
+2062	39037	Darke County, Ohio	14.4
+2063	39039	Defiance County, Ohio	12.1
+2064	39041	Delaware County, Ohio	7.5
+2065	39043	Erie County, Ohio	12.3
+2066	39045	Fairfield County, Ohio	12.2
+2067	39047	Fayette County, Ohio	14.4
+2068	39049	Franklin County, Ohio	13.5
+2069	39051	Fulton County, Ohio	11.7
+2070	39053	Gallia County, Ohio	14.2
+2071	39055	Geauga County, Ohio	12.2
+2072	39057	Greene County, Ohio	10.4
+2073	39059	Guernsey County, Ohio	14.8
+2074	39061	Hamilton County, Ohio	13
+2075	39063	Hancock County, Ohio	11.3
+2076	39065	Hardin County, Ohio	14.1
+2077	39067	Harrison County, Ohio	14.3
+2078	39069	Henry County, Ohio	13.7
+2079	39071	Highland County, Ohio	15
+2080	39073	Hocking County, Ohio	14.8
+2081	39075	Holmes County, Ohio	25.7
+2082	39077	Huron County, Ohio	14.3
+2083	39079	Jackson County, Ohio	13.9
+2084	39081	Jefferson County, Ohio	13.5
+2085	39083	Knox County, Ohio	13.2
+2086	39085	Lake County, Ohio	11.6
+2087	39087	Lawrence County, Ohio	15.6
+2088	39089	Licking County, Ohio	12.3
+2089	39091	Logan County, Ohio	12.2
+2090	39093	Lorain County, Ohio	13.4
+2091	39095	Lucas County, Ohio	13.2
+2092	39097	Madison County, Ohio	12.8
+2093	39099	Mahoning County, Ohio	13.2
+2094	39101	Marion County, Ohio	13.2
+2095	39103	Medina County, Ohio	9.6
+2096	39105	Meigs County, Ohio	16.9
+2097	39107	Mercer County, Ohio	12
+2098	39109	Miami County, Ohio	12.7
+2099	39111	Monroe County, Ohio	14.7
+2100	39113	Montgomery County, Ohio	13.2
+2101	39115	Morgan County, Ohio	15.5
+2102	39117	Morrow County, Ohio	16
+2103	39119	Muskingum County, Ohio	14.2
+2104	39121	Noble County, Ohio	16.6
+2105	39123	Ottawa County, Ohio	13.3
+2106	39125	Paulding County, Ohio	14.2
+2107	39127	Perry County, Ohio	14.3
+2108	39129	Pickaway County, Ohio	13.5
+2109	39131	Pike County, Ohio	15.1
+2110	39133	Portage County, Ohio	12.5
+2111	39135	Preble County, Ohio	13.2
+2112	39137	Putnam County, Ohio	12.2
+2113	39139	Richland County, Ohio	14.1
+2114	39141	Ross County, Ohio	13.9
+2115	39143	Sandusky County, Ohio	12.6
+2116	39145	Scioto County, Ohio	14
+2117	39147	Seneca County, Ohio	13.1
+2118	39149	Shelby County, Ohio	11
+2119	39151	Stark County, Ohio	13.4
+2120	39153	Summit County, Ohio	12.6
+2121	39155	Trumbull County, Ohio	13.8
+2122	39157	Tuscarawas County, Ohio	15.7
+2123	39159	Union County, Ohio	10.1
+2124	39161	Van Wert County, Ohio	13
+2125	39163	Vinton County, Ohio	16
+2126	39165	Warren County, Ohio	10
+2127	39167	Washington County, Ohio	13.4
+2128	39169	Wayne County, Ohio	16.3
+2129	39171	Williams County, Ohio	13.4
+2130	39173	Wood County, Ohio	10.1
+2131	39175	Wyandot County, Ohio	13.7
+2132	40001	Adair County, Oklahoma	25.4
+2133	40003	Alfalfa County, Oklahoma	27
+2134	40005	Atoka County, Oklahoma	26.9
+2135	40007	Beaver County, Oklahoma	27.3
+2136	40009	Beckham County, Oklahoma	23.1
+2137	40011	Blaine County, Oklahoma	27.2
+2138	40013	Bryan County, Oklahoma	24.8
+2139	40015	Caddo County, Oklahoma	26.5
+2140	40017	Canadian County, Oklahoma	17.2
+2141	40019	Carter County, Oklahoma	21.6
+2142	40021	Cherokee County, Oklahoma	27.9
+2143	40023	Choctaw County, Oklahoma	22.9
+2144	40025	Cimarron County, Oklahoma	32.9
+2145	40027	Cleveland County, Oklahoma	17.7
+2146	40029	Coal County, Oklahoma	28.9
+2147	40031	Comanche County, Oklahoma	19.9
+2148	40033	Cotton County, Oklahoma	23.5
+2149	40035	Craig County, Oklahoma	21.9
+2150	40037	Creek County, Oklahoma	22
+2151	40039	Custer County, Oklahoma	24
+2152	40041	Delaware County, Oklahoma	25.4
+2153	40043	Dewey County, Oklahoma	26.9
+2154	40045	Ellis County, Oklahoma	24.1
+2155	40047	Garfield County, Oklahoma	20
+2156	40049	Garvin County, Oklahoma	23.1
+2157	40051	Grady County, Oklahoma	22.4
+2158	40053	Grant County, Oklahoma	26.3
+2159	40055	Greer County, Oklahoma	24
+2160	40057	Harmon County, Oklahoma	31.8
+2161	40059	Harper County, Oklahoma	25.2
+2162	40061	Haskell County, Oklahoma	24.9
+2163	40063	Hughes County, Oklahoma	24
+2164	40065	Jackson County, Oklahoma	20.4
+2165	40067	Jefferson County, Oklahoma	29.4
+2166	40069	Johnston County, Oklahoma	23.7
+2167	40071	Kay County, Oklahoma	22.5
+2168	40073	Kingfisher County, Oklahoma	23.5
+2169	40075	Kiowa County, Oklahoma	23.3
+2170	40077	Latimer County, Oklahoma	25.3
+2171	40079	Le Flore County, Oklahoma	26.2
+2172	40081	Lincoln County, Oklahoma	22.5
+2173	40083	Logan County, Oklahoma	20.4
+2174	40085	Love County, Oklahoma	23.4
+2175	40087	McClain County, Oklahoma	23.6
+2176	40089	McCurtain County, Oklahoma	24.1
+2177	40091	McIntosh County, Oklahoma	27.1
+2178	40093	Major County, Oklahoma	23.2
+2179	40095	Marshall County, Oklahoma	26.2
+2180	40097	Mayes County, Oklahoma	24.6
+2181	40099	Murray County, Oklahoma	24
+2182	40101	Muskogee County, Oklahoma	23.1
+2183	40103	Noble County, Oklahoma	19
+2184	40105	Nowata County, Oklahoma	24.5
+2185	40107	Okfuskee County, Oklahoma	25.5
+2186	40109	Oklahoma County, Oklahoma	21.6
+2187	40111	Okmulgee County, Oklahoma	23.5
+2188	40113	Osage County, Oklahoma	23.3
+2189	40115	Ottawa County, Oklahoma	23.8
+2190	40117	Pawnee County, Oklahoma	24.4
+2191	40119	Payne County, Oklahoma	20.5
+2192	40121	Pittsburg County, Oklahoma	22.7
+2193	40123	Pontotoc County, Oklahoma	22.9
+2194	40125	Pottawatomie County, Oklahoma	22.5
+2195	40127	Pushmataha County, Oklahoma	25.4
+2196	40129	Roger Mills County, Oklahoma	27.3
+2197	40131	Rogers County, Oklahoma	17.9
+2198	40133	Seminole County, Oklahoma	22.2
+2199	40135	Sequoyah County, Oklahoma	24.5
+2200	40137	Stephens County, Oklahoma	21.4
+2201	40139	Texas County, Oklahoma	27.9
+2202	40141	Tillman County, Oklahoma	26.2
+2203	40143	Tulsa County, Oklahoma	19.5
+2204	40145	Wagoner County, Oklahoma	19.2
+2205	40147	Washington County, Oklahoma	19.7
+2206	40149	Washita County, Oklahoma	24.5
+2207	40151	Woods County, Oklahoma	22.2
+2208	40153	Woodward County, Oklahoma	21.5
+2209	41001	Baker County, Oregon	20.7
+2210	41003	Benton County, Oregon	14.7
+2211	41005	Clackamas County, Oregon	14.7
+2212	41007	Clatsop County, Oregon	21
+2213	41009	Columbia County, Oregon	15.6
+2214	41011	Coos County, Oregon	19.3
+2215	41013	Crook County, Oregon	21.4
+2216	41015	Curry County, Oregon	22.7
+2217	41017	Deschutes County, Oregon	19.2
+2218	41019	Douglas County, Oregon	18.4
+2219	41021	Gilliam County, Oregon	17.3
+2220	41023	Grant County, Oregon	21.4
+2221	41025	Harney County, Oregon	22.5
+2222	41027	Hood River County, Oregon	24.8
+2223	41029	Jackson County, Oregon	20.4
+2224	41031	Jefferson County, Oregon	25.6
+2225	41033	Josephine County, Oregon	20.1
+2226	41035	Klamath County, Oregon	21.1
+2227	41037	Lake County, Oregon	23.1
+2228	41039	Lane County, Oregon	18.6
+2229	41041	Lincoln County, Oregon	20.7
+2230	41043	Linn County, Oregon	19.2
+2231	41045	Malheur County, Oregon	24.6
+2232	41047	Marion County, Oregon	22.1
+2233	41049	Morrow County, Oregon	24
+2234	41051	Multnomah County, Oregon	16.8
+2235	41053	Polk County, Oregon	17
+2236	41055	Sherman County, Oregon	24.9
+2237	41057	Tillamook County, Oregon	21.7
+2238	41059	Umatilla County, Oregon	21.1
+2239	41061	Union County, Oregon	19.9
+2240	41063	Wallowa County, Oregon	21.3
+2241	41065	Wasco County, Oregon	22.6
+2242	41067	Washington County, Oregon	14.6
+2243	41069	Wheeler County, Oregon	28.5
+2244	41071	Yamhill County, Oregon	19.1
+2245	42001	Adams County, Pennsylvania	11.6
+2246	42003	Allegheny County, Pennsylvania	9.1
+2247	42005	Armstrong County, Pennsylvania	12.2
+2248	42007	Beaver County, Pennsylvania	9.7
+2249	42009	Bedford County, Pennsylvania	12.8
+2250	42011	Berks County, Pennsylvania	10.4
+2251	42013	Blair County, Pennsylvania	10.3
+2252	42015	Bradford County, Pennsylvania	11.6
+2253	42017	Bucks County, Pennsylvania	7.6
+2254	42019	Butler County, Pennsylvania	8.7
+2255	42021	Cambria County, Pennsylvania	11.1
+2256	42023	Cameron County, Pennsylvania	12.5
+2257	42025	Carbon County, Pennsylvania	11.6
+2258	42027	Centre County, Pennsylvania	10.6
+2259	42029	Chester County, Pennsylvania	7.9
+2260	42031	Clarion County, Pennsylvania	12.7
+2261	42033	Clearfield County, Pennsylvania	12.6
+2262	42035	Clinton County, Pennsylvania	11.5
+2263	42037	Columbia County, Pennsylvania	11.3
+2264	42039	Crawford County, Pennsylvania	13.2
+2265	42041	Cumberland County, Pennsylvania	9.3
+2266	42043	Dauphin County, Pennsylvania	10.2
+2267	42045	Delaware County, Pennsylvania	9.1
+2268	42047	Elk County, Pennsylvania	9.9
+2269	42049	Erie County, Pennsylvania	11
+2270	42051	Fayette County, Pennsylvania	12.1
+2271	42053	Forest County, Pennsylvania	13.4
+2272	42055	Franklin County, Pennsylvania	12.8
+2273	42057	Fulton County, Pennsylvania	12.9
+2274	42059	Greene County, Pennsylvania	10.9
+2275	42061	Huntingdon County, Pennsylvania	12.8
+2276	42063	Indiana County, Pennsylvania	12
+2277	42065	Jefferson County, Pennsylvania	12.1
+2278	42067	Juniata County, Pennsylvania	13.6
+2279	42069	Lackawanna County, Pennsylvania	10.2
+2280	42071	Lancaster County, Pennsylvania	13.2
+2281	42073	Lawrence County, Pennsylvania	12.1
+2282	42075	Lebanon County, Pennsylvania	11.6
+2283	42077	Lehigh County, Pennsylvania	11.6
+2284	42079	Luzerne County, Pennsylvania	10.4
+2285	42081	Lycoming County, Pennsylvania	10.7
+2286	42083	McKean County, Pennsylvania	10.3
+2287	42085	Mercer County, Pennsylvania	10.7
+2288	42087	Mifflin County, Pennsylvania	12.9
+2289	42089	Monroe County, Pennsylvania	12.2
+2290	42091	Montgomery County, Pennsylvania	7.3
+2291	42093	Montour County, Pennsylvania	7.9
+2292	42095	Northampton County, Pennsylvania	9.8
+2293	42097	Northumberland County, Pennsylvania	12.1
+2294	42099	Perry County, Pennsylvania	12.9
+2295	42101	Philadelphia County, Pennsylvania	13.8
+2296	42103	Pike County, Pennsylvania	12.4
+2297	42105	Potter County, Pennsylvania	11.3
+2298	42107	Schuylkill County, Pennsylvania	10.7
+2299	42109	Snyder County, Pennsylvania	12.4
+2300	42111	Somerset County, Pennsylvania	13.3
+2301	42113	Sullivan County, Pennsylvania	15.6
+2302	42115	Susquehanna County, Pennsylvania	12.7
+2303	42117	Tioga County, Pennsylvania	12.7
+2304	42119	Union County, Pennsylvania	13.7
+2305	42121	Venango County, Pennsylvania	10.9
+2306	42123	Warren County, Pennsylvania	10
+2307	42125	Washington County, Pennsylvania	10.7
+2308	42127	Wayne County, Pennsylvania	13.2
+2309	42129	Westmoreland County, Pennsylvania	9.9
+2310	42131	Wyoming County, Pennsylvania	11
+2311	42133	York County, Pennsylvania	10.3
+2312	44001	Bristol County, Rhode Island	8.8
+2313	44003	Kent County, Rhode Island	8.4
+2314	44005	Newport County, Rhode Island	8.6
+2315	44007	Providence County, Rhode Island	14.2
+2316	44009	Washington County, Rhode Island	7.9
+2317	45001	Abbeville County, South Carolina	18.8
+2318	45003	Aiken County, South Carolina	18.1
+2319	45005	Allendale County, South Carolina	22.1
+2320	45007	Anderson County, South Carolina	19.5
+2321	45009	Bamberg County, South Carolina	20.6
+2322	45011	Barnwell County, South Carolina	19.8
+2323	45013	Beaufort County, South Carolina	19.3
+2324	45015	Berkeley County, South Carolina	20.2
+2325	45017	Calhoun County, South Carolina	19.1
+2326	45019	Charleston County, South Carolina	18.5
+2327	45021	Cherokee County, South Carolina	20.3
+2328	45023	Chester County, South Carolina	18.2
+2329	45025	Chesterfield County, South Carolina	20.3
+2330	45027	Clarendon County, South Carolina	21.7
+2331	45029	Colleton County, South Carolina	20.3
+2332	45031	Darlington County, South Carolina	19.5
+2333	45033	Dillon County, South Carolina	20.2
+2334	45035	Dorchester County, South Carolina	18.5
+2335	45037	Edgefield County, South Carolina	20.4
+2336	45039	Fairfield County, South Carolina	18.9
+2337	45041	Florence County, South Carolina	18.8
+2338	45043	Georgetown County, South Carolina	22.7
+2339	45045	Greenville County, South Carolina	18.6
+2340	45047	Greenwood County, South Carolina	18.6
+2341	45049	Hampton County, South Carolina	21.4
+2342	45051	Horry County, South Carolina	23.6
+2343	45053	Jasper County, South Carolina	28.1
+2344	45055	Kershaw County, South Carolina	18.7
+2345	45057	Lancaster County, South Carolina	20.7
+2346	45059	Laurens County, South Carolina	19
+2347	45061	Lee County, South Carolina	22
+2348	45063	Lexington County, South Carolina	16.4
+2349	45065	McCormick County, South Carolina	20.6
+2350	45067	Marion County, South Carolina	20.3
+2351	45069	Marlboro County, South Carolina	19.7
+2352	45071	Newberry County, South Carolina	21.8
+2353	45073	Oconee County, South Carolina	20
+2354	45075	Orangeburg County, South Carolina	19.7
+2355	45077	Pickens County, South Carolina	19.9
+2356	45079	Richland County, South Carolina	16.2
+2357	45081	Saluda County, South Carolina	23.7
+2358	45083	Spartanburg County, South Carolina	20.8
+2359	45085	Sumter County, South Carolina	18.3
+2360	45087	Union County, South Carolina	17.8
+2361	45089	Williamsburg County, South Carolina	21.2
+2362	45091	York County, South Carolina	18
+2363	46003	Aurora County, South Dakota	16.4
+2364	46005	Beadle County, South Dakota	13
+2365	46007	Bennett County, South Dakota	22.2
+2366	46009	Bon Homme County, South Dakota	15
+2367	46011	Brookings County, South Dakota	10.5
+2368	46013	Brown County, South Dakota	10.6
+2369	46015	Brule County, South Dakota	18.7
+2370	46017	Buffalo County, South Dakota	18.4
+2371	46019	Butte County, South Dakota	17.3
+2372	46021	Campbell County, South Dakota	15.8
+2373	46023	Charles Mix County, South Dakota	18.1
+2374	46025	Clark County, South Dakota	17.7
+2375	46027	Clay County, South Dakota	12.7
+2376	46029	Codington County, South Dakota	11.4
+2377	46031	Corson County, South Dakota	20
+2378	46033	Custer County, South Dakota	16.6
+2379	46035	Davison County, South Dakota	12.6
+2380	46037	Day County, South Dakota	16.7
+2381	46039	Deuel County, South Dakota	13.4
+2382	46041	Dewey County, South Dakota	21.5
+2383	46043	Douglas County, South Dakota	18.3
+2384	46045	Edmunds County, South Dakota	14.8
+2385	46047	Fall River County, South Dakota	15.1
+2386	46049	Faulk County, South Dakota	18.4
+2387	46051	Grant County, South Dakota	13
+2388	46053	Gregory County, South Dakota	20.5
+2389	46055	Haakon County, South Dakota	15.5
+2390	46057	Hamlin County, South Dakota	14.7
+2391	46059	Hand County, South Dakota	15.5
+2392	46061	Hanson County, South Dakota	17.6
+2393	46063	Harding County, South Dakota	17.3
+2394	46065	Hughes County, South Dakota	12
+2395	46067	Hutchinson County, South Dakota	14.7
+2396	46069	Hyde County, South Dakota	14
+2397	46071	Jackson County, South Dakota	18.1
+2398	46073	Jerauld County, South Dakota	13
+2399	46075	Jones County, South Dakota	21
+2400	46077	Kingsbury County, South Dakota	13.7
+2401	46079	Lake County, South Dakota	11.9
+2402	46081	Lawrence County, South Dakota	13.4
+2403	46083	Lincoln County, South Dakota	8.8
+2404	46085	Lyman County, South Dakota	22.1
+2405	46087	McCook County, South Dakota	13.9
+2406	46089	McPherson County, South Dakota	20.4
+2407	46091	Marshall County, South Dakota	19.5
+2408	46093	Meade County, South Dakota	12.5
+2409	46095	Mellette County, South Dakota	18.9
+2410	46097	Miner County, South Dakota	14.4
+2411	46099	Minnehaha County, South Dakota	10.2
+2412	46101	Moody County, South Dakota	14.2
+2413	46103	Pennington County, South Dakota	13.2
+2414	46105	Perkins County, South Dakota	16.4
+2415	46107	Potter County, South Dakota	14.5
+2416	46109	Roberts County, South Dakota	18.3
+2417	46111	Sanborn County, South Dakota	15.3
+2418	46113	Shannon County, South Dakota	14.6
+2419	46115	Spink County, South Dakota	14.5
+2420	46117	Stanley County, South Dakota	16.5
+2421	46119	Sully County, South Dakota	17.8
+2422	46121	Todd County, South Dakota	14.6
+2423	46123	Tripp County, South Dakota	18.6
+2424	46125	Turner County, South Dakota	12.4
+2425	46127	Union County, South Dakota	8.1
+2426	46129	Walworth County, South Dakota	16.9
+2427	46135	Yankton County, South Dakota	10.6
+2428	46137	Ziebach County, South Dakota	20.6
+2429	47001	Anderson County, Tennessee	12.8
+2430	47003	Bedford County, Tennessee	20
+2431	47005	Benton County, Tennessee	17.3
+2432	47007	Bledsoe County, Tennessee	18.1
+2433	47009	Blount County, Tennessee	13.7
+2434	47011	Bradley County, Tennessee	15.7
+2435	47013	Campbell County, Tennessee	16.2
+2436	47015	Cannon County, Tennessee	17.3
+2437	47017	Carroll County, Tennessee	15.8
+2438	47019	Carter County, Tennessee	17.3
+2439	47021	Cheatham County, Tennessee	14.3
+2440	47023	Chester County, Tennessee	16.3
+2441	47025	Claiborne County, Tennessee	15.3
+2442	47027	Clay County, Tennessee	18.9
+2443	47029	Cocke County, Tennessee	17.6
+2444	47031	Coffee County, Tennessee	16
+2445	47033	Crockett County, Tennessee	19.9
+2446	47035	Cumberland County, Tennessee	17
+2447	47037	Davidson County, Tennessee	15.2
+2448	47039	Decatur County, Tennessee	17.6
+2449	47041	DeKalb County, Tennessee	17.7
+2450	47043	Dickson County, Tennessee	15
+2451	47045	Dyer County, Tennessee	14.9
+2452	47047	Fayette County, Tennessee	14.9
+2453	47049	Fentress County, Tennessee	16.7
+2454	47051	Franklin County, Tennessee	14.6
+2455	47053	Gibson County, Tennessee	14.4
+2456	47055	Giles County, Tennessee	14.9
+2457	47057	Grainger County, Tennessee	17.1
+2458	47059	Greene County, Tennessee	15.6
+2459	47061	Grundy County, Tennessee	18.9
+2460	47063	Hamblen County, Tennessee	18.2
+2461	47065	Hamilton County, Tennessee	14.6
+2462	47067	Hancock County, Tennessee	16
+2463	47069	Hardeman County, Tennessee	15.7
+2464	47071	Hardin County, Tennessee	16.2
+2465	47073	Hawkins County, Tennessee	15.5
+2466	47075	Haywood County, Tennessee	15.7
+2467	47077	Henderson County, Tennessee	15.1
+2468	47079	Henry County, Tennessee	16.1
+2469	47081	Hickman County, Tennessee	18.8
+2470	47083	Houston County, Tennessee	17.9
+2471	47085	Humphreys County, Tennessee	15.6
+2472	47087	Jackson County, Tennessee	16.8
+2473	47089	Jefferson County, Tennessee	16.4
+2474	47091	Johnson County, Tennessee	17.1
+2475	47093	Knox County, Tennessee	12.1
+2476	47095	Lake County, Tennessee	19.7
+2477	47097	Lauderdale County, Tennessee	15
+2478	47099	Lawrence County, Tennessee	17.2
+2479	47101	Lewis County, Tennessee	17.7
+2480	47103	Lincoln County, Tennessee	15.2
+2481	47105	Loudon County, Tennessee	14.5
+2482	47107	McMinn County, Tennessee	15.4
+2483	47109	McNairy County, Tennessee	16.8
+2484	47111	Macon County, Tennessee	19.6
+2485	47113	Madison County, Tennessee	13.6
+2486	47115	Marion County, Tennessee	16.9
+2487	47117	Marshall County, Tennessee	14.6
+2488	47119	Maury County, Tennessee	14.5
+2489	47121	Meigs County, Tennessee	15.2
+2490	47123	Monroe County, Tennessee	17
+2491	47125	Montgomery County, Tennessee	13
+2492	47127	Moore County, Tennessee	15.8
+2493	47129	Morgan County, Tennessee	16.9
+2494	47131	Obion County, Tennessee	14.7
+2495	47133	Overton County, Tennessee	17
+2496	47135	Perry County, Tennessee	16.7
+2497	47137	Pickett County, Tennessee	20.6
+2498	47139	Polk County, Tennessee	17.9
+2499	47141	Putnam County, Tennessee	16.7
+2500	47143	Rhea County, Tennessee	15.4
+2501	47145	Roane County, Tennessee	14.6
+2502	47147	Robertson County, Tennessee	16
+2503	47149	Rutherford County, Tennessee	13
+2504	47151	Scott County, Tennessee	16
+2505	47153	Sequatchie County, Tennessee	17
+2506	47155	Sevier County, Tennessee	19.9
+2507	47157	Shelby County, Tennessee	14.8
+2508	47159	Smith County, Tennessee	15.5
+2509	47161	Stewart County, Tennessee	16.4
+2510	47163	Sullivan County, Tennessee	13.8
+2511	47165	Sumner County, Tennessee	13.6
+2512	47167	Tipton County, Tennessee	14.9
+2513	47169	Trousdale County, Tennessee	19.2
+2514	47171	Unicoi County, Tennessee	15
+2515	47173	Union County, Tennessee	18.9
+2516	47175	Van Buren County, Tennessee	17.7
+2517	47177	Warren County, Tennessee	18.4
+2518	47179	Washington County, Tennessee	14.2
+2519	47181	Wayne County, Tennessee	18.3
+2520	47183	Weakley County, Tennessee	14.9
+2521	47185	White County, Tennessee	16.9
+2522	47187	Williamson County, Tennessee	8.3
+2523	47189	Wilson County, Tennessee	12.4
+2524	48001	Anderson County, Texas	24.1
+2525	48003	Andrews County, Texas	27.7
+2526	48005	Angelina County, Texas	25.2
+2527	48007	Aransas County, Texas	31.6
+2528	48009	Archer County, Texas	23.9
+2529	48011	Armstrong County, Texas	27
+2530	48013	Atascosa County, Texas	27.9
+2531	48015	Austin County, Texas	24.6
+2532	48017	Bailey County, Texas	36.3
+2533	48019	Bandera County, Texas	26.8
+2534	48021	Bastrop County, Texas	24.6
+2535	48023	Baylor County, Texas	26.3
+2536	48025	Bee County, Texas	26.3
+2537	48027	Bell County, Texas	17.8
+2538	48029	Bexar County, Texas	23.6
+2539	48031	Blanco County, Texas	27.4
+2540	48033	Borden County, Texas	23.7
+2541	48035	Bosque County, Texas	25.3
+2542	48037	Bowie County, Texas	21.1
+2543	48039	Brazoria County, Texas	22.3
+2544	48041	Brazos County, Texas	20.7
+2545	48043	Brewster County, Texas	31
+2546	48045	Briscoe County, Texas	38.4
+2547	48047	Brooks County, Texas	26.8
+2548	48049	Brown County, Texas	23.6
+2549	48051	Burleson County, Texas	25.5
+2550	48053	Burnet County, Texas	28.3
+2551	48055	Caldwell County, Texas	27.1
+2552	48057	Calhoun County, Texas	25.6
+2553	48059	Callahan County, Texas	25.3
+2554	48061	Cameron County, Texas	35.9
+2555	48063	Camp County, Texas	26.2
+2556	48065	Carson County, Texas	15
+2557	48067	Cass County, Texas	22.7
+2558	48069	Castro County, Texas	34.5
+2559	48071	Chambers County, Texas	20.9
+2560	48073	Cherokee County, Texas	28.5
+2561	48075	Childress County, Texas	32.2
+2562	48077	Clay County, Texas	23.7
+2563	48079	Cochran County, Texas	33.7
+2564	48081	Coke County, Texas	29.6
+2565	48083	Coleman County, Texas	29.2
+2566	48085	Collin County, Texas	16.7
+2567	48087	Collingsworth County, Texas	35.7
+2568	48089	Colorado County, Texas	27.4
+2569	48091	Comal County, Texas	20.2
+2570	48093	Comanche County, Texas	30
+2571	48095	Concho County, Texas	33.5
+2572	48097	Cooke County, Texas	25.7
+2573	48099	Coryell County, Texas	21
+2574	48101	Cottle County, Texas	36.2
+2575	48103	Crane County, Texas	30.2
+2576	48105	Crockett County, Texas	35.7
+2577	48107	Crosby County, Texas	31.9
+2578	48109	Culberson County, Texas	42.3
+2579	48111	Dallam County, Texas	37.7
+2580	48113	Dallas County, Texas	31.2
+2581	48115	Dawson County, Texas	29.5
+2582	48117	Deaf Smith County, Texas	32.6
+2583	48119	Delta County, Texas	24.9
+2584	48121	Denton County, Texas	17.2
+2585	48123	DeWitt County, Texas	25.5
+2586	48125	Dickens County, Texas	30.7
+2587	48127	Dimmit County, Texas	29.6
+2588	48129	Donley County, Texas	34.4
+2589	48131	Duval County, Texas	24.2
+2590	48133	Eastland County, Texas	26.2
+2591	48135	Ector County, Texas	29.5
+2592	48137	Edwards County, Texas	39.5
+2593	48139	Ellis County, Texas	23.2
+2594	48141	El Paso County, Texas	32.9
+2595	48143	Erath County, Texas	26.9
+2596	48145	Falls County, Texas	26.9
+2597	48147	Fannin County, Texas	25.9
+2598	48149	Fayette County, Texas	25.7
+2599	48151	Fisher County, Texas	27.8
+2600	48153	Floyd County, Texas	32.7
+2601	48155	Foard County, Texas	37.2
+2602	48157	Fort Bend County, Texas	19.9
+2603	48159	Franklin County, Texas	20
+2604	48161	Freestone County, Texas	23.5
+2605	48163	Frio County, Texas	28.7
+2606	48165	Gaines County, Texas	35.9
+2607	48167	Galveston County, Texas	21.2
+2608	48169	Garza County, Texas	31.8
+2609	48171	Gillespie County, Texas	28
+2610	48173	Glasscock County, Texas	32.8
+2611	48175	Goliad County, Texas	26.2
+2612	48177	Gonzales County, Texas	30.8
+2613	48179	Gray County, Texas	26.1
+2614	48181	Grayson County, Texas	23.8
+2615	48183	Gregg County, Texas	24.1
+2616	48185	Grimes County, Texas	27.5
+2617	48187	Guadalupe County, Texas	22.5
+2618	48189	Hale County, Texas	27.5
+2619	48191	Hall County, Texas	39.5
+2620	48193	Hamilton County, Texas	29.2
+2621	48195	Hansford County, Texas	35.4
+2622	48197	Hardeman County, Texas	29.5
+2623	48199	Hardin County, Texas	19.8
+2624	48201	Harris County, Texas	28.2
+2625	48203	Harrison County, Texas	22.6
+2626	48205	Hartley County, Texas	25.6
+2627	48207	Haskell County, Texas	32.3
+2628	48209	Hays County, Texas	22.8
+2629	48211	Hemphill County, Texas	27.3
+2630	48213	Henderson County, Texas	26.1
+2631	48215	Hidalgo County, Texas	38.9
+2632	48217	Hill County, Texas	30
+2633	48219	Hockley County, Texas	27.4
+2634	48221	Hood County, Texas	22.5
+2635	48223	Hopkins County, Texas	26.8
+2636	48225	Houston County, Texas	27.7
+2637	48227	Howard County, Texas	23.9
+2638	48229	Hudspeth County, Texas	44.5
+2639	48231	Hunt County, Texas	23.3
+2640	48233	Hutchinson County, Texas	23.8
+2641	48235	Irion County, Texas	26.4
+2642	48237	Jack County, Texas	26.1
+2643	48239	Jackson County, Texas	24.9
+2644	48241	Jasper County, Texas	23.5
+2645	48243	Jeff Davis County, Texas	38.5
+2646	48245	Jefferson County, Texas	22.8
+2647	48247	Jim Hogg County, Texas	28.2
+2648	48249	Jim Wells County, Texas	25.1
+2649	48251	Johnson County, Texas	25.2
+2650	48253	Jones County, Texas	27.2
+2651	48255	Karnes County, Texas	28.9
+2652	48257	Kaufman County, Texas	25.8
+2653	48259	Kendall County, Texas	19.8
+2654	48261	Kenedy County, Texas	45.4
+2655	48263	Kent County, Texas	31.4
+2656	48265	Kerr County, Texas	26.4
+2657	48267	Kimble County, Texas	36
+2658	48269	King County, Texas	26
+2659	48271	Kinney County, Texas	31.6
+2660	48273	Kleberg County, Texas	26.6
+2661	48275	Knox County, Texas	30.5
+2662	48277	Lamar County, Texas	22.5
+2663	48279	Lamb County, Texas	28.5
+2664	48281	Lampasas County, Texas	26.6
+2665	48283	La Salle County, Texas	30.9
+2666	48285	Lavaca County, Texas	22.9
+2667	48287	Lee County, Texas	26.6
+2668	48289	Leon County, Texas	24.5
+2669	48291	Liberty County, Texas	27.5
+2670	48293	Limestone County, Texas	26.1
+2671	48295	Lipscomb County, Texas	30.1
+2672	48297	Live Oak County, Texas	27.6
+2673	48299	Llano County, Texas	22.9
+2674	48301	Loving County, Texas	26.2
+2675	48303	Lubbock County, Texas	21.3
+2676	48305	Lynn County, Texas	32
+2677	48307	McCulloch County, Texas	30.1
+2678	48309	McLennan County, Texas	23.9
+2679	48311	McMullen County, Texas	29.2
+2680	48313	Madison County, Texas	28
+2681	48315	Marion County, Texas	24.5
+2682	48317	Martin County, Texas	30.3
+2683	48319	Mason County, Texas	34
+2684	48321	Matagorda County, Texas	27.2
+2685	48323	Maverick County, Texas	35.6
+2686	48325	Medina County, Texas	26.8
+2687	48327	Menard County, Texas	38.2
+2688	48329	Midland County, Texas	23.8
+2689	48331	Milam County, Texas	24
+2690	48333	Mills County, Texas	29.4
+2691	48335	Mitchell County, Texas	29.7
+2692	48337	Montague County, Texas	26.5
+2693	48339	Montgomery County, Texas	20.9
+2694	48341	Moore County, Texas	31
+2695	48343	Morris County, Texas	22.4
+2696	48345	Motley County, Texas	33.4
+2697	48347	Nacogdoches County, Texas	25.1
+2698	48349	Navarro County, Texas	28.3
+2699	48351	Newton County, Texas	24.8
+2700	48353	Nolan County, Texas	24.8
+2701	48355	Nueces County, Texas	24.8
+2702	48357	Ochiltree County, Texas	33.6
+2703	48359	Oldham County, Texas	26.8
+2704	48361	Orange County, Texas	20.3
+2705	48363	Palo Pinto County, Texas	28.2
+2706	48365	Panola County, Texas	23.4
+2707	48367	Parker County, Texas	21.4
+2708	48369	Parmer County, Texas	33.2
+2709	48371	Pecos County, Texas	32.8
+2710	48373	Polk County, Texas	27.1
+2711	48375	Potter County, Texas	26.8
+2712	48377	Presidio County, Texas	43.1
+2713	48379	Rains County, Texas	29.3
+2714	48381	Randall County, Texas	18.9
+2715	48383	Reagan County, Texas	35.5
+2716	48385	Real County, Texas	34.6
+2717	48387	Red River County, Texas	25.2
+2718	48389	Reeves County, Texas	32.9
+2719	48391	Refugio County, Texas	28
+2720	48393	Roberts County, Texas	19.5
+2721	48395	Robertson County, Texas	24.3
+2722	48397	Rockwall County, Texas	18.6
+2723	48399	Runnels County, Texas	27.6
+2724	48401	Rusk County, Texas	24.4
+2725	48403	Sabine County, Texas	25.2
+2726	48405	San Augustine County, Texas	25
+2727	48407	San Jacinto County, Texas	28.7
+2728	48409	San Patricio County, Texas	22.8
+2729	48411	San Saba County, Texas	34
+2730	48413	Schleicher County, Texas	36.3
+2731	48415	Scurry County, Texas	25
+2732	48417	Shackelford County, Texas	28.8
+2733	48419	Shelby County, Texas	27.2
+2734	48421	Sherman County, Texas	37.9
+2735	48423	Smith County, Texas	23.7
+2736	48425	Somervell County, Texas	24.7
+2737	48427	Starr County, Texas	35
+2738	48429	Stephens County, Texas	31.9
+2739	48431	Sterling County, Texas	30.6
+2740	48433	Stonewall County, Texas	31.1
+2741	48435	Sutton County, Texas	32.5
+2742	48437	Swisher County, Texas	31.3
+2743	48439	Tarrant County, Texas	22.6
+2744	48441	Taylor County, Texas	21.9
+2745	48443	Terrell County, Texas	37.7
+2746	48445	Terry County, Texas	30
+2747	48447	Throckmorton County, Texas	33.9
+2748	48449	Titus County, Texas	30.1
+2749	48451	Tom Green County, Texas	23.4
+2750	48453	Travis County, Texas	22
+2751	48455	Trinity County, Texas	26
+2752	48457	Tyler County, Texas	25.6
+2753	48459	Upshur County, Texas	26.1
+2754	48461	Upton County, Texas	31.2
+2755	48463	Uvalde County, Texas	31.5
+2756	48465	Val Verde County, Texas	31.6
+2757	48467	Van Zandt County, Texas	26.4
+2758	48469	Victoria County, Texas	23.2
+2759	48471	Walker County, Texas	26.7
+2760	48473	Waller County, Texas	28.2
+2761	48475	Ward County, Texas	24.9
+2762	48477	Washington County, Texas	22.4
+2763	48479	Webb County, Texas	36.4
+2764	48481	Wharton County, Texas	27.1
+2765	48483	Wheeler County, Texas	30.6
+2766	48485	Wichita County, Texas	21.4
+2767	48487	Wilbarger County, Texas	24.7
+2768	48489	Willacy County, Texas	32.6
+2769	48491	Williamson County, Texas	17.1
+2770	48493	Wilson County, Texas	22.1
+2771	48495	Winkler County, Texas	31.4
+2772	48497	Wise County, Texas	25.4
+2773	48499	Wood County, Texas	27.9
+2774	48501	Yoakum County, Texas	32.7
+2775	48503	Young County, Texas	27.3
+2776	48505	Zapata County, Texas	35.4
+2777	48507	Zavala County, Texas	29.1
+2778	49001	Beaver County, Utah	21.6
+2779	49003	Box Elder County, Utah	14.1
+2780	49005	Cache County, Utah	15.9
+2781	49007	Carbon County, Utah	13.9
+2782	49009	Daggett County, Utah	24.5
+2783	49011	Davis County, Utah	11.8
+2784	49013	Duchesne County, Utah	20.6
+2785	49015	Emery County, Utah	16.2
+2786	49017	Garfield County, Utah	19.6
+2787	49019	Grand County, Utah	25.3
+2788	49021	Iron County, Utah	19.5
+2789	49023	Juab County, Utah	19.3
+2790	49025	Kane County, Utah	19.7
+2791	49027	Millard County, Utah	17.2
+2792	49029	Morgan County, Utah	15.4
+2793	49031	Piute County, Utah	22.2
+2794	49033	Rich County, Utah	22.4
+2795	49035	Salt Lake County, Utah	16.6
+2796	49037	San Juan County, Utah	26.1
+2797	49039	Sanpete County, Utah	19.4
+2798	49041	Sevier County, Utah	17.3
+2799	49043	Summit County, Utah	13.6
+2800	49045	Tooele County, Utah	15.5
+2801	49047	Uintah County, Utah	21
+2802	49049	Utah County, Utah	16
+2803	49051	Wasatch County, Utah	18.5
+2804	49053	Washington County, Utah	20.7
+2805	49055	Wayne County, Utah	19.3
+2806	49057	Weber County, Utah	16.6
+2807	50001	Addison County, Vermont	10.7
+2808	50003	Bennington County, Vermont	10.6
+2809	50005	Caledonia County, Vermont	12.2
+2810	50007	Chittenden County, Vermont	8.3
+2811	50009	Essex County, Vermont	14.7
+2812	50011	Franklin County, Vermont	9.8
+2813	50013	Grand Isle County, Vermont	14.3
+2814	50015	Lamoille County, Vermont	11.9
+2815	50017	Orange County, Vermont	12
+2816	50019	Orleans County, Vermont	12.5
+2817	50021	Rutland County, Vermont	10.8
+2818	50023	Washington County, Vermont	9.2
+2819	50025	Windham County, Vermont	11.2
+2820	50027	Windsor County, Vermont	10.6
+2821	51001	Accomack County, Virginia	20.8
+2822	51003	Albemarle County, Virginia	12.1
+2823	51005	Alleghany County, Virginia	13.6
+2824	51007	Amelia County, Virginia	19.1
+2825	51009	Amherst County, Virginia	16.3
+2826	51011	Appomattox County, Virginia	16.6
+2827	51013	Arlington County, Virginia	10.1
+2828	51015	Augusta County, Virginia	13.3
+2829	51017	Bath County, Virginia	18.8
+2830	51019	Bedford County, Virginia	13.6
+2831	51021	Bland County, Virginia	15.4
+2832	51023	Botetourt County, Virginia	12
+2833	51025	Brunswick County, Virginia	17.8
+2834	51027	Buchanan County, Virginia	15.4
+2835	51029	Buckingham County, Virginia	20
+2836	51031	Campbell County, Virginia	15.7
+2837	51033	Caroline County, Virginia	17.2
+2838	51035	Carroll County, Virginia	17.7
+2839	51036	Charles City County, Virginia	21.2
+2840	51037	Charlotte County, Virginia	19.2
+2841	51041	Chesterfield County, Virginia	10.8
+2842	51043	Clarke County, Virginia	13.3
+2843	51045	Craig County, Virginia	19.4
+2844	51047	Culpeper County, Virginia	16.4
+2845	51049	Cumberland County, Virginia	20.5
+2846	51051	Dickenson County, Virginia	15.4
+2847	51053	Dinwiddie County, Virginia	15.3
+2848	51057	Essex County, Virginia	16.9
+2849	51059	Fairfax County, Virginia	11.1
+2850	51061	Fauquier County, Virginia	13.2
+2851	51063	Floyd County, Virginia	18.8
+2852	51065	Fluvanna County, Virginia	15.4
+2853	51067	Franklin County, Virginia	16
+2854	51069	Frederick County, Virginia	14
+2855	51071	Giles County, Virginia	14.5
+2856	51073	Gloucester County, Virginia	15.3
+2857	51075	Goochland County, Virginia	9.7
+2858	51077	Grayson County, Virginia	16.4
+2859	51079	Greene County, Virginia	16.3
+2860	51081	Greensville County, Virginia	15.8
+2861	51083	Halifax County, Virginia	16.2
+2862	51085	Hanover County, Virginia	9.7
+2863	51087	Henrico County, Virginia	11.7
+2864	51089	Henry County, Virginia	17.8
+2865	51091	Highland County, Virginia	26.3
+2866	51093	Isle of Wight County, Virginia	13.3
+2867	51095	James City County, Virginia	10.7
+2868	51097	King and Queen County, Virginia	19.5
+2869	51099	King George County, Virginia	11.7
+2870	51101	King William County, Virginia	14
+2871	51103	Lancaster County, Virginia	18.3
+2872	51105	Lee County, Virginia	15.8
+2873	51107	Loudoun County, Virginia	8.7
+2874	51109	Louisa County, Virginia	15.3
+2875	51111	Lunenburg County, Virginia	17.8
+2876	51113	Madison County, Virginia	17.4
+2877	51115	Mathews County, Virginia	17
+2878	51117	Mecklenburg County, Virginia	18.1
+2879	51119	Middlesex County, Virginia	19.3
+2880	51121	Montgomery County, Virginia	14.7
+2881	51125	Nelson County, Virginia	17.4
+2882	51127	New Kent County, Virginia	13.1
+2883	51131	Northampton County, Virginia	18
+2884	51133	Northumberland County, Virginia	18.9
+2885	51135	Nottoway County, Virginia	18.7
+2886	51137	Orange County, Virginia	16.4
+2887	51139	Page County, Virginia	18.7
+2888	51141	Patrick County, Virginia	17.6
+2889	51143	Pittsylvania County, Virginia	16
+2890	51145	Powhatan County, Virginia	14.9
+2891	51147	Prince Edward County, Virginia	15.8
+2892	51149	Prince George County, Virginia	13.1
+2893	51153	Prince William County, Virginia	13.7
+2894	51155	Pulaski County, Virginia	13
+2895	51157	Rappahannock County, Virginia	18.7
+2896	51159	Richmond County, Virginia	21.2
+2897	51161	Roanoke County, Virginia	10.5
+2898	51163	Rockbridge County, Virginia	16.6
+2899	51165	Rockingham County, Virginia	16.1
+2900	51167	Russell County, Virginia	16.1
+2901	51169	Scott County, Virginia	15.8
+2902	51171	Shenandoah County, Virginia	16.5
+2903	51173	Smyth County, Virginia	14.4
+2904	51175	Southampton County, Virginia	16.3
+2905	51177	Spotsylvania County, Virginia	11.9
+2906	51179	Stafford County, Virginia	10.9
+2907	51181	Surry County, Virginia	15.3
+2908	51183	Sussex County, Virginia	19.1
+2909	51185	Tazewell County, Virginia	16.1
+2910	51187	Warren County, Virginia	15
+2911	51191	Washington County, Virginia	15.5
+2912	51193	Westmoreland County, Virginia	19.7
+2913	51195	Wise County, Virginia	15.2
+2914	51197	Wythe County, Virginia	15.5
+2915	51199	York County, Virginia	10.1
+2916	51510	Alexandria city, Virginia	12.8
+2917	51515	Bedford city, Virginia	18.4
+2918	51520	Bristol city, Virginia	14.3
+2919	51530	Buena Vista city, Virginia	16.6
+2920	51540	Charlottesville city, Virginia	15.5
+2921	51550	Chesapeake city, Virginia	12.3
+2922	51570	Colonial Heights city, Virginia	15.1
+2923	51580	Covington city, Virginia	18.4
+2924	51590	Danville city, Virginia	15.3
+2925	51595	Emporia city, Virginia	18.7
+2926	51600	Fairfax city, Virginia	14.8
+2927	51610	Falls Church city, Virginia	8.4
+2928	51620	Franklin city, Virginia	16.9
+2929	51630	Fredericksburg city, Virginia	14.9
+2930	51640	Galax city, Virginia	18.9
+2931	51650	Hampton city, Virginia	13.2
+2932	51660	Harrisonburg city, Virginia	18.7
+2933	51670	Hopewell city, Virginia	17.3
+2934	51678	Lexington city, Virginia	16.5
+2935	51680	Lynchburg city, Virginia	12.9
+2936	51683	Manassas city, Virginia	18.2
+2937	51685	Manassas Park city, Virginia	20.5
+2938	51690	Martinsville city, Virginia	16.6
+2939	51700	Newport News city, Virginia	13.3
+2940	51710	Norfolk city, Virginia	15.8
+2941	51720	Norton city, Virginia	12.9
+2942	51730	Petersburg city, Virginia	16.3
+2943	51735	Poquoson city, Virginia	10.8
+2944	51740	Portsmouth city, Virginia	14.7
+2945	51750	Radford city, Virginia	15.9
+2946	51760	Richmond city, Virginia	16.2
+2947	51770	Roanoke city, Virginia	15.5
+2948	51775	Salem city, Virginia	11.9
+2949	51790	Staunton city, Virginia	15.2
+2950	51800	Suffolk city, Virginia	13.2
+2951	51810	Virginia Beach city, Virginia	11.6
+2952	51820	Waynesboro city, Virginia	17.4
+2953	51830	Williamsburg city, Virginia	10.9
+2954	51840	Winchester city, Virginia	17.9
+2955	53001	Adams County, Washington	23.4
+2956	53003	Asotin County, Washington	14.4
+2957	53005	Benton County, Washington	13.6
+2958	53007	Chelan County, Washington	19.1
+2959	53009	Clallam County, Washington	18.1
+2960	53011	Clark County, Washington	14
+2961	53013	Columbia County, Washington	18.1
+2962	53015	Cowlitz County, Washington	15.2
+2963	53017	Douglas County, Washington	19.7
+2964	53019	Ferry County, Washington	17.7
+2965	53021	Franklin County, Washington	26.1
+2966	53023	Garfield County, Washington	18.5
+2967	53025	Grant County, Washington	21.9
+2968	53027	Grays Harbor County, Washington	18
+2969	53029	Island County, Washington	12.7
+2970	53031	Jefferson County, Washington	15.9
+2971	53033	King County, Washington	11.4
+2972	53035	Kitsap County, Washington	13.1
+2973	53037	Kittitas County, Washington	16.5
+2974	53039	Klickitat County, Washington	17.7
+2975	53041	Lewis County, Washington	16.5
+2976	53043	Lincoln County, Washington	14.4
+2977	53045	Mason County, Washington	16.2
+2978	53047	Okanogan County, Washington	21.2
+2979	53049	Pacific County, Washington	19.6
+2980	53051	Pend Oreille County, Washington	14.8
+2981	53053	Pierce County, Washington	13.4
+2982	53055	San Juan County, Washington	16.4
+2983	53057	Skagit County, Washington	17.1
+2984	53059	Skamania County, Washington	14.5
+2985	53061	Snohomish County, Washington	13.3
+2986	53063	Spokane County, Washington	13.3
+2987	53065	Stevens County, Washington	15.9
+2988	53067	Thurston County, Washington	12.5
+2989	53069	Wahkiakum County, Washington	16.7
+2990	53071	Walla Walla County, Washington	15.7
+2991	53073	Whatcom County, Washington	15.9
+2992	53075	Whitman County, Washington	14.9
+2993	53077	Yakima County, Washington	24.1
+2994	54001	Barbour County, West Virginia	19.4
+2995	54003	Berkeley County, West Virginia	16.7
+2996	54005	Boone County, West Virginia	15.6
+2997	54007	Braxton County, West Virginia	19.9
+2998	54009	Brooke County, West Virginia	15.3
+2999	54011	Cabell County, West Virginia	16.4
+3000	54013	Calhoun County, West Virginia	22.2
+3001	54015	Clay County, West Virginia	19.2
+3002	54017	Doddridge County, West Virginia	23.1
+3003	54019	Fayette County, West Virginia	19.3
+3004	54021	Gilmer County, West Virginia	23.4
+3005	54023	Grant County, West Virginia	19.3
+3006	54025	Greenbrier County, West Virginia	19.3
+3007	54027	Hampshire County, West Virginia	21.4
+3008	54029	Hancock County, West Virginia	15.3
+3009	54031	Hardy County, West Virginia	17.4
+3010	54033	Harrison County, West Virginia	18
+3011	54035	Jackson County, West Virginia	16.8
+3012	54037	Jefferson County, West Virginia	15.1
+3013	54039	Kanawha County, West Virginia	16.2
+3014	54041	Lewis County, West Virginia	20.3
+3015	54043	Lincoln County, West Virginia	20.1
+3016	54045	Logan County, West Virginia	18.3
+3017	54047	McDowell County, West Virginia	18.1
+3018	54049	Marion County, West Virginia	17.5
+3019	54051	Marshall County, West Virginia	16.2
+3020	54053	Mason County, West Virginia	14.7
+3021	54055	Mercer County, West Virginia	17.4
+3022	54057	Mineral County, West Virginia	16
+3023	54059	Mingo County, West Virginia	18.8
+3024	54061	Monongalia County, West Virginia	16.9
+3025	54063	Monroe County, West Virginia	20.6
+3026	54065	Morgan County, West Virginia	19.3
+3027	54067	Nicholas County, West Virginia	19.9
+3028	54069	Ohio County, West Virginia	15.7
+3029	54071	Pendleton County, West Virginia	21.5
+3030	54073	Pleasants County, West Virginia	18
+3031	54075	Pocahontas County, West Virginia	19.7
+3032	54077	Preston County, West Virginia	21
+3033	54079	Putnam County, West Virginia	14
+3034	54081	Raleigh County, West Virginia	17.4
+3035	54083	Randolph County, West Virginia	19.2
+3036	54085	Ritchie County, West Virginia	19.7
+3037	54087	Roane County, West Virginia	20.7
+3038	54089	Summers County, West Virginia	20.4
+3039	54091	Taylor County, West Virginia	19.2
+3040	54093	Tucker County, West Virginia	20.6
+3041	54095	Tyler County, West Virginia	17.5
+3042	54097	Upshur County, West Virginia	19
+3043	54099	Wayne County, West Virginia	17.8
+3044	54101	Webster County, West Virginia	20.9
+3045	54103	Wetzel County, West Virginia	17.5
+3046	54105	Wirt County, West Virginia	23.6
+3047	54107	Wood County, West Virginia	15.6
+3048	54109	Wyoming County, West Virginia	19.2
+3049	55001	Adams County, Wisconsin	12.1
+3050	55003	Ashland County, Wisconsin	12.5
+3051	55005	Barron County, Wisconsin	11
+3052	55007	Bayfield County, Wisconsin	15
+3053	55009	Brown County, Wisconsin	9.7
+3054	55011	Buffalo County, Wisconsin	9.7
+3055	55013	Burnett County, Wisconsin	12.7
+3056	55015	Calumet County, Wisconsin	8.3
+3057	55017	Chippewa County, Wisconsin	10.8
+3058	55019	Clark County, Wisconsin	16.2
+3059	55021	Columbia County, Wisconsin	9
+3060	55023	Crawford County, Wisconsin	10.9
+3061	55025	Dane County, Wisconsin	8.2
+3062	55027	Dodge County, Wisconsin	9.4
+3063	55029	Door County, Wisconsin	11.7
+3064	55031	Douglas County, Wisconsin	10.7
+3065	55033	Dunn County, Wisconsin	10.6
+3066	55035	Eau Claire County, Wisconsin	9.6
+3067	55037	Florence County, Wisconsin	14.7
+3068	55039	Fond du Lac County, Wisconsin	8.5
+3069	55041	Forest County, Wisconsin	16.9
+3070	55043	Grant County, Wisconsin	10.6
+3071	55045	Green County, Wisconsin	10.3
+3072	55047	Green Lake County, Wisconsin	11.3
+3073	55049	Iowa County, Wisconsin	9.9
+3074	55051	Iron County, Wisconsin	14.6
+3075	55053	Jackson County, Wisconsin	13
+3076	55055	Jefferson County, Wisconsin	10.2
+3077	55057	Juneau County, Wisconsin	12
+3078	55059	Kenosha County, Wisconsin	10.6
+3079	55061	Kewaunee County, Wisconsin	10
+3080	55063	La Crosse County, Wisconsin	8.1
+3081	55065	Lafayette County, Wisconsin	12.1
+3082	55067	Langlade County, Wisconsin	11.6
+3083	55069	Lincoln County, Wisconsin	10.5
+3084	55071	Manitowoc County, Wisconsin	9.7
+3085	55073	Marathon County, Wisconsin	9.1
+3086	55075	Marinette County, Wisconsin	9.5
+3087	55077	Marquette County, Wisconsin	12
+3088	55078	Menominee County, Wisconsin	13.8
+3089	55079	Milwaukee County, Wisconsin	12.2
+3090	55081	Monroe County, Wisconsin	12.9
+3091	55083	Oconto County, Wisconsin	10.7
+3092	55085	Oneida County, Wisconsin	10.7
+3093	55087	Outagamie County, Wisconsin	9
+3094	55089	Ozaukee County, Wisconsin	6.8
+3095	55091	Pepin County, Wisconsin	12.6
+3096	55093	Pierce County, Wisconsin	9.7
+3097	55095	Polk County, Wisconsin	10.7
+3098	55097	Portage County, Wisconsin	8.9
+3099	55099	Price County, Wisconsin	10.3
+3100	55101	Racine County, Wisconsin	10.8
+3101	55103	Richland County, Wisconsin	11.7
+3102	55105	Rock County, Wisconsin	10.9
+3103	55107	Rusk County, Wisconsin	10.9
+3104	55109	St. Croix County, Wisconsin	7.8
+3105	55111	Sauk County, Wisconsin	10
+3106	55113	Sawyer County, Wisconsin	15.4
+3107	55115	Shawano County, Wisconsin	12.5
+3108	55117	Sheboygan County, Wisconsin	9.7
+3109	55119	Taylor County, Wisconsin	10.7
+3110	55121	Trempealeau County, Wisconsin	9.7
+3111	55123	Vernon County, Wisconsin	13.2
+3112	55125	Vilas County, Wisconsin	14.7
+3113	55127	Walworth County, Wisconsin	11.3
+3114	55129	Washburn County, Wisconsin	12.4
+3115	55131	Washington County, Wisconsin	7.8
+3116	55133	Waukesha County, Wisconsin	6.4
+3117	55135	Waupaca County, Wisconsin	9.6
+3118	55137	Waushara County, Wisconsin	14.2
+3119	55139	Winnebago County, Wisconsin	9.4
+3120	55141	Wood County, Wisconsin	8.9
+3121	56001	Albany County, Wyoming	15.9
+3122	56003	Big Horn County, Wyoming	17.8
+3123	56005	Campbell County, Wyoming	13.6
+3124	56007	Carbon County, Wyoming	17.4
+3125	56009	Converse County, Wyoming	14.2
+3126	56011	Crook County, Wyoming	18.2
+3127	56013	Fremont County, Wyoming	19.9
+3128	56015	Goshen County, Wyoming	16.5
+3129	56017	Hot Springs County, Wyoming	18.7
+3130	56019	Johnson County, Wyoming	18.1
+3131	56021	Laramie County, Wyoming	14.1
+3132	56023	Lincoln County, Wyoming	17
+3133	56025	Natrona County, Wyoming	15.2
+3134	56027	Niobrara County, Wyoming	22
+3135	56029	Park County, Wyoming	16.1
+3136	56031	Platte County, Wyoming	19.2
+3137	56033	Sheridan County, Wyoming	16.1
+3138	56035	Sublette County, Wyoming	15.2
+3139	56037	Sweetwater County, Wyoming	14.5
+3140	56039	Teton County, Wyoming	15.3
+3141	56041	Uinta County, Wyoming	15.5
+3142	56043	Washakie County, Wyoming	18.7
+3143	56045	Weston County, Wyoming	17.8
+3144	60010	Eastern District, NA	NA
+3145	60020	Manu'a District, NA	NA
+3146	60030	Rose Island, NA	NA
+3147	60040	Swains Island, NA	NA
+3148	60050	Western District, NA	NA
+3149	66010	Guam, NA	NA
+3150	69085	Northern Islands Municipality, NA	NA
+3151	69100	Rota Municipality, NA	NA
+3152	69110	Saipan Municipality, NA	NA
+3153	69120	Tinian Municipality, NA	NA
+3154	72001	Adjuntas Municipio, NA	NA
+3155	72003	Aguada Municipio, NA	NA
+3156	72005	Aguadilla Municipio, NA	NA
+3157	72007	Aguas Buenas Municipio, NA	NA
+3158	72009	Aibonito Municipio, NA	NA
+3159	72011	Anasco Municipio, NA	NA
+3160	72013	Arecibo Municipio, NA	NA
+3161	72015	Arroyo Municipio, NA	NA
+3162	72017	Barceloneta Municipio, NA	NA
+3163	72019	Barranquitas Municipio, NA	NA
+3164	72021	Bayamon Municipio, NA	NA
+3165	72023	Cabo Rojo Municipio, NA	NA
+3166	72025	Caguas Municipio, NA	NA
+3167	72027	Camuy Municipio, NA	NA
+3168	72029	Canovanas Municipio, NA	NA
+3169	72031	Carolina Municipio, NA	NA
+3170	72033	Catano Municipio, NA	NA
+3171	72035	Cayey Municipio, NA	NA
+3172	72037	Ceiba Municipio, NA	NA
+3173	72039	Ciales Municipio, NA	NA
+3174	72041	Cidra Municipio, NA	NA
+3175	72043	Coamo Municipio, NA	NA
+3176	72045	Comerio Municipio, NA	NA
+3177	72047	Corozal Municipio, NA	NA
+3178	72049	Culebra Municipio, NA	NA
+3179	72051	Dorado Municipio, NA	NA
+3180	72053	Fajardo Municipio, NA	NA
+3181	72054	Florida Municipio, NA	NA
+3182	72055	Guanica Municipio, NA	NA
+3183	72057	Guayama Municipio, NA	NA
+3184	72059	Guayanilla Municipio, NA	NA
+3185	72061	Guaynabo Municipio, NA	NA
+3186	72063	Gurabo Municipio, NA	NA
+3187	72065	Hatillo Municipio, NA	NA
+3188	72067	Hormigueros Municipio, NA	NA
+3189	72069	Humacao Municipio, NA	NA
+3190	72071	Isabela Municipio, NA	NA
+3191	72073	Jayuya Municipio, NA	NA
+3192	72075	Juana Diaz Municipio, NA	NA
+3193	72077	Juncos Municipio, NA	NA
+3194	72079	Lajas Municipio, NA	NA
+3195	72081	Lares Municipio, NA	NA
+3196	72083	Las Marias Municipio, NA	NA
+3197	72085	Las Piedras Municipio, NA	NA
+3198	72087	Loiza Municipio, NA	NA
+3199	72089	Luquillo Municipio, NA	NA
+3200	72091	Manati Municipio, NA	NA
+3201	72093	Maricao Municipio, NA	NA
+3202	72095	Maunabo Municipio, NA	NA
+3203	72097	Mayaguez Municipio, NA	NA
+3204	72099	Moca Municipio, NA	NA
+3205	72101	Morovis Municipio, NA	NA
+3206	72103	Naguabo Municipio, NA	NA
+3207	72105	Naranjito Municipio, NA	NA
+3208	72107	Orocovis Municipio, NA	NA
+3209	72109	Patillas Municipio, NA	NA
+3210	72111	Penuelas Municipio, NA	NA
+3211	72113	Ponce Municipio, NA	NA
+3212	72115	Quebradillas Municipio, NA	NA
+3213	72117	Rincon Municipio, NA	NA
+3214	72119	Rio Grande Municipio, NA	NA
+3215	72121	Sabana Grande Municipio, NA	NA
+3216	72123	Salinas Municipio, NA	NA
+3217	72125	San German Municipio, NA	NA
+3218	72127	San Juan Municipio, NA	NA
+3219	72129	San Lorenzo Municipio, NA	NA
+3220	72131	San Sebastian Municipio, NA	NA
+3221	72133	Santa Isabel Municipio, NA	NA
+3222	72135	Toa Alta Municipio, NA	NA
+3223	72137	Toa Baja Municipio, NA	NA
+3224	72139	Trujillo Alto Municipio, NA	NA
+3225	72141	Utuado Municipio, NA	NA
+3226	72143	Vega Alta Municipio, NA	NA
+3227	72145	Vega Baja Municipio, NA	NA
+3228	72147	Vieques Municipio, NA	NA
+3229	72149	Villalba Municipio, NA	NA
+3230	72151	Yabucoa Municipio, NA	NA
+3231	72153	Yauco Municipio, NA	NA
+3232	74300	Midway Islands, NA	NA
+3233	78010	St. Croix Island, NA	NA
+3234	78020	St. John Island, NA	NA
+3235	78030	St. Thomas Island, NA	NA
