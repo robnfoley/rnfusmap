@@ -1,0 +1,461 @@
+year,income,lifeExpectancy,population,region,name
+1990,13,98.1,62,White,Age 0 to 20 yrs.
+1990,26,96.4,83,African American,Age 0 to 20 yrs.
+1990,17,89.8,60,Asian,Age 0 to 20 yrs.
+1990,15,98.4,52,Native American,Age 0 to 20 yrs.
+1990,65,95.8,417,White,Age 21 to 39 yrs.
+1990,262,92.4,1091,African American,Age 21 to 39 yrs.
+1990,80,95.9,518,Asian,Age 21 to 39 yrs.
+1990,75,97,387,Native American,Age 21 to 39 yrs.
+1990,232,87.4,918,White,Age 40 to 64 yrs.
+1990,1088,87.9,4419,African American,Age 40 to 64 yrs.
+1990,861,85.6,2948,Asian,Age 40 to 64 yrs.
+1990,302,91.3,1203,Native American,Age 40 to 64 yrs.
+1990,615,72.7,1404,White,Age 65 to 79 yrs.
+1990,2172,77.4,6616,African American,Age 65 to 79 yrs.
+1990,2086,72.8,5220,Asian,Age 65 to 79 yrs.
+1990,1052,77.3,2721,Native American,Age 65 to 79 yrs.
+1990,430,62.6,819,White,Age 80+ yrs.
+1990,1314,68,3381,African American,Age 80+ yrs.
+1990,1153,69.6,2306,Asian,Age 80+ yrs.
+1990,854,62.7,2253,Native American,Age 80+ yrs.
+1991,13,98.3,64,White,Age 0 to 20 yrs.
+1991,22,95.8,85,African American,Age 0 to 20 yrs.
+1991,14,100,50,Asian,Age 0 to 20 yrs.
+1991,14,97.8,54,Native American,Age 0 to 20 yrs.
+1991,65,95.7,438,White,Age 21 to 39 yrs.
+1991,278,93.2,1169,African American,Age 21 to 39 yrs.
+1991,94,95.7,541,Asian,Age 21 to 39 yrs.
+1991,74,97.9,399,Native American,Age 21 to 39 yrs.
+1991,244,87.6,993,White,Age 40 to 64 yrs.
+1991,1152,88.1,4729,African American,Age 40 to 64 yrs.
+1991,887,87.1,3133,Asian,Age 40 to 64 yrs.
+1991,319,91.4,1307,Native American,Age 40 to 64 yrs.
+1991,683,72.2,1585,White,Age 65 to 79 yrs.
+1991,2355,77.3,7449,African American,Age 65 to 79 yrs.
+1991,2298,72.5,6032,Asian,Age 65 to 79 yrs.
+1991,1109,77.9,2980,Native American,Age 65 to 79 yrs.
+1991,451,62,947,White,Age 80+ yrs.
+1991,1537,67.3,3956,African American,Age 80+ yrs.
+1991,1107,68.9,2935,Asian,Age 80+ yrs.
+1991,1116,70,2437,Native American,Age 80+ yrs.
+1992,12,98.2,65,White,Age 0 to 20 yrs.
+1992,24,98,85,African American,Age 0 to 20 yrs.
+1992,13,98,59,Asian,Age 0 to 20 yrs.
+1992,20,95.8,54,Native American,Age 0 to 20 yrs.
+1992,68,95.6,458,White,Age 21 to 39 yrs.
+1992,297,92.6,1247,African American,Age 21 to 39 yrs.
+1992,114,95.3,577,Asian,Age 21 to 39 yrs.
+1992,72,98,426,Native American,Age 21 to 39 yrs.
+1992,253,87.5,1064,White,Age 40 to 64 yrs.
+1992,1248,88.1,5083,African American,Age 40 to 64 yrs.
+1992,988,86.4,3392,Asian,Age 40 to 64 yrs.
+1992,328,91.8,1411,Native American,Age 40 to 64 yrs.
+1992,754,72.3,1764,White,Age 65 to 79 yrs.
+1992,2584,77.2,8252,African American,Age 65 to 79 yrs.
+1992,2422,73.8,6675,Asian,Age 65 to 79 yrs.
+1992,1185,81,3314,Native American,Age 65 to 79 yrs.
+1992,526,62.1,1062,White,Age 80+ yrs.
+1992,1765,67.2,4478,African American,Age 80+ yrs.
+1992,1340,71.2,3373,Asian,Age 80+ yrs.
+1992,1222,70.3,3091,Native American,Age 80+ yrs.
+1993,13,98.3,66,White,Age 0 to 20 yrs.
+1993,25,96.6,89,African American,Age 0 to 20 yrs.
+1993,12,100,59,Asian,Age 0 to 20 yrs.
+1993,14,99.4,59,Native American,Age 0 to 20 yrs.
+1993,69,96.1,478,White,Age 21 to 39 yrs.
+1993,308,92.8,1331,African American,Age 21 to 39 yrs.
+1993,90,94.7,598,Asian,Age 21 to 39 yrs.
+1993,84,97.7,446,Native American,Age 21 to 39 yrs.
+1993,261,88.1,1129,White,Age 40 to 64 yrs.
+1993,1290,88.3,5442,African American,Age 40 to 64 yrs.
+1993,878,86.2,3541,Asian,Age 40 to 64 yrs.
+1993,343,92.4,1517,Native American,Age 40 to 64 yrs.
+1993,783,72.6,1929,White,Age 65 to 79 yrs.
+1993,2709,77.7,9059,African American,Age 65 to 79 yrs.
+1993,2400,75.9,7370,Asian,Age 65 to 79 yrs.
+1993,1406,81.2,3726,Native American,Age 65 to 79 yrs.
+1993,564,62.6,1215,White,Age 80+ yrs.
+1993,1745,67,5010,African American,Age 80+ yrs.
+1993,1547,68.9,3978,Asian,Age 80+ yrs.
+1993,1510,70.4,3538,Native American,Age 80+ yrs.
+1994,13,98.4,67,White,Age 0 to 20 yrs.
+1994,23,96.1,91,African American,Age 0 to 20 yrs.
+1994,13,100,61,Asian,Age 0 to 20 yrs.
+1994,13,98.3,62,Native American,Age 0 to 20 yrs.
+1994,70,96.1,499,White,Age 21 to 39 yrs.
+1994,322,93.2,1410,African American,Age 21 to 39 yrs.
+1994,113,93.9,604,Asian,Age 21 to 39 yrs.
+1994,80,98.2,464,Native American,Age 21 to 39 yrs.
+1994,275,88.1,1206,White,Age 40 to 64 yrs.
+1994,1336,87.8,5767,African American,Age 40 to 64 yrs.
+1994,968,86.3,3748,Asian,Age 40 to 64 yrs.
+1994,385,91.5,1655,Native American,Age 40 to 64 yrs.
+1994,852,73.1,2106,White,Age 65 to 79 yrs.
+1994,2968,77.9,10073,African American,Age 65 to 79 yrs.
+1994,2528,77.2,7927,Asian,Age 65 to 79 yrs.
+1994,1533,79.7,4306,Native American,Age 65 to 79 yrs.
+1994,624,61.4,1376,White,Age 80+ yrs.
+1994,1934,66.5,5479,African American,Age 80+ yrs.
+1994,1325,63.8,4489,Asian,Age 80+ yrs.
+1994,1547,63.7,4097,Native American,Age 80+ yrs.
+1995,13,98.1,70,White,Age 0 to 20 yrs.
+1995,26,97.6,96,African American,Age 0 to 20 yrs.
+1995,24,93.9,69,Asian,Age 0 to 20 yrs.
+1995,15,97.8,63,Native American,Age 0 to 20 yrs.
+1995,67,95.9,515,White,Age 21 to 39 yrs.
+1995,322,92.6,1490,African American,Age 21 to 39 yrs.
+1995,118,95.2,627,Asian,Age 21 to 39 yrs.
+1995,77,98,488,Native American,Age 21 to 39 yrs.
+1995,267,88,1272,White,Age 40 to 64 yrs.
+1995,1351,88.3,6035,African American,Age 40 to 64 yrs.
+1995,1003,86.5,3934,Asian,Age 40 to 64 yrs.
+1995,425,91.2,1779,Native American,Age 40 to 64 yrs.
+1995,852,73.1,2281,White,Age 65 to 79 yrs.
+1995,3004,77.9,10899,African American,Age 65 to 79 yrs.
+1995,3132,75.6,8983,Asian,Age 65 to 79 yrs.
+1995,1569,78.9,4802,Native American,Age 65 to 79 yrs.
+1995,647,63.2,1496,White,Age 80+ yrs.
+1995,2018,66.3,6014,African American,Age 80+ yrs.
+1995,1778,64.9,4590,Asian,Age 80+ yrs.
+1995,1802,69.4,4259,Native American,Age 80+ yrs.
+1996,13,98.5,72,White,Age 0 to 20 yrs.
+1996,25,97.2,100,African American,Age 0 to 20 yrs.
+1996,12,100,68,Asian,Age 0 to 20 yrs.
+1996,17,97.4,63,Native American,Age 0 to 20 yrs.
+1996,67,96,525,White,Age 21 to 39 yrs.
+1996,318,93.9,1558,African American,Age 21 to 39 yrs.
+1996,139,95.1,670,Asian,Age 21 to 39 yrs.
+1996,69,98,498,Native American,Age 21 to 39 yrs.
+1996,273,88.5,1327,White,Age 40 to 64 yrs.
+1996,1362,88.2,6297,African American,Age 40 to 64 yrs.
+1996,929,87.7,4020,Asian,Age 40 to 64 yrs.
+1996,409,91.8,1898,Native American,Age 40 to 64 yrs.
+1996,915,73.4,2418,White,Age 65 to 79 yrs.
+1996,3194,78,11617,African American,Age 65 to 79 yrs.
+1996,2471,75.3,9551,Asian,Age 65 to 79 yrs.
+1996,1658,79.1,5071,Native American,Age 65 to 79 yrs.
+1996,720,61.9,1636,White,Age 80+ yrs.
+1996,2369,65.7,6616,African American,Age 80+ yrs.
+1996,1632,66.9,4697,Asian,Age 80+ yrs.
+1996,2042,70.3,5130,Native American,Age 80+ yrs.
+1997,12,98.4,73,White,Age 0 to 20 yrs.
+1997,23,97,101,African American,Age 0 to 20 yrs.
+1997,6,100,61,Asian,Age 0 to 20 yrs.
+1997,15,97,63,Native American,Age 0 to 20 yrs.
+1997,67,96.1,537,White,Age 21 to 39 yrs.
+1997,311,94.1,1624,African American,Age 21 to 39 yrs.
+1997,100,95.5,685,Asian,Age 21 to 39 yrs.
+1997,84,97.7,516,Native American,Age 21 to 39 yrs.
+1997,283,88.9,1381,White,Age 40 to 64 yrs.
+1997,1350,88.6,6522,African American,Age 40 to 64 yrs.
+1997,906,88.9,4038,Asian,Age 40 to 64 yrs.
+1997,388,92.4,1991,Native American,Age 40 to 64 yrs.
+1997,991,73.8,2622,White,Age 65 to 79 yrs.
+1997,3331,78.1,12354,African American,Age 65 to 79 yrs.
+1997,2541,74.1,9784,Asian,Age 65 to 79 yrs.
+1997,1721,80.3,5342,Native American,Age 65 to 79 yrs.
+1997,851,61.6,1773,White,Age 80+ yrs.
+1997,2562,67,7078,African American,Age 80+ yrs.
+1997,1406,64.6,4960,Asian,Age 80+ yrs.
+1997,2046,72.3,5898,Native American,Age 80+ yrs.
+1998,12,98.6,73,White,Age 0 to 20 yrs.
+1998,25,97,101,African American,Age 0 to 20 yrs.
+1998,14,100,56,Asian,Age 0 to 20 yrs.
+1998,13,97.7,67,Native American,Age 0 to 20 yrs.
+1998,69,96.3,546,White,Age 21 to 39 yrs.
+1998,311,94,1674,African American,Age 21 to 39 yrs.
+1998,113,96.2,693,Asian,Age 21 to 39 yrs.
+1998,82,97.6,530,Native American,Age 21 to 39 yrs.
+1998,295,88.9,1447,White,Age 40 to 64 yrs.
+1998,1410,88.5,6738,African American,Age 40 to 64 yrs.
+1998,1001,88.3,4122,Asian,Age 40 to 64 yrs.
+1998,447,92.2,2080,Native American,Age 40 to 64 yrs.
+1998,1030,73.3,2808,White,Age 65 to 79 yrs.
+1998,3535,77.8,13224,African American,Age 65 to 79 yrs.
+1998,2824,75.2,10132,Asian,Age 65 to 79 yrs.
+1998,1790,80.3,5763,Native American,Age 65 to 79 yrs.
+1998,939,62.1,1976,White,Age 80+ yrs.
+1998,2694,66.1,7631,African American,Age 80+ yrs.
+1998,1978,64.7,5060,Asian,Age 80+ yrs.
+1998,2313,66.8,6362,Native American,Age 80+ yrs.
+1999,14,98.7,75,White,Age 0 to 20 yrs.
+1999,26,97,107,African American,Age 0 to 20 yrs.
+1999,7,97,60,Asian,Age 0 to 20 yrs.
+1999,11,98.2,65,Native American,Age 0 to 20 yrs.
+1999,70,96.4,554,White,Age 21 to 39 yrs.
+1999,313,94.1,1733,African American,Age 21 to 39 yrs.
+1999,96,94.5,674,Asian,Age 21 to 39 yrs.
+1999,84,97.9,548,Native American,Age 21 to 39 yrs.
+1999,302,89.1,1510,White,Age 40 to 64 yrs.
+1999,1403,88.5,6953,African American,Age 40 to 64 yrs.
+1999,999,87.5,4316,Asian,Age 40 to 64 yrs.
+1999,434,92.1,2202,Native American,Age 40 to 64 yrs.
+1999,1087,74.2,2984,White,Age 65 to 79 yrs.
+1999,3486,77,13860,African American,Age 65 to 79 yrs.
+1999,2617,77,10562,Asian,Age 65 to 79 yrs.
+1999,1897,80.4,6214,Native American,Age 65 to 79 yrs.
+1999,1023,62.6,2159,White,Age 80+ yrs.
+1999,2789,64.2,8188,African American,Age 80+ yrs.
+1999,1927,65.3,5336,Asian,Age 80+ yrs.
+1999,2346,66.1,6564,Native American,Age 80+ yrs.
+2000,13,98.7,77,White,Age 0 to 20 yrs.
+2000,24,97.9,108,African American,Age 0 to 20 yrs.
+2000,13,100,58,Asian,Age 0 to 20 yrs.
+2000,15,99.6,66,Native American,Age 0 to 20 yrs.
+2000,70,96.4,564,White,Age 21 to 39 yrs.
+2000,302,94.3,1775,African American,Age 21 to 39 yrs.
+2000,101,95.1,635,Asian,Age 21 to 39 yrs.
+2000,85,97.4,552,Native American,Age 21 to 39 yrs.
+2000,311,89.4,1572,White,Age 40 to 64 yrs.
+2000,1364,88.3,7099,African American,Age 40 to 64 yrs.
+2000,919,88.4,4318,Asian,Age 40 to 64 yrs.
+2000,418,92.5,2290,Native American,Age 40 to 64 yrs.
+2000,1129,74.6,3180,White,Age 65 to 79 yrs.
+2000,3530,77.5,14273,African American,Age 65 to 79 yrs.
+2000,2870,77.3,10597,Asian,Age 65 to 79 yrs.
+2000,1697,81.6,6389,Native American,Age 65 to 79 yrs.
+2000,1088,62.6,2386,White,Age 80+ yrs.
+2000,3079,66.4,8641,African American,Age 80+ yrs.
+2000,1540,68.5,5391,Asian,Age 80+ yrs.
+2000,2101,68.7,6684,Native American,Age 80+ yrs.
+2001,13,98.8,79,White,Age 0 to 20 yrs.
+2001,23,97.1,110,African American,Age 0 to 20 yrs.
+2001,18,97.5,71,Asian,Age 0 to 20 yrs.
+2001,14,98.7,65,Native American,Age 0 to 20 yrs.
+2001,69,96.4,567,White,Age 21 to 39 yrs.
+2001,302,94.3,1807,African American,Age 21 to 39 yrs.
+2001,132,94,654,Asian,Age 21 to 39 yrs.
+2001,86,98,562,Native American,Age 21 to 39 yrs.
+2001,316,89.4,1642,White,Age 40 to 64 yrs.
+2001,1381,88.4,7252,African American,Age 40 to 64 yrs.
+2001,819,88.2,4315,Asian,Age 40 to 64 yrs.
+2001,426,92.4,2368,Native American,Age 40 to 64 yrs.
+2001,1169,75,3359,White,Age 65 to 79 yrs.
+2001,3628,78.2,14514,African American,Age 65 to 79 yrs.
+2001,2396,77.6,10553,Asian,Age 65 to 79 yrs.
+2001,1763,82.6,6672,Native American,Age 65 to 79 yrs.
+2001,1134,62.7,2576,White,Age 80+ yrs.
+2001,3130,65.9,9352,African American,Age 80+ yrs.
+2001,933,70.9,5388,Asian,Age 80+ yrs.
+2001,2059,73.9,6707,Native American,Age 80+ yrs.
+2002,14,98.6,81,White,Age 0 to 20 yrs.
+2002,25,96.7,112,African American,Age 0 to 20 yrs.
+2002,9,97.5,70,Asian,Age 0 to 20 yrs.
+2002,13,98.7,65,Native American,Age 0 to 20 yrs.
+2002,68,96.5,569,White,Age 21 to 39 yrs.
+2002,303,94.5,1832,African American,Age 21 to 39 yrs.
+2002,115,95,680,Asian,Age 21 to 39 yrs.
+2002,84,97.8,582,Native American,Age 21 to 39 yrs.
+2002,315,90,1703,White,Age 40 to 64 yrs.
+2002,1382,88.5,7398,African American,Age 40 to 64 yrs.
+2002,751,88.3,4348,Asian,Age 40 to 64 yrs.
+2002,426,92.8,2443,Native American,Age 40 to 64 yrs.
+2002,1163,76.3,3530,White,Age 65 to 79 yrs.
+2002,3745,78.7,15079,African American,Age 65 to 79 yrs.
+2002,2249,79.5,10568,Asian,Age 65 to 79 yrs.
+2002,1664,82,6942,Native American,Age 65 to 79 yrs.
+2002,1227,63.8,2787,White,Age 80+ yrs.
+2002,3280,67.6,9997,African American,Age 80+ yrs.
+2002,1492,73,5321,Asian,Age 80+ yrs.
+2002,2245,72.7,7163,Native American,Age 80+ yrs.
+2003,14,98.5,83,White,Age 0 to 20 yrs.
+2003,26,97.5,114,African American,Age 0 to 20 yrs.
+2003,9,97.5,69,Asian,Age 0 to 20 yrs.
+2003,13,98.7,64,Native American,Age 0 to 20 yrs.
+2003,66,96.7,572,White,Age 21 to 39 yrs.
+2003,298,94.5,1860,African American,Age 21 to 39 yrs.
+2003,108,93.5,705,Asian,Age 21 to 39 yrs.
+2003,80,97.9,595,Native American,Age 21 to 39 yrs.
+2003,322,89.9,1764,White,Age 40 to 64 yrs.
+2003,1400,88.6,7555,African American,Age 40 to 64 yrs.
+2003,749,87.5,4237,Asian,Age 40 to 64 yrs.
+2003,428,93.2,2535,Native American,Age 40 to 64 yrs.
+2003,1168,75.9,3695,White,Age 65 to 79 yrs.
+2003,3694,78.4,15503,African American,Age 65 to 79 yrs.
+2003,2262,79.8,10772,Asian,Age 65 to 79 yrs.
+2003,1715,82.3,7061,Native American,Age 65 to 79 yrs.
+2003,1244,63.9,2974,White,Age 80+ yrs.
+2003,3299,67.4,10578,African American,Age 80+ yrs.
+2003,1003,68.1,5540,Asian,Age 80+ yrs.
+2003,2167,72.8,7485,Native American,Age 80+ yrs.
+2004,14,98.8,85,White,Age 0 to 20 yrs.
+2004,26,97.3,116,African American,Age 0 to 20 yrs.
+2004,8,97.3,65,Asian,Age 0 to 20 yrs.
+2004,12,97.9,64,Native American,Age 0 to 20 yrs.
+2004,68,96.7,575,White,Age 21 to 39 yrs.
+2004,287,94.7,1867,African American,Age 21 to 39 yrs.
+2004,119,94.2,691,Asian,Age 21 to 39 yrs.
+2004,86,97.8,610,Native American,Age 21 to 39 yrs.
+2004,328,90.4,1825,White,Age 40 to 64 yrs.
+2004,1394,88.8,7690,African American,Age 40 to 64 yrs.
+2004,750,89.3,4171,Asian,Age 40 to 64 yrs.
+2004,411,93.4,2602,Native American,Age 40 to 64 yrs.
+2004,1193,76.9,3833,White,Age 65 to 79 yrs.
+2004,3466,79.2,15681,African American,Age 65 to 79 yrs.
+2004,2205,79.7,10835,Asian,Age 65 to 79 yrs.
+2004,1638,83.3,7276,Native American,Age 65 to 79 yrs.
+2004,1277,65.1,3153,White,Age 80+ yrs.
+2004,3224,67.5,10951,African American,Age 80+ yrs.
+2004,1480,68.4,5771,Asian,Age 80+ yrs.
+2004,2063,73.5,7548,Native American,Age 80+ yrs.
+2005,14,98.8,87,White,Age 0 to 20 yrs.
+2005,25,98,118,African American,Age 0 to 20 yrs.
+2005,17,98.8,71,Asian,Age 0 to 20 yrs.
+2005,11,100,62,Native American,Age 0 to 20 yrs.
+2005,70,96.7,577,White,Age 21 to 39 yrs.
+2005,308,94.6,1880,African American,Age 21 to 39 yrs.
+2005,141,94.4,727,Asian,Age 21 to 39 yrs.
+2005,72,98.2,617,Native American,Age 21 to 39 yrs.
+2005,336,90.6,1893,White,Age 40 to 64 yrs.
+2005,1387,89.3,7823,African American,Age 40 to 64 yrs.
+2005,709,87.9,4229,Asian,Age 40 to 64 yrs.
+2005,428,93.4,2679,Native American,Age 40 to 64 yrs.
+2005,1186,77.9,3971,White,Age 65 to 79 yrs.
+2005,3504,79.6,15918,African American,Age 65 to 79 yrs.
+2005,2010,79.9,10850,Asian,Age 65 to 79 yrs.
+2005,1659,83.9,7468,Native American,Age 65 to 79 yrs.
+2005,1313,65.8,3314,White,Age 80+ yrs.
+2005,3284,67.9,11154,African American,Age 80+ yrs.
+2005,1198,67.4,5574,Asian,Age 80+ yrs.
+2005,2058,74.1,7795,Native American,Age 80+ yrs.
+2006,14,98.7,87,White,Age 0 to 20 yrs.
+2006,23,97.7,123,African American,Age 0 to 20 yrs.
+2006,18,96.9,82,Asian,Age 0 to 20 yrs.
+2006,12,97.9,60,Native American,Age 0 to 20 yrs.
+2006,72,96.9,583,White,Age 21 to 39 yrs.
+2006,308,94.8,1884,African American,Age 21 to 39 yrs.
+2006,105,95.2,726,Asian,Age 21 to 39 yrs.
+2006,83,98.2,627,Native American,Age 21 to 39 yrs.
+2006,350,90.7,1968,White,Age 40 to 64 yrs.
+2006,1428,89.6,8013,African American,Age 40 to 64 yrs.
+2006,650,89.4,4123,Asian,Age 40 to 64 yrs.
+2006,451,93.8,2755,Native American,Age 40 to 64 yrs.
+2006,1218,78.7,4152,White,Age 65 to 79 yrs.
+2006,3535,80.8,16255,African American,Age 65 to 79 yrs.
+2006,1669,82.1,10378,Asian,Age 65 to 79 yrs.
+2006,1558,84.2,7604,Native American,Age 65 to 79 yrs.
+2006,1331,65.9,3498,White,Age 80+ yrs.
+2006,3278,69.5,11316,African American,Age 80+ yrs.
+2006,973,68.4,5273,Asian,Age 80+ yrs.
+2006,2013,72.2,7793,Native American,Age 80+ yrs.
+2007,14,99.2,88,White,Age 0 to 20 yrs.
+2007,22,98.3,119,African American,Age 0 to 20 yrs.
+2007,11,96.7,78,Asian,Age 0 to 20 yrs.
+2007,14,99.6,59,Native American,Age 0 to 20 yrs.
+2007,70,97,589,White,Age 21 to 39 yrs.
+2007,305,95.1,1897,African American,Age 21 to 39 yrs.
+2007,111,94.3,720,Asian,Age 21 to 39 yrs.
+2007,90,98.1,643,Native American,Age 21 to 39 yrs.
+2007,352,91,2043,White,Age 40 to 64 yrs.
+2007,1393,90.1,8196,African American,Age 40 to 64 yrs.
+2007,609,89.7,4104,Asian,Age 40 to 64 yrs.
+2007,431,93.9,2847,Native American,Age 40 to 64 yrs.
+2007,1172,79.5,4297,White,Age 65 to 79 yrs.
+2007,3515,81.4,16665,African American,Age 65 to 79 yrs.
+2007,1786,81.5,10392,Asian,Age 65 to 79 yrs.
+2007,1535,85.3,7722,Native American,Age 65 to 79 yrs.
+2007,1319,66.9,3632,White,Age 80+ yrs.
+2007,3249,70.5,11789,African American,Age 80+ yrs.
+2007,973,72.7,4905,Asian,Age 80+ yrs.
+2007,2048,74.5,7848,Native American,Age 80+ yrs.
+2008,14,99.1,90,White,Age 0 to 20 yrs.
+2008,22,98.5,117,African American,Age 0 to 20 yrs.
+2008,11,98.9,73,Asian,Age 0 to 20 yrs.
+2008,16,97.7,62,Native American,Age 0 to 20 yrs.
+2008,72,97,591,White,Age 21 to 39 yrs.
+2008,293,95.4,1898,African American,Age 21 to 39 yrs.
+2008,102,94.9,710,Asian,Age 21 to 39 yrs.
+2008,89,98.5,659,Native American,Age 21 to 39 yrs.
+2008,354,91.5,2115,White,Age 40 to 64 yrs.
+2008,1401,90.6,8438,African American,Age 40 to 64 yrs.
+2008,638,88.4,4097,Asian,Age 40 to 64 yrs.
+2008,441,94,2912,Native American,Age 40 to 64 yrs.
+2008,1158,80.5,4420,White,Age 65 to 79 yrs.
+2008,3424,81.8,17010,African American,Age 65 to 79 yrs.
+2008,1724,79.4,10097,Asian,Age 65 to 79 yrs.
+2008,1475,86.3,7898,Native American,Age 65 to 79 yrs.
+2008,1317,68.5,3771,White,Age 80+ yrs.
+2008,3224,71.4,12195,African American,Age 80+ yrs.
+2008,1027,75.6,4907,Asian,Age 80+ yrs.
+2008,1948,75.6,7968,Native American,Age 80+ yrs.
+2009,14,98.8,90,White,Age 0 to 20 yrs.
+2009,21,97.8,115,African American,Age 0 to 20 yrs.
+2009,11,98.8,71,Asian,Age 0 to 20 yrs.
+2009,15,97.5,65,Native American,Age 0 to 20 yrs.
+2009,73,97.3,599,White,Age 21 to 39 yrs.
+2009,300,95.4,1893,African American,Age 21 to 39 yrs.
+2009,110,95.3,701,Asian,Age 21 to 39 yrs.
+2009,98,98.2,683,Native American,Age 21 to 39 yrs.
+2009,369,91.5,2196,White,Age 40 to 64 yrs.
+2009,1388,90.7,8679,African American,Age 40 to 64 yrs.
+2009,650,89,4066,Asian,Age 40 to 64 yrs.
+2009,447,94.2,2972,Native American,Age 40 to 64 yrs.
+2009,1167,81.1,4565,White,Age 65 to 79 yrs.
+2009,3498,82.7,17473,African American,Age 65 to 79 yrs.
+2009,1462,80.6,9433,Asian,Age 65 to 79 yrs.
+2009,1587,86.3,8160,Native American,Age 65 to 79 yrs.
+2009,1330,69,3968,White,Age 80+ yrs.
+2009,3201,72.3,12569,African American,Age 80+ yrs.
+2009,1236,70.6,5303,Asian,Age 80+ yrs.
+2009,1968,77.9,8198,Native American,Age 80+ yrs.
+2010,13,99,90,White,Age 0 to 20 yrs.
+2010,21,98.1,111,African American,Age 0 to 20 yrs.
+2010,10,97.7,57,Asian,Age 0 to 20 yrs.
+2010,19,99,62,Native American,Age 0 to 20 yrs.
+2010,74,97.2,622,White,Age 21 to 39 yrs.
+2010,281,95.5,1901,African American,Age 21 to 39 yrs.
+2010,95,94.7,592,Asian,Age 21 to 39 yrs.
+2010,84,98.3,632,Native American,Age 21 to 39 yrs.
+2010,368,91.6,2275,White,Age 40 to 64 yrs.
+2010,1282,91.3,8527,African American,Age 40 to 64 yrs.
+2010,533,90.3,3432,Asian,Age 40 to 64 yrs.
+2010,436,94.2,2875,Native American,Age 40 to 64 yrs.
+2010,1159,81.6,4657,White,Age 65 to 79 yrs.
+2010,3336,83,17477,African American,Age 65 to 79 yrs.
+2010,1398,80.5,9091,Asian,Age 65 to 79 yrs.
+2010,1463,86.9,8035,Native American,Age 65 to 79 yrs.
+2010,1350,68.8,4268,White,Age 80+ yrs.
+2010,3093,73.8,13294,African American,Age 80+ yrs.
+2010,999,69.5,6339,Asian,Age 80+ yrs.
+2010,2166,76.3,9373,Native American,Age 80+ yrs.
+2011,14,99.2,91,White,Age 0 to 20 yrs.
+2011,20,98.4,110,African American,Age 0 to 20 yrs.
+2011,11,97.7,56,Asian,Age 0 to 20 yrs.
+2011,17,99.4,70,Native American,Age 0 to 20 yrs.
+2011,73,97.4,626,White,Age 21 to 39 yrs.
+2011,264,95.8,1839,African American,Age 21 to 39 yrs.
+2011,86,96.3,582,Asian,Age 21 to 39 yrs.
+2011,83,98.4,634,Native American,Age 21 to 39 yrs.
+2011,367,92.2,2347,White,Age 40 to 64 yrs.
+2011,1238,91.7,8715,African American,Age 40 to 64 yrs.
+2011,505,90.2,3401,Asian,Age 40 to 64 yrs.
+2011,410,94.5,2944,Native American,Age 40 to 64 yrs.
+2011,1106,82.6,4790,White,Age 65 to 79 yrs.
+2011,3156,84.1,17676,African American,Age 65 to 79 yrs.
+2011,1264,81.8,8575,Asian,Age 65 to 79 yrs.
+2011,1406,87.8,8073,Native American,Age 65 to 79 yrs.
+2011,1274,70.7,4334,White,Age 80+ yrs.
+2011,2963,74.7,13674,African American,Age 80+ yrs.
+2011,771,74,5625,Asian,Age 80+ yrs.
+2011,2061,78.4,9483,Native American,Age 80+ yrs.
+2012,13,99.1,90,White,Age 0 to 20 yrs.
+2012,18,98.7,109,African American,Age 0 to 20 yrs.
+2012,12,96.6,58,Asian,Age 0 to 20 yrs.
+2012,20,99.2,77,Native American,Age 0 to 20 yrs.
+2012,71,97.5,630,White,Age 21 to 39 yrs.
+2012,249,96.1,1786,African American,Age 21 to 39 yrs.
+2012,83,94.5,575,Asian,Age 21 to 39 yrs.
+2012,84,98.5,624,Native American,Age 21 to 39 yrs.
+2012,376,92.3,2419,White,Age 40 to 64 yrs.
+2012,1218,92,8848,African American,Age 40 to 64 yrs.
+2012,529,91,3388,Asian,Age 40 to 64 yrs.
+2012,430,94.8,3006,Native American,Age 40 to 64 yrs.
+2012,1075,83.1,4894,White,Age 65 to 79 yrs.
+2012,3000,85,17873,African American,Age 65 to 79 yrs.
+2012,1220,84.3,8245,Asian,Age 65 to 79 yrs.
+2012,1342,88.5,8109,Native American,Age 65 to 79 yrs.
+2012,1230,72,4454,White,Age 80+ yrs.
+2012,2821,75.7,14134,African American,Age 80+ yrs.
+2012,783,78.6,5442,Asian,Age 80+ yrs.
+2012,1954,79.8,9765,Native American,Age 80+ yrs.
